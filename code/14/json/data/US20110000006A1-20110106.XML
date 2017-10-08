@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v42-2006-08-23.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.2 2006-08-23" file="US20110000006A1-20110106.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20101222" date-publ="20110106">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20110000006</doc-number>
+<kind>A1</kind>
+<date>20110106</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12497914</doc-number>
+<date>20090706</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>43</class>
+<subclass>B</subclass>
+<main-group>17</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110106</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>41</class>
+<subclass>D</subclass>
+<main-group>27</main-group>
+<subgroup>20</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110106</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>  2240</main-classification>
+<further-classification>  2250</further-classification>
+</classification-national>
+<invention-title id="d0e43">HEEL PROTECTORS</invention-title>
+<parties>
+<applicants>
+<applicant sequence="00" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Fehring</last-name>
+<first-name>Thomas K.</first-name>
+<address>
+<city>Charlotte</city>
+<state>NC</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<correspondence-address>
+<addressbook>
+<name>BLAKELY SOKOLOFF TAYLOR &#x26; ZAFMAN LLP</name>
+<address>
+<address-1>1279 OAKMEAD PARKWAY</address-1>
+<city>SUNNYVALE</city>
+<state>CA</state>
+<postcode>94085-4040</postcode>
+<country>US</country>
+</address>
+</addressbook>
+</correspondence-address>
+</parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">In order to prevent heel ulcers and Achilles' tendon ulcers as described above, a sock with a gelfoam pad or other supporting material in the Achilles' tendon area and the heel area is slid into an outside pocket of a sock. In one embodiment, a circle-shaped or oval-shaped hole is formed in the gelfoam pad in the region of the Achilles' tendon area and the heel area to relieve pressure on these areas. Non-slip material is also affixed to the sole of the sock. These socks are easily removed. Two pairs may be used for a patient such that the inserts may be removed from one for to the other so that one could be washed while the other is being used. In addition, the socks may be placed underneath the cast or on a knee immobilizer or on any bed-ridden patient at any hospital to prevent the serious problems described above.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="125.65mm" wi="114.05mm" file="US20110000006A1-20110106-D00000.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="160.95mm" wi="113.03mm" file="US20110000006A1-20110106-D00001.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="133.60mm" wi="102.28mm" file="US20110000006A1-20110106-D00002.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND</heading>
+<p id="p-0002" num="0001">Orthopedic patients and especially elderly patients with diminished mental capacity frequently have lower extremity fractures or injuries. Common treatment for these types of injuries are knee immobilizers which are made of padded material with Velcro straps and metal stays along the back. These frequently slip down and cause large pressure ulcers on the Achilles' tendon and on the heel. Once this happens, the patient is looking at months of dressing changes and possible plastic surgery intervention to cure the problem. These are extremely common problems.</p>
+<p id="p-0003" num="0002">Additionally, when people are placed in long leg casts, especially nursing home patients or the elderly who do not get adequate attention, severe heel ulcers often result.</p>
+<p id="p-0004" num="0003">Finally, there are a group of patients who, with diminished mental status or physical capacity get heel sores while lying in the bed. This problem can be magnified in patients who have diabetes or peripheral vascular disease. The diabetic patients have diminished sensation making them more susceptible to the problem. Those patients with peripheral vascular disease have diminished blood flow to the area making them more susceptible also.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0002" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0005" num="0004">A better understanding of the present invention can be obtained from the following detailed description in conjunction with the drawings, in which:</p>
+<p id="p-0006" num="0005"><figref idref="DRAWINGS">FIG. 1</figref> illustrates a sock with a pocket for holding a gelfoam pad according to one embodiment of the invention.</p>
+<p id="p-0007" num="0006"><figref idref="DRAWINGS">FIG. 2</figref> illustrates a gelfoam pad with an oval hole and a corresponding pocket into which the gelfoam pad is placed in one embodiment of the invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0003" level="1">SUMMARY</heading>
+<p id="p-0008" num="0007">In order to prevent heel ulcers and Achilles' tendon ulcers as described above, a sock with a gelfoam pad, a felt pad, or similar supporting material is slid into an outside pocket of a sock to protect the Achilles' tendon area and the heel. In one embodiment, a circle-shaped or oval-shaped hole is formed in the pad in the region of the Achilles' tendon area and the heel area to relieve pressure on these areas. Additionally, in one embodiment, non-slip material is placed on the sole of the sock to prevent falls during hospitalization. These socks are easily removed. Two pairs may be used for a patient such that the inserts may be removed from one for to the other so that one could be washed while the other is being used. In addition, the socks may be placed underneath the cast or on a knee immobilizer or on any bed-ridden patient at any hospital to prevent the serious problems described above.</p>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0009" num="0008">In one embodiment of the invention, in order to prevent heel ulcers and Achilles' tendon ulcers as described above, a sock with a pad in the Achilles' tendon area and the heel area is slid into an outside pocket of a sock. In one embodiment, a donut-shaped or oval-shaped hole is formed in the pad in the region of the Achilles' tendon area and the heel area to relieve pressure on these areas. These socks are easily removed. Two pairs may be used for a patient such that the inserts may be removed from one for to the other so that one could be washed while the other is being used. In addition, the socks may be placed underneath the cast or on a knee immobilizer or on any bed-ridden patient at any hospital to prevent the serious problems described above.</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. 1</figref> illustrates one embodiment of the invention comprised of a sock <b>102</b> with a pocket <b>101</b> affixed to the heel area of the sock <b>102</b>. The pocket <b>101</b> and sock <b>102</b> may be manufactured using various materials including, by way of example and not limitation, cotton, polyester, nylon, wool or synthetic blends of material, or any combination thereof. Of course, the underlying principles of the invention are not limited to any particular material.</p>
+<p id="p-0011" num="0010">In one embodiment, the pocket <b>101</b> and sock <b>102</b> are manufactured individually and the pocket <b>101</b> is then stitched to the back of the sock <b>102</b>. Alternatively, a sock <b>102</b> with a pocket <b>101</b> may be manufactured together as a single unit.</p>
+<p id="p-0012" num="0011">The sock <b>102</b> has an internal surface, which comes in contact with the patient's foot and an external surface, to which the pocket is affixed. As illustrated in <figref idref="DRAWINGS">FIG. 1</figref>, the external surface has a front-facing region <b>110</b> (&#x201c;front-facing&#x201d; in relation to the body of the user), an underside <b>111</b> and a posterior region <b>112</b> (covering the patient's Achilles' tendon and heel). As illustrated, in one embodiment, the pocket <b>101</b> is affixed to the posterior region <b>112</b> of the external surface of the sock <b>102</b>.</p>
+<p id="p-0013" num="0012">Additionally, in one embodiment, non-slip material is affixed to the sole of the sock to prevent falls during hospitalization.</p>
+<p id="p-0014" num="0013">As illustrated in <figref idref="DRAWINGS">FIG. 2</figref>, one embodiment of the invention includes a pad <b>201</b> formed from a gelfoam, a felt pad, or similar supporting material such as expanded polystyrene foam. In one embodiment, the pad is formed from Sorbothane, a synthetic viscoelastic polymer containing rubber silicone and elastic polymers. A hole <b>202</b> is formed in the pad <b>201</b>. The hole is positioned such that, when the pad <b>201</b> is placed into the pocket <b>101</b>, it will be located around the region of the Achilles' tendon area and the heel area of the patient to relieve pressure on these areas. In the present implementation, the pad is 16 cm long, 6.75 cm wide, and 0.7 cm deep. The hole in the pad is oval and 3.2 cm at its maximum width and 6.25 cm at its maximum height. The pocket <b>101</b> is sized to allow the pad to fit snugly between the pocket <b>101</b> and the sock <b>102</b>. In one embodiment, the pocket is 17 cm long and 7.5 cm wide, and 0.5 cm deep. Of course, various other sizes may be employed as long as the hole <b>202</b> aligns with the Achilles' tendon area and the heel area of the patient when the pad <b>201</b> is placed in the pocket <b>101</b>.</p>
+<p id="p-0015" num="0014">Moreover, various different sizes of socks, pockets and pads may be designed for different patents. In one embodiment, three different sizes are employed: extra-small, small, medium, large, and extra-large to account for patients with different sized feet.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. An apparatus for prevent pressure ulcers on patients comprising:
+<claim-text>a sock adapted to fit around a human foot;</claim-text>
+<claim-text>a pocket affixed to a posterior region of the sock and positioned to cover a portions of the Achilles' tendon area and the heel area of a patient wearing the sock; and</claim-text>
+<claim-text>a pad sized in relation to the pocket to fit snugly within the pocket, the pad having a hole formed therein and positioned to provide pressure relief in the patient's Achilles' tendon area and/or heel area when the patient is wearing the sock.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The apparatus as in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the hole is oval in shape.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The apparatus as in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the pad is formed from gelfoam.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The apparatus as in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the pad is formed from felt.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The apparatus as in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the pad is formed from Sorbothane.</claim-text>
+</claim>
+</claims>

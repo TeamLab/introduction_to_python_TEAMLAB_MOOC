@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v42-2006-08-23.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.2 2006-08-23" file="US20110000002A1-20110106.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20101222" date-publ="20110106">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20110000002</doc-number>
+<kind>A1</kind>
+<date>20110106</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12460559</doc-number>
+<date>20090721</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>63</class>
+<subclass>C</subclass>
+<main-group>11</main-group>
+<subgroup>04</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110106</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>  2  215</main-classification>
+</classification-national>
+<invention-title id="d0e43">Wetsuit made with a low-absorbent, good wicking and quick drying fabric</invention-title>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>61222448</doc-number>
+<kind>00</kind>
+<date>20090701</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="00" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Shiue</last-name>
+<first-name>Min-Chen</first-name>
+<address>
+<city>I-Lan Hsien</city>
+<country>TW</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>TW</country>
+</residence>
+</applicant>
+</applicants>
+<correspondence-address>
+<addressbook>
+<name>LEONARD TACHNER, A PROFESSIONAL LAW;CORPORATION</name>
+<address>
+<address-1>17961 SKY PARK CIRCLE, SUITE 38-E</address-1>
+<city>IRVINE</city>
+<state>CA</state>
+<postcode>92614</postcode>
+<country>US</country>
+</address>
+</addressbook>
+</correspondence-address>
+</parties>
+<assignees>
+<assignee>
+<orgname>SHEI CHUNG HSIN IND. CO. LTD.</orgname>
+<role>03</role>
+</assignee>
+</assignees>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An improved low-absorbent, good wicking and quick drying wetsuit fabric is made of non-absorbent fiber, processed with water repellent before being knitted, and high-absorbent fiber, processed with absorbent agent while being dyed and/or heat set, then knitted by a circular knitting machine under a setting of 18&#x2dc;42 gauge per inches to form a structure of two-layer fabric. The outer side (the non-absorbent fiber) touches the skin of the wetsuit wearer to wick out the water, leaked into the space between the wearer and the wetsuit, quicker and make the wearer feel dry and comfortable. The inner side (the high-absorbent fiber) is laminated with rubber sponge to absorb the water, leaked from the body of the wetsuit, and wick the water out through the outer side (the non-absorbent fiber). Appropriate cutting and sewing steps are employed to finish the formation of the wetsuit. In an alternative embodiment, the outer side may comprise a fiber made of a combination of non-absorbent yarn and absorbent yarn.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="94.57mm" wi="200.58mm" file="US20110000002A1-20110106-D00000.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="239.61mm" wi="104.56mm" file="US20110000002A1-20110106-D00001.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="217.00mm" wi="191.52mm" orientation="landscape" file="US20110000002A1-20110106-D00002.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="229.02mm" wi="134.87mm" file="US20110000002A1-20110106-D00003.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="213.19mm" wi="129.20mm" orientation="landscape" file="US20110000002A1-20110106-D00004.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims priority from U.S. Provisional Patent Application Ser. No. 61/222,448 filed Jul. 1, 2009.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">1. Field of the Invention</p>
+<p id="p-0004" num="0003">The present invention relates generally to the field of wetsuits used for diving, surfing and the like, and more specifically to an improved low-absorbent, good wicking and quick drying wetsuit fabric that is made of non-absorbent fiber, processed with water repellent before being knitted, and high-absorbent fiber, processed with absorbent agent while being dyed and/or heat set, then knitted by a circular knitting machine under a setting of 18&#x2dc;42 gauge per inches to form a structure of two-layer fabric. The outer side (the non-absorbent fiber) touches the skin of the wetsuit wearer to wick out the water, leaked into the space between the wearer and the wetsuit, quicker and make the wearer feel dry and comfortable. The inner side (the high-absorbent fiber) is laminated with rubber sponge to absorb the water, leaked from the body of the wetsuit, and wick the water out through the outer side (the non-absorbent fiber).</p>
+<p id="p-0005" num="0004">The non-absorbent fiber is selected from the group of polyester, polyamide or polypropylene having a fineness ranging from 30 denier to 200 denier, and processed with water repellent before knitting, and the high-absorbent fiber is selected from the group of polyester or polyamide having a fineness ranging from 30 denier to 200 denier, and processed with an absorbent agent while dying and/or heat setting.</p>
+<p id="p-0006" num="0005">The present invention comprising the newly improved low-absorbent, good wicking and quick drying fabric that forms the wetsuit, not only provides the wearer a dry and comfortable inner feel, but also is easy to take off or put back on after use.</p>
+<p id="p-0007" num="0006">2. Background Art</p>
+<p id="p-0008" num="0007">After wearing a conventional wetsuit for a certain time while diving or related activities, where the wearer is immersed in the water, the water will leak into the space between the wetsuit and the wearer from neck, end of sleeves or legs, or wetsuit directly. Such leaked water will cause the wearer to feel cold, heavy, and uncomfortable, especially when the wearer leaves the water. Furthermore, it is difficult to take the wetsuit off when the wetsuit has absorbed water, especially when the wearer puts on the wet, cold, and water absorbed wetsuit again.</p>
+<p id="p-0009" num="0008">It would be highly advantageous if it were possible to make the water between the space of wearer and wetsuit, wick out quicker and dry sooner. That will make the wearer feel dry, more comfortable, and make it easier to take the wetsuit off, subsequently re-wear it, or even obviate the need to take it off because the wetsuit will be much drier or more comfortable out of the water as compared to wetsuits made of more conventional fabrics.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0010" num="0009">The present invention comprises a wetsuit used for diving, surfing and the like, and more specifically to a wetsuit made of an improved low-absorbent, good wicking and quick drying fabric.</p>
+<p id="p-0011" num="0010">The improved low-absorbent, good wicking and quick drying fabric is made of non-absorbent fiber and high-absorbent fiber that form a structure of two-layer fabric. The outer side (the non-absorbent fiber) touches the skin of wetsuit wearer to wick the water, leaked into the space between the wearer and the wetsuit, out quicker and make the wearer feel dry and comfortable. The inner side (the high-absorbent fiber) is laminated with rubber sponge to absorb the water, leaked from the body of the wetsuit, and wick the water out through the outer side (the non-absorbent fiber).</p>
+<p id="p-0012" num="0011">Both the non-absorbent fiber and the high-absorbent fiber are selected from the group of polyester and polyamide.</p>
+<p id="p-0013" num="0012">The non-absorbent fiber is processed with water repellent before being knitted and the high-absorbent fiber is processed with the absorbent agent later while being dyed. This series of steps provides the performance and capabilities of low absorbent, good wicking and quick drying and makes the wetsuit wearer feel light, dry, and comfortable after leaving the water.</p>
+<p id="p-0014" num="0013">Both the non-absorbent fiber and the high-absorbent fiber have a fineness ranging from 30 denier to 200 denier,</p>
+<p id="p-0015" num="0014">The non-absorbent fiber and the high-absorbent fiber are knitted by a circular knitting machine under a setting of 18&#x2dc;42 gauge per inches.</p>
+<p id="p-0016" num="0015">The finished low-absorbent, good wicking and quick drying fabric is at a weight of 20.7 g/M<sup>2 </sup>(and is preferably in the range of 100 g/M<sup>2 </sup>to 340 g/M<sup>2</sup>) gram/yard, a width of 56 inches (preferably in the range of 50 to 72 inches), and the elongation capability in the vertical is 160% and horizontal directions is 130%. Elongation in either direction is preferably in the range of 100% to 300%.</p>
+<p id="p-0017" num="0016">The improved low-absorbent, good wicking and quick drying wetsuit fabric is laminated with a rubber sponge material. Appropriate cutting and sewing steps are employed to finish the formation of wetsuit.</p>
+<p id="p-0018" num="0017">Compared with conventional wetsuit fabric, the newly improved low-absorbent, good wicking and quick drying wetsuit fabric of the present invention offers excellent performance. In testing the inventive fabric to compare its drying time to conventional wetsuit fabric, it took approximately three minutes to dry to the same degree that it took a conventional fabric at least 30 minutes. It is believed to be the first time that wetsuit fabric is made of rubber sponge laminated with low-absorbent, good wicking and quick drying fabric, comprising non-absorbent fiber, processed with the water repellent before knitted, and high-absorbent fiber, processed with the absorbent agent while being dyed and/or being heat set.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0019" num="0018">The aforementioned objects and advantages of the present invention, as well as additional objects and advantages thereof, will be more fully understood herein after as a result of a detailed description of a preferred embodiment when taken in conjunction with the following drawings in which:</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 1</figref> is a flow chart showing the process of making a wetsuit fabric of the present invention;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 2</figref>, comprising <figref idref="DRAWINGS">FIGS. 2A and 2B</figref>, is a cross sectional view showing two alternative embodiments of the structure of the fabric used in the present invention;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 3</figref> is the flow chart showing the process of making a wetsuit fabric of the conventional process; and</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 4</figref> is a cross sectional view showing the structure of the fabric used to manufacture the conventional wetsuit.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF A PREFERRED EMBODIMENT</heading>
+<p id="p-0024" num="0023">With reference to <figref idref="DRAWINGS">FIG. 1</figref>, the process of manufacturing the wetsuit of the present invention comprises the steps of pre-processing (<b>10</b>) the non-absorbent fabric with the water repellent before knitting to support the capability of good wicking and quicker drying, knitting (<b>20</b>), dyeing (<b>30</b>), processing with absorbent agent (<b>40</b>) to strengthen the capability of absorbency, heat setting (<b>50</b>), processing with absorbent agent (<b>60</b>) to strengthen the capability of absorbency if needed, laminating (<b>70</b>), and cutting and sewing (<b>80</b>). The improved low-absorbent, good wicking and quick drying fabric, used to manufacture a wetsuit, is made of the non-absorbent fiber, processed with the water repellent before knitting, and high-absorbent fiber, processed with the absorbent agent while being dyed, then knitted by a circular knitting machine under a setting of 18&#x2dc;42 gauge per inches.</p>
+<p id="p-0025" num="0024">The improved low-absorbent, good wicking and quick drying fabric is made of a combination of non-absorbent fiber and high-absorbent fiber to form a two-layer structure fabric as shown in <figref idref="DRAWINGS">FIG. 2A</figref>. The outer side (the non-absorbent fiber <b>11</b>) touches the skin of a wetsuit wearer to wick the water out that leaked into the space between the wearer and the wetsuit, quicker and make the wearer feel dry and comfortable. The inner side (the high-absorbent fiber <b>12</b>) is laminated with rubber sponge to absorb the water, leaked from the body of the wetsuit, and wick the water out through the outer side (the non-absorbent fiber). Both the non-absorbent fiber and the high-absorbent fiber are selected from the group of polyester and polyamide having a fineness ranging from 30 denier to 200 denier. As shown in <figref idref="DRAWINGS">FIG. 2B</figref>, the outer side may alternatively be made of a combination of non-absorbent and absorbent fabrics in a ratio of between about 3:1 and 5:1 with 4:1 being preferred.</p>
+<p id="p-0026" num="0025">With reference to <figref idref="DRAWINGS">FIG. 3</figref>, the conventional process of manufacturing the wetsuit includes knitting (<b>110</b>), dyeing (<b>120</b>), heat setting (<b>130</b>), laminating (<b>140</b>), and cutting and sewing (<b>150</b>). The conventional wetsuit is made of a normal fabric having a normal structure (as shown in <figref idref="DRAWINGS">FIG. 4</figref>) without a capability for wicking and makes the wetsuit wearer feel cold, heavy, and uncomfortable when the wearer leaves the water. Furthermore, it is difficult to take the wetsuit off when the wetsuit is soaked with water, especially when the wearer wears the wet, cold, and water absorbed wetsuit again soon after taking the wetsuit off when he/she leaves the water.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>I claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A wetsuit manufactured from an improved fabric comprising a combination of non-absorbent fiber and high-absorbent fiber.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The wetsuit recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein both the non-absorbent fiber and high-absorbent fiber are selected from the group of polyester and polyamide yarns.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The wetsuit recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein both the non-absorbent fiber and high-absorbent fiber have a fineness ranging from 30 denier to 200 denier.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The wetsuit recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said non-absorbent fiber is processed with water repellent before being knitted.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The wetsuit recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said high-absorbent fiber is processed with an absorbent agent while being dyed and/or while being heat set.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The wetsuit recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the non-absorbent fiber and the high-absorbent fiber are knitted by a circular knitting machine under a setting of 18&#x2dc;42 gauge per inches to form a structure of two-layer fabric.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The wetsuit fabric recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising a rubber sponge material lamination to form an improved low-absorbent, good wicking and quick drying wetsuit fabric. </claim-text>
+</claim>
+</claims>

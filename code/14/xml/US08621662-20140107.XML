@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v44-2013-05-16.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v4.4 2013-05-16" file="US08621662-20140107.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20131224" date-publ="20140107">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>08621662</doc-number>
+<kind>B2</kind>
+<date>20140107</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>13175987</doc-number>
+<date>20110705</date>
+</document-id>
+</application-reference>
+<us-application-series-code>13</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>64</class>
+<subclass>G</subclass>
+<main-group>6</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20140107</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>  2  211</main-classification>
+<further-classification>  2  213</further-classification>
+</classification-national>
+<invention-title id="d2e43">Adjustable shoulder device for hard upper torso suit</invention-title>
+<us-references-cited>
+<us-citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>2967305</doc-number>
+<kind>A</kind>
+<name>Scott et al.</name>
+<date>19610100</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2  214</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>3406723</doc-number>
+<kind>A</kind>
+<name>Cornell</name>
+<date>19681000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>138121</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>3492672</doc-number>
+<kind>A</kind>
+<name>Korabowski et al.</name>
+<date>19700200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2  213</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>3564611</doc-number>
+<kind>A</kind>
+<name>Hardy et al.</name>
+<date>19710200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2  213</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>3628189</doc-number>
+<kind>A</kind>
+<name>Marroni et al.</name>
+<date>19711200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2  214</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>4091465</doc-number>
+<kind>A</kind>
+<name>Webbon et al.</name>
+<date>19780500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2  211</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00007">
+<document-id>
+<country>US</country>
+<doc-number>4593415</doc-number>
+<kind>A</kind>
+<name>Vykukal</name>
+<date>19860600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2  212</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00008">
+<document-id>
+<country>US</country>
+<doc-number>4598428</doc-number>
+<kind>A</kind>
+<name>Vykukal</name>
+<date>19860700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2  212</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00009">
+<document-id>
+<country>US</country>
+<doc-number>4842224</doc-number>
+<kind>A</kind>
+<name>Cohen</name>
+<date>19890600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>2441719</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00010">
+<document-id>
+<country>US</country>
+<doc-number>4887749</doc-number>
+<kind>A</kind>
+<name>Kosmo et al.</name>
+<date>19891200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00011">
+<document-id>
+<country>US</country>
+<doc-number>5068919</doc-number>
+<kind>A</kind>
+<name>MacKendrick et al.</name>
+<date>19911200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2  212</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00012">
+<document-id>
+<country>US</country>
+<doc-number>5092129</doc-number>
+<kind>A</kind>
+<name>Bayes et al.</name>
+<date>19920300</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00013">
+<document-id>
+<country>US</country>
+<doc-number>5115859</doc-number>
+<kind>A</kind>
+<name>Roebelen, Jr. et al.</name>
+<date>19920500</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00014">
+<document-id>
+<country>US</country>
+<doc-number>5511542</doc-number>
+<kind>A</kind>
+<name>Hall</name>
+<date>19960400</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00015">
+<document-id>
+<country>US</country>
+<doc-number>5697108</doc-number>
+<kind>A</kind>
+<name>Culbertson, Jr.</name>
+<date>19971200</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00016">
+<document-id>
+<country>US</country>
+<doc-number>6158050</doc-number>
+<kind>A</kind>
+<name>MacKendrick</name>
+<date>20001200</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2  212</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00017">
+<document-id>
+<country>US</country>
+<doc-number>6256786</doc-number>
+<kind>B1</kind>
+<name>Dean</name>
+<date>20010700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2  211</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00018">
+<document-id>
+<country>US</country>
+<doc-number>6681589</doc-number>
+<kind>B2</kind>
+<name>Brudnicki</name>
+<date>20040100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<patcit num="00019">
+<document-id>
+<country>US</country>
+<doc-number>6725464</doc-number>
+<kind>B2</kind>
+<name>Humphrey</name>
+<date>20040400</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2  215</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00020">
+<document-id>
+<country>US</country>
+<doc-number>6742193</doc-number>
+<kind>B2</kind>
+<name>Graziosi et al.</name>
+<date>20040600</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>  2456</main-classification></classification-national>
+</us-citation>
+<us-citation>
+<patcit num="00021">
+<document-id>
+<country>US</country>
+<doc-number>6968075</doc-number>
+<kind>B1</kind>
+<name>Chang</name>
+<date>20051100</date>
+</document-id>
+</patcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00022">
+<othercit>European Search Report for EP Application No. 12162779.8, Aug. 31, 2012.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00023">
+<othercit>Lerner A: &#x201c;Pressurized Sleeve.&#x201d; NTIS Tech Notes, US Department of Commerce, Springfield, VA, US, Nov. 1, 1988, p. 994, XP000002371, ISSN: 0889-8464.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00024">
+<othercit>Desert Research and Technology Studies 2008 Report; Barbara Romig, Joseph Kosmo, Michael Gernhardt and Andrew Abercromby; 2009-01-2563; SAE International; 13 pages.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00025">
+<othercit>Continued Research in EVA, Navigation, Networking and Communication Systems; Sean Murray, David Rosenbush, Michael R. Davis, Ross Okazaki, Fred Hunter, Pavlo Rudakevych; SAE Technical Paper Series, 2008-01-2029; 38th International Conference on Environmental Systems, San Francisco, California, Jun. 29-Jul. 2, 2008; 11 pages.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00026">
+<othercit>Requirements and Potential for Enhanced EVA Information Interfaces; Edward Hodgson, Ronald Sidgreaves, Stephen Braham, Jeffrey Hoffman, Christopher Carr, Pascal lee, Jose Marmolejo, Jonathan Miller, Ilia Rosenberg, Steven Schwartz; SAE Technical Paper Series; 2003-01-2413; 33rd International Conference on Environmental Systems (ICES) Vancouver, B.C., Canada, Jul. 7-10, 2003; 19 pages.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00027">
+<othercit>Investigation of EVA Information Interface Technology in a Mars Analog Arctic Field Science Setting; Michael F. Boucher, Edward Hodgson, Sean K Murray, Pascal Lee, Stephen Braham; SAE Technical Paper Series, 2002-01-2312; 32nd International Conference on Environmental Systems, San Antonio, Texas, Jul. 15-18, 2002; 14 pages.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00028">
+<othercit>Pressurized Rover-Based IVA Field Science; Lessons Learned From Moon and Mars Analog Studies at the Haughton-Mars Project, Devon Island, High Artic; Pascal Lee, Stephen Braham, Matthew Deans, Gerrence Fong, Essam Heggy, Mark Helper, Edward Hodgson, Stephen J. Hoffman, John W. Schutt; 42nd Lunar and Planetary Science Conference (2011); 2 pages.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00029">
+<othercit>An Advanced EVA System for Planetary Exploration; Edward W. Hodgson Jr. and Tracy L. Guyer, SAE Technical Paper Series, 981630; 28th International Conference on Environmental Systems, Danvers, Massachusetts, Jul. 13-16, 1998; 19 pages.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+<us-citation>
+<nplcit num="00030">
+<othercit>1960s Hamilton Standard mobility suit.</othercit>
+</nplcit>
+<category>cited by applicant</category>
+</us-citation>
+</us-references-cited>
+<number-of-claims>11</number-of-claims>
+<us-exemplary-claim>2</us-exemplary-claim>
+<us-field-of-classification-search>
+<classification-national>
+<country>US</country>
+<main-classification>  2  21-  214</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>  2456</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>138121</main-classification>
+</classification-national>
+</us-field-of-classification-search>
+<figures>
+<number-of-drawing-sheets>5</number-of-drawing-sheets>
+<number-of-figures>11</number-of-figures>
+</figures>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>61474443</doc-number>
+<date>20110412</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20120260387</doc-number>
+<kind>A1</kind>
+<date>20121018</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="001" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>Thomas</last-name>
+<first-name>Kenneth S.</first-name>
+<address>
+<city>Manchester</city>
+<state>CT</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="001" designation="us-only">
+<addressbook>
+<last-name>Thomas</last-name>
+<first-name>Kenneth S.</first-name>
+<address>
+<city>Manchester</city>
+<state>CT</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Carlson, Gaskey &#x26; Olds, P.C.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</us-parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Hamilton Sundstrand Space Systems International, Inc.</orgname>
+<role>02</role>
+<address>
+<city>Windsor Locks</city>
+<state>CT</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Quinn</last-name>
+<first-name>Richale</first-name>
+<department>3765</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A suit includes a hard upper torso providing shoulder apertures. A repositionable scye bearing is arranged at a shoulder aperture. An adjustable shoulder device interconnects the scye bearing and the hard upper torso. The adjustable shoulder device is configured to move the scye bearing between first and second shoulder width positions relative to the hard upper torso. A method of donning a suit includes the steps of adjusting a scye bearing relative to a hard upper torso to a desired shoulder width position. The scye bearing can be subsequently repositioned for desired crewmember fit and use while the desired shoulder width position is maintained.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="168.83mm" wi="248.84mm" file="US08621662-20140107-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="202.52mm" wi="162.81mm" file="US08621662-20140107-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="239.18mm" wi="154.26mm" file="US08621662-20140107-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="223.94mm" wi="157.56mm" file="US08621662-20140107-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="240.45mm" wi="149.44mm" file="US08621662-20140107-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="204.72mm" wi="139.28mm" file="US08621662-20140107-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims priority to U.S. Provisional Application No. 61/474,443 which was filed on Apr. 12, 2011.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<p id="p-0003" num="0002">In extra-vehicular activity (EVA) pressure suit design, it is desirable to properly position a subject with respect to the pressure suit. The suit typically includes bearings that enable sections of the suit to rotate relative to one another. One such bearing is a scye bearing that is provided in each shoulder area of the suit. Proper positioning of the suit relative to the subject is needed to achieve and maintain alignment of subject's joints with the suit's joints for effective mobility and efficient performance of EVA tasks. An inherent conflict exists between this need and the requirement for significant clearance between the suit and body to allow a practical donning process.</p>
+<p id="p-0004" num="0003">Typical NASA design concepts for planetary exploration spacesuits use a rear entry system in which the crew enters the suit through a hatch in the back of a hard (or partially hard) upper torso (HUT). Rear entry spacesuits have a traditional donning problem. For use, the shoulder holes need to be on the sides. With both a hard upper torso and a pressurized soft upper torso, the shoulder holes are typically fixed in one position.</p>
+<p id="p-0005" num="0004">Chest breadth varies from subject to subject. This makes optimal fit from even a limited number of upper torso sizes almost impossible. To further complicate fit, U.S. space programs traditionally carry the conflicting goals of supporting 5<sup>th </sup>percentile Asian female to 95<sup>th </sup>percentile American male subjects yet desiring a minimum inventory of suit sizes or modules.</p>
+<p id="p-0006" num="0005">In the 1960s Hamilton Standard designed and made a mobility suit that was quite flexible through the subject's range of motion. The suit was soft and did not utilize scye bearings. A cord restraint system was provided in the shoulder areas that allowed the shoulder and upper arm to move in any direction or position to be anthropomorphically compliant while pressurized. During that period, Hamilton Standard developed a non-flexing when pressurized cord sizing adjustment system for pressure suit limbs. In this system, areas could be lengthened or shortened by pulling in or letting out the cord.</p>
+<heading id="h-0003" level="1">SUMMARY</heading>
+<p id="p-0007" num="0006">A suit includes a hard upper torso providing shoulder apertures. A repositionable scye bearing is arranged at a shoulder aperture. An adjustable shoulder device interconnects the scye bearing and the hard upper torso. The adjustable shoulder device is configured to move the scye bearing between first and second shoulder width positions relative to the hard upper torso.</p>
+<p id="p-0008" num="0007">A method of donning a suit includes the steps of adjusting a scye bearing relative to a hard upper torso to a desired shoulder width position. The desired shoulder width position is maintained.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0009" num="0008">The disclosure can be further understood by reference to the following detailed description when considered in connection with the accompanying drawings wherein:</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. 1A</figref> illustrates a subject donning a suit.</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 1B</figref> illustrates the subject with the suit donned.</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 2A</figref> is a schematic of an adjustable shoulder device at the widest width</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 2B</figref> is a schematic of the adjustable shoulder device at the narrowest width.</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 3</figref> is a schematic plan view of the adjustable shoulder dev-ice.</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 4A</figref> is a top elevational view of a first anchor secured to a hard upper torso.</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 4B</figref> is a side elevational view of the first anchor illustrated in <figref idref="DRAWINGS">FIG. 4A</figref>.</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 5A</figref> is a top elevational view of a second anchor secured to a scye bearing.</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 5B</figref> is a side elevational view of the second anchor.</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 6A</figref> is a top elevational view of an example length fixing device.</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 6B</figref> is a side view of the length fixing device illustrated in <figref idref="DRAWINGS">FIG. 6A</figref>.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIGS. 1A and 1B</figref> depict a suit for use in extra vehicular activity for surface missions to asteroids, Mars and other such applications. The example for a subject <b>10</b> is of a type having a rear entry system. The suit <b>12</b> includes a hard upper torso (HUT) <b>14</b> with an optional waist bearing <b>16</b>. A soft lower torso <b>18</b> is connected to the waist bearing <b>16</b>, in the example shown. The HUT <b>14</b> includes a shell <b>30</b> that supports a visor <b>20</b> and a primary life support system <b>22</b>A (shown in the open position in <figref idref="DRAWINGS">FIG. 1A</figref>) attached behind entry opening on the rear hatch. Additionally, life support and communication components <b>22</b>B can be located in protrusions in the HUT <b>14</b> ahead of the entry opening but outside the crewmember's entry envelope. Shoulder apertures <b>31</b> are provided in the shell <b>30</b> at a fixed spacing relative to one another.</p>
+<p id="p-0022" num="0021">The suit <b>12</b> has a fabric bellows <b>28</b> between the shoulder apertures <b>31</b> of the HUT <b>14</b> and the scye bearings <b>24</b> that are connected to shoulders <b>26</b>. A redundant cord restraint system <b>32</b> provides load bearing structure between the shoulder apertures <b>31</b> and the scye bearings <b>24</b>. The bellows <b>28</b> are in-board of the cord restraint system and provide pressure retention between the scye bearing <b>24</b> to the shell <b>30</b>. The bellows <b>28</b> and cord restraint system <b>32</b> are configured to allow the scye bearing <b>24</b> to be moved to an optimal position for placing the subject's arms through the shoulder apertures <b>31</b>, bellows <b>28</b>, scye bearings <b>24</b>, shoulders <b>26</b> and arms during donning. The bellows <b>28</b> and cord restraint system <b>32</b> then permit the scye bearing <b>24</b> to be repositioned for optimal crewmember fit and use.</p>
+<p id="p-0023" num="0022">A given HUT <b>14</b> must accommodate subjects having differing shoulder widths. To accommodate these differences, the redundant cord restraint system <b>32</b> can additionally provide shoulder width adjustment between the scye bearings <b>24</b> and the shell <b>30</b>, as illustrated in <figref idref="DRAWINGS">FIGS. 2A-3</figref>, to move the scye bearing <b>24</b> between first (<figref idref="DRAWINGS">FIG. 2A</figref>) and second (<figref idref="DRAWINGS">FIG. 2B</figref>) shoulder width positions W<b>1</b>, W<b>2</b> relative to the shell <b>30</b>.</p>
+<p id="p-0024" num="0023">In one example, the adjustable shoulder device <b>32</b> includes first anchors <b>34</b> secured to the shell <b>30</b> and second anchors <b>36</b> secured to the scye bearing <b>24</b>. A first cord <b>38</b> interconnects the first and second anchors <b>34</b>, <b>36</b>, (at the points labeled &#x201c;A&#x201d;), as schematically illustrated in <figref idref="DRAWINGS">FIG. 3</figref>. A second cord <b>40</b> is provided between the first and second anchors <b>34</b>, <b>36</b> (at the points labeled &#x201c;B&#x201d;) to provide redundancy in the event of a failure of the first cord <b>38</b>. In the example, the first and second cords, <b>38</b>, <b>40</b> are arranged over the bellows <b>28</b>. The first and second cords <b>38</b>, <b>40</b> are slideable with respect to the first and second anchors <b>34</b>, <b>36</b>.</p>
+<p id="p-0025" num="0024">The first cord <b>38</b> includes first free ends <b>42</b> positioned at a common anchor in the example shown. The first free ends <b>42</b> cooperate with a length fixing device <b>46</b> that shortens or lengthens the first cord <b>38</b> to adjust the shoulder width. A second length fixing device <b>47</b> receives second free ends <b>44</b> of the second cord <b>40</b> for operation in a manner similar to that described relative to the first cord <b>38</b>. It should be understood that the length fixing devices may only receive one free end of its respective cord, while the other free end may be affixed to a structure, such as the scye bearing <b>24</b> or HUT <b>14</b>.</p>
+<p id="p-0026" num="0025">At least one of the first and second cords <b>38</b>, <b>40</b> are shortened or lengthened to permit the scye bearings <b>24</b> to move laterally outward or inward relative to the shoulder aperture <b>31</b>, as shown in <figref idref="DRAWINGS">FIGS. 2A and 2B</figref>. Hereinafter, only the first cord <b>38</b> will be discussed.</p>
+<p id="p-0027" num="0026">A first shoulder width W<b>1</b>, which corresponds to a first length of the cord <b>38</b> interconnecting the first and second anchors <b>34</b>, <b>36</b>, accommodates subjects with wide shoulders (<figref idref="DRAWINGS">FIG. 2A</figref>). The first cord <b>38</b> may be shortened to a second length, which interconnects the first and second anchors <b>34</b>, <b>36</b>, to move the scye bearing <b>24</b> laterally inward relative to the shoulder aperture <b>31</b> and provide a second width W<b>2</b> that accommodates subjects with narrow shoulders (<figref idref="DRAWINGS">FIG. 2B</figref>).</p>
+<p id="p-0028" num="0027">The first anchors <b>34</b> are illustrated in more detail in <figref idref="DRAWINGS">FIGS. 4A and 4B</figref>. A bracket <b>48</b> is secured to the shell <b>30</b> by a fastener <b>50</b>. The bellows <b>28</b> include a seal <b>62</b> that is captured between a clamp <b>60</b> and the shell <b>30</b>. The clamp <b>60</b> is secured to the shell <b>30</b> by the fastener <b>50</b>, which is shared by the bracket <b>48</b>.</p>
+<p id="p-0029" num="0028">An attachment <b>52</b> is supported by the bracket <b>48</b> with a pivot pin <b>56</b>, which enables the attachment <b>52</b> to articulate relative to the brackets <b>48</b> about the pivot pin <b>56</b>. The attachment <b>52</b> carries a slider <b>54</b> that slideably supports the first cord <b>38</b>. The slider <b>54</b>, which may include a groove that locates and guides the cord <b>38</b>, is secured to the attachment <b>52</b> by fastener <b>58</b>. One or both of the slider <b>54</b> and the cord <b>38</b> may be constructed from a low friction material, such as TEFLON, which enables the cord <b>38</b> to more easily slide relative to the slider <b>54</b>.</p>
+<p id="p-0030" num="0029">The second anchors <b>36</b> are illustrated in more detail in <figref idref="DRAWINGS">FIGS. 5A and 5B</figref>. A bracket <b>64</b> is secured to the shell <b>30</b> by a fastener <b>66</b>. The bellows <b>28</b> include a seal <b>78</b> that is captured between a clamp <b>76</b> and the shell <b>30</b>. The clamp <b>76</b> is secured to the shell <b>30</b> by the fastener <b>66</b>, which is shared by the bracket <b>64</b>.</p>
+<p id="p-0031" num="0030">An attachment <b>68</b> is supported by the bracket <b>64</b> with a pivot pin <b>72</b>, which enables the attachment <b>68</b> to articulate relative to the brackets <b>64</b> about the pivot pin <b>72</b>. The attachment <b>68</b> carries a slider <b>70</b> that slideably supports the first cord <b>38</b>. The slider <b>70</b>, which may include a groove that locates and guides the cord <b>38</b>, is secured to the attachment <b>68</b> by fastener <b>74</b>. One or both of the slider <b>70</b> and the cord <b>38</b> may be constructed from a low friction material, such as TEFLON, which enables the cord <b>38</b> to more easily slide relative to the slider <b>70</b>.</p>
+<p id="p-0032" num="0031">The example length fixing device <b>46</b> is illustrated in more detail in <figref idref="DRAWINGS">FIGS. 6A and 6B</figref>. The length fixing device <b>46</b> include a reel <b>80</b> having a base <b>82</b> secured to the shell <b>30</b>. The first free ends <b>42</b> of the cords <b>38</b> are received by the base <b>82</b>. One of the first free ends <b>42</b> may be fixed while the other of the first free ends <b>42</b> may be adjustable to lengthen or shorten the length of the cord <b>38</b>. The reel <b>80</b> includes a knob <b>84</b> which is rotatable relative to the base <b>82</b> to wind one of the first free ends <b>42</b> such that the overall length of the cord <b>38</b> interconnecting the first and second anchors <b>34</b>, <b>36</b> may be lengthened or shortened. The length of the cord <b>38</b> may be retained by maintaining the adjustment knob <b>84</b> in the desired adjusted position using a locking member, such as a set screw <b>86</b> in the base <b>82</b>.</p>
+<p id="p-0033" num="0032">It should be understood that the length fixing device may comprise a simple knot or clip to maintain the desired length of the cord.</p>
+<p id="p-0034" num="0033">In operation, the subject trial-fits the suit <b>12</b> and makes adjustments to the scye bearing position relative to the HUT <b>14</b> to achieve a desired shoulder width position, which corresponds with desired alignment of the scye bearing <b>24</b> relative to the subject's shoulder joint. The desired position is maintained with the locking member so that the cord length cannot be inadvertently shortened or lengthened during use. During subsequent donning of the suit <b>12</b>, the scye bearings <b>24</b> will already be in their desired position for the given subject. Once the suit <b>12</b> is on the subject, the primary life support system <b>22</b>A is arranged over the rear entry opening of the HUT <b>14</b> so that the suit <b>12</b> may be pressurized.</p>
+<p id="p-0035" num="0034">Although an example embodiment has been disclosed, a worker of ordinary skill in this art would recognize that certain modifications would come within the scope of the claims. For that reason, the following claims should be studied to determine their true scope and content.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A suit comprising:
+<claim-text>a hard upper torso providing shoulder apertures;</claim-text>
+<claim-text>a repositionable scye bearing arranged at one of the shoulder apertures; and</claim-text>
+<claim-text>an adjustable shoulder device interconnecting the scye bearing and the hard upper torso and configured to move the scye bearing between first and second shoulder width positions relative to the hard upper torso;</claim-text>
+<claim-text>wherein the adjustable shoulder device includes first and second anchors respectively mounted on the hard upper torso and the scye bearing, and an adjustable cord interconnected between the first and second anchors and configured to move the scye bearing between the first and second shoulder width positions;</claim-text>
+<claim-text>a second adjustable shoulder device including a second set of first and second anchors respectively mounted on the hard upper torso and the scye bearing, and a second adjustable cord interconnected between the second set of first and second anchors and configured to move the scye bearing between the first and second shoulder width positions; and</claim-text>
+<claim-text>wherein at least one of the first and second anchors includes an attachment rotatable secured to a bracket by a pivot pin, and a slider carried by the attachment, the cord slideable relative to the slider.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A suit comprising:
+<claim-text>a hard upper torso providing shoulder apertures;</claim-text>
+<claim-text>a repositionable scye bearing arranged at one of the shoulder apertures;</claim-text>
+<claim-text>an adjustable shoulder device interconnecting the scye bearing and the hard upper torso and configured to move the scye bearing between first and second shoulder width positions relative to the hard upper torso; and</claim-text>
+<claim-text>a bellows interconnecting the scye bearing and the hard upper torso, the bellows include a seal, a clamp retaining the seal to one of the hard upper torso or the scye bearing, and a fastener securing a bracket and the clamp to the one of the hard upper torso or the scye bearing.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The suit according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, the hard upper torso providing a rear entry opening.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The suit according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the bellows sealingly interconnects the scye bearing and the hard upper torso, the adjustable shoulder device arranged over the bellows.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The suit according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the adjustable shoulder device includes first and second anchors respectively mounted on the hard upper torso and the scye bearing, and an adjustable cord interconnected between the first and second anchors and configured to move the scye bearing between the first and second shoulder width positions.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The suit according to <claim-ref idref="CLM-00005">claim 5</claim-ref>, comprising a second adjustable shoulder device including a second set of first and second anchors respectively mounted on the hard upper torso and the scye bearing, and a second adjustable cord interconnected between the second set of first and second anchors and configured to move the scye bearing between the first and second shoulder width positions.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The suit according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, the hard upper torso providing a rear entry opening.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The suit according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, comprising a bellows sealingly interconnecting the scye bearing and the hard upper torso, the adjustable shoulder device arranged over the bellows.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. A suit comprising:
+<claim-text>a hard upper torso providing shoulder apertures;</claim-text>
+<claim-text>a repositionable scye bearing arranged at one of the shoulder apertures; and</claim-text>
+<claim-text>an adjustable shoulder device interconnecting the scye bearing and the hard upper torso and configured to move the scye bearing between first and second shoulder width positions relative to the hard upper torso;</claim-text>
+<claim-text>wherein the adjustable shoulder device includes first and second anchors respectively mounted on the hard upper torso and the scye bearing, and an adjustable cord interconnected between the first and second anchors and configured to move the scye bearing between the first and second shoulder width positions;</claim-text>
+<claim-text>a second adjustable shoulder device including a second set of first and second anchors respectively mounted on the hard upper torso and the scye bearing, and a second adjustable cord interconnected between the second set of first and second anchors and configured to move the scye bearing between the first and second shoulder width positions; and</claim-text>
+<claim-text>wherein the first shoulder width position corresponds to a first length of cord between the first and second anchors, and the second shoulder width position corresponds to a second length of cord between the first and second anchors, the first and second lengths different than one another;</claim-text>
+<claim-text>wherein the adjustable shoulder device includes a length fixing device configured to retain one of the first and second lengths; and</claim-text>
+<claim-text>wherein the length fixing device includes a reel receiving at least one free end of the cord, the reel configured to wind and unwind the cord to adjust a cord length, and a locking member configured to maintain the adjusted cord length.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The suit according to <claim-ref idref="CLM-00009">claim 9</claim-ref>, the hard upper torso providing a rear entry opening.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. The suit according to <claim-ref idref="CLM-00009">claim 9</claim-ref>, comprising a bellows sealingly interconnecting the scye bearing and the hard upper torso, the adjustable shoulder device arranged over the bellows. </claim-text>
+</claim>
+</claims>
+</us-patent-grant>

@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v42-2006-08-23.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.2 2006-08-23" file="US20110000002A1-20110106.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20101222" date-publ="20110106">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20110000002</doc-number>
+<kind>A1</kind>
+<date>20110106</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12460559</doc-number>
+<date>20090721</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>63</class>
+<subclass>C</subclass>
+<main-group>11</main-group>
+<subgroup>04</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110106</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>  2  215</main-classification>
+</classification-national>
+<invention-title id="d0e43">Wetsuit made with a low-absorbent, good wicking and quick drying fabric</invention-title>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>61222448</doc-number>
+<kind>00</kind>
+<date>20090701</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="00" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Shiue</last-name>
+<first-name>Min-Chen</first-name>
+<address>
+<city>I-Lan Hsien</city>
+<country>TW</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>TW</country>
+</residence>
+</applicant>
+</applicants>
+<correspondence-address>
+<addressbook>
+<name>LEONARD TACHNER, A PROFESSIONAL LAW;CORPORATION</name>
+<address>
+<address-1>17961 SKY PARK CIRCLE, SUITE 38-E</address-1>
+<city>IRVINE</city>
+<state>CA</state>
+<postcode>92614</postcode>
+<country>US</country>
+</address>
+</addressbook>
+</correspondence-address>
+</parties>
+<assignees>
+<assignee>
+<orgname>SHEI CHUNG HSIN IND. CO. LTD.</orgname>
+<role>03</role>
+</assignee>
+</assignees>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">An improved low-absorbent, good wicking and quick drying wetsuit fabric is made of non-absorbent fiber, processed with water repellent before being knitted, and high-absorbent fiber, processed with absorbent agent while being dyed and/or heat set, then knitted by a circular knitting machine under a setting of 18&#x2dc;42 gauge per inches to form a structure of two-layer fabric. The outer side (the non-absorbent fiber) touches the skin of the wetsuit wearer to wick out the water, leaked into the space between the wearer and the wetsuit, quicker and make the wearer feel dry and comfortable. The inner side (the high-absorbent fiber) is laminated with rubber sponge to absorb the water, leaked from the body of the wetsuit, and wick the water out through the outer side (the non-absorbent fiber). Appropriate cutting and sewing steps are employed to finish the formation of the wetsuit. In an alternative embodiment, the outer side may comprise a fiber made of a combination of non-absorbent yarn and absorbent yarn.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="94.57mm" wi="200.58mm" file="US20110000002A1-20110106-D00000.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="239.61mm" wi="104.56mm" file="US20110000002A1-20110106-D00001.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="217.00mm" wi="191.52mm" orientation="landscape" file="US20110000002A1-20110106-D00002.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="229.02mm" wi="134.87mm" file="US20110000002A1-20110106-D00003.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="213.19mm" wi="129.20mm" orientation="landscape" file="US20110000002A1-20110106-D00004.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims priority from U.S. Provisional Patent Application Ser. No. 61/222,448 filed Jul. 1, 2009.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">1. Field of the Invention</p>
+<p id="p-0004" num="0003">The present invention relates generally to the field of wetsuits used for diving, surfing and the like, and more specifically to an improved low-absorbent, good wicking and quick drying wetsuit fabric that is made of non-absorbent fiber, processed with water repellent before being knitted, and high-absorbent fiber, processed with absorbent agent while being dyed and/or heat set, then knitted by a circular knitting machine under a setting of 18&#x2dc;42 gauge per inches to form a structure of two-layer fabric. The outer side (the non-absorbent fiber) touches the skin of the wetsuit wearer to wick out the water, leaked into the space between the wearer and the wetsuit, quicker and make the wearer feel dry and comfortable. The inner side (the high-absorbent fiber) is laminated with rubber sponge to absorb the water, leaked from the body of the wetsuit, and wick the water out through the outer side (the non-absorbent fiber).</p>
+<p id="p-0005" num="0004">The non-absorbent fiber is selected from the group of polyester, polyamide or polypropylene having a fineness ranging from 30 denier to 200 denier, and processed with water repellent before knitting, and the high-absorbent fiber is selected from the group of polyester or polyamide having a fineness ranging from 30 denier to 200 denier, and processed with an absorbent agent while dying and/or heat setting.</p>
+<p id="p-0006" num="0005">The present invention comprising the newly improved low-absorbent, good wicking and quick drying fabric that forms the wetsuit, not only provides the wearer a dry and comfortable inner feel, but also is easy to take off or put back on after use.</p>
+<p id="p-0007" num="0006">2. Background Art</p>
+<p id="p-0008" num="0007">After wearing a conventional wetsuit for a certain time while diving or related activities, where the wearer is immersed in the water, the water will leak into the space between the wetsuit and the wearer from neck, end of sleeves or legs, or wetsuit directly. Such leaked water will cause the wearer to feel cold, heavy, and uncomfortable, especially when the wearer leaves the water. Furthermore, it is difficult to take the wetsuit off when the wetsuit has absorbed water, especially when the wearer puts on the wet, cold, and water absorbed wetsuit again.</p>
+<p id="p-0009" num="0008">It would be highly advantageous if it were possible to make the water between the space of wearer and wetsuit, wick out quicker and dry sooner. That will make the wearer feel dry, more comfortable, and make it easier to take the wetsuit off, subsequently re-wear it, or even obviate the need to take it off because the wetsuit will be much drier or more comfortable out of the water as compared to wetsuits made of more conventional fabrics.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0010" num="0009">The present invention comprises a wetsuit used for diving, surfing and the like, and more specifically to a wetsuit made of an improved low-absorbent, good wicking and quick drying fabric.</p>
+<p id="p-0011" num="0010">The improved low-absorbent, good wicking and quick drying fabric is made of non-absorbent fiber and high-absorbent fiber that form a structure of two-layer fabric. The outer side (the non-absorbent fiber) touches the skin of wetsuit wearer to wick the water, leaked into the space between the wearer and the wetsuit, out quicker and make the wearer feel dry and comfortable. The inner side (the high-absorbent fiber) is laminated with rubber sponge to absorb the water, leaked from the body of the wetsuit, and wick the water out through the outer side (the non-absorbent fiber).</p>
+<p id="p-0012" num="0011">Both the non-absorbent fiber and the high-absorbent fiber are selected from the group of polyester and polyamide.</p>
+<p id="p-0013" num="0012">The non-absorbent fiber is processed with water repellent before being knitted and the high-absorbent fiber is processed with the absorbent agent later while being dyed. This series of steps provides the performance and capabilities of low absorbent, good wicking and quick drying and makes the wetsuit wearer feel light, dry, and comfortable after leaving the water.</p>
+<p id="p-0014" num="0013">Both the non-absorbent fiber and the high-absorbent fiber have a fineness ranging from 30 denier to 200 denier,</p>
+<p id="p-0015" num="0014">The non-absorbent fiber and the high-absorbent fiber are knitted by a circular knitting machine under a setting of 18&#x2dc;42 gauge per inches.</p>
+<p id="p-0016" num="0015">The finished low-absorbent, good wicking and quick drying fabric is at a weight of 20.7 g/M<sup>2 </sup>(and is preferably in the range of 100 g/M<sup>2 </sup>to 340 g/M<sup>2</sup>) gram/yard, a width of 56 inches (preferably in the range of 50 to 72 inches), and the elongation capability in the vertical is 160% and horizontal directions is 130%. Elongation in either direction is preferably in the range of 100% to 300%.</p>
+<p id="p-0017" num="0016">The improved low-absorbent, good wicking and quick drying wetsuit fabric is laminated with a rubber sponge material. Appropriate cutting and sewing steps are employed to finish the formation of wetsuit.</p>
+<p id="p-0018" num="0017">Compared with conventional wetsuit fabric, the newly improved low-absorbent, good wicking and quick drying wetsuit fabric of the present invention offers excellent performance. In testing the inventive fabric to compare its drying time to conventional wetsuit fabric, it took approximately three minutes to dry to the same degree that it took a conventional fabric at least 30 minutes. It is believed to be the first time that wetsuit fabric is made of rubber sponge laminated with low-absorbent, good wicking and quick drying fabric, comprising non-absorbent fiber, processed with the water repellent before knitted, and high-absorbent fiber, processed with the absorbent agent while being dyed and/or being heat set.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0019" num="0018">The aforementioned objects and advantages of the present invention, as well as additional objects and advantages thereof, will be more fully understood herein after as a result of a detailed description of a preferred embodiment when taken in conjunction with the following drawings in which:</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 1</figref> is a flow chart showing the process of making a wetsuit fabric of the present invention;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 2</figref>, comprising <figref idref="DRAWINGS">FIGS. 2A and 2B</figref>, is a cross sectional view showing two alternative embodiments of the structure of the fabric used in the present invention;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 3</figref> is the flow chart showing the process of making a wetsuit fabric of the conventional process; and</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 4</figref> is a cross sectional view showing the structure of the fabric used to manufacture the conventional wetsuit.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF A PREFERRED EMBODIMENT</heading>
+<p id="p-0024" num="0023">With reference to <figref idref="DRAWINGS">FIG. 1</figref>, the process of manufacturing the wetsuit of the present invention comprises the steps of pre-processing (<b>10</b>) the non-absorbent fabric with the water repellent before knitting to support the capability of good wicking and quicker drying, knitting (<b>20</b>), dyeing (<b>30</b>), processing with absorbent agent (<b>40</b>) to strengthen the capability of absorbency, heat setting (<b>50</b>), processing with absorbent agent (<b>60</b>) to strengthen the capability of absorbency if needed, laminating (<b>70</b>), and cutting and sewing (<b>80</b>). The improved low-absorbent, good wicking and quick drying fabric, used to manufacture a wetsuit, is made of the non-absorbent fiber, processed with the water repellent before knitting, and high-absorbent fiber, processed with the absorbent agent while being dyed, then knitted by a circular knitting machine under a setting of 18&#x2dc;42 gauge per inches.</p>
+<p id="p-0025" num="0024">The improved low-absorbent, good wicking and quick drying fabric is made of a combination of non-absorbent fiber and high-absorbent fiber to form a two-layer structure fabric as shown in <figref idref="DRAWINGS">FIG. 2A</figref>. The outer side (the non-absorbent fiber <b>11</b>) touches the skin of a wetsuit wearer to wick the water out that leaked into the space between the wearer and the wetsuit, quicker and make the wearer feel dry and comfortable. The inner side (the high-absorbent fiber <b>12</b>) is laminated with rubber sponge to absorb the water, leaked from the body of the wetsuit, and wick the water out through the outer side (the non-absorbent fiber). Both the non-absorbent fiber and the high-absorbent fiber are selected from the group of polyester and polyamide having a fineness ranging from 30 denier to 200 denier. As shown in <figref idref="DRAWINGS">FIG. 2B</figref>, the outer side may alternatively be made of a combination of non-absorbent and absorbent fabrics in a ratio of between about 3:1 and 5:1 with 4:1 being preferred.</p>
+<p id="p-0026" num="0025">With reference to <figref idref="DRAWINGS">FIG. 3</figref>, the conventional process of manufacturing the wetsuit includes knitting (<b>110</b>), dyeing (<b>120</b>), heat setting (<b>130</b>), laminating (<b>140</b>), and cutting and sewing (<b>150</b>). The conventional wetsuit is made of a normal fabric having a normal structure (as shown in <figref idref="DRAWINGS">FIG. 4</figref>) without a capability for wicking and makes the wetsuit wearer feel cold, heavy, and uncomfortable when the wearer leaves the water. Furthermore, it is difficult to take the wetsuit off when the wetsuit is soaked with water, especially when the wearer wears the wet, cold, and water absorbed wetsuit again soon after taking the wetsuit off when he/she leaves the water.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>I claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A wetsuit manufactured from an improved fabric comprising a combination of non-absorbent fiber and high-absorbent fiber.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The wetsuit recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein both the non-absorbent fiber and high-absorbent fiber are selected from the group of polyester and polyamide yarns.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The wetsuit recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein both the non-absorbent fiber and high-absorbent fiber have a fineness ranging from 30 denier to 200 denier.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The wetsuit recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said non-absorbent fiber is processed with water repellent before being knitted.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The wetsuit recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein said high-absorbent fiber is processed with an absorbent agent while being dyed and/or while being heat set.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The wetsuit recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the non-absorbent fiber and the high-absorbent fiber are knitted by a circular knitting machine under a setting of 18&#x2dc;42 gauge per inches to form a structure of two-layer fabric.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The wetsuit fabric recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising a rubber sponge material lamination to form an improved low-absorbent, good wicking and quick drying wetsuit fabric. </claim-text>
+</claim>
+</claims>
+</us-patent-application>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v42-2006-08-23.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.2 2006-08-23" file="US20110000003A1-20110106.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20101222" date-publ="20110106">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20110000003</doc-number>
+<kind>A1</kind>
+<date>20110106</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12460569</doc-number>
+<date>20090721</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>63</class>
+<subclass>C</subclass>
+<main-group>11</main-group>
+<subgroup>04</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110106</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>32</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110106</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>32</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>18</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110106</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>D</section>
+<class>04</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>22</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110106</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>  2  215</main-classification>
+<further-classification>442304</further-classification>
+<further-classification>442315</further-classification>
+<further-classification> 66170</further-classification>
+</classification-national>
+<invention-title id="d0e43">Wetsuit made with a non-absorbent and quick drying fabric</invention-title>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>61222112</doc-number>
+<kind>00</kind>
+<date>20090701</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="00" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Shiue</last-name>
+<first-name>Min-Chen</first-name>
+<address>
+<city>I-Lan Hsien</city>
+<country>TW</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>TW</country>
+</residence>
+</applicant>
+</applicants>
+<correspondence-address>
+<addressbook>
+<name>LEONARD TACHNER, A PROFESSIONAL LAW;CORPORATION</name>
+<address>
+<address-1>17961 SKY PARK CIRCLE, SUITE 38-E</address-1>
+<city>IRVINE</city>
+<state>CA</state>
+<postcode>92614</postcode>
+<country>US</country>
+</address>
+</addressbook>
+</correspondence-address>
+</parties>
+<assignees>
+<assignee>
+<orgname>SHEI CHUNG HSIN IND, CO. LTD.</orgname>
+<role>03</role>
+</assignee>
+</assignees>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A wetsuit having an outer and/or inner surface is manufactured from an improved non-absorbent and quick drying fabric. The improved non-absorbent and quick drying fabric is made of 100% non-absorbent fiber, selected from polyester, having a fineness ranging from 30 denier to 75 denier, and pre-processed with water repellent before being knitted, then knitted by a single circular knitting machine under a setting of 18&#x2dc;44 gauge per inch. The result is an improved fine, thin, non-absorbent, and quick drying fabric, which prevents the penetration of water molecules. The improved non-absorbent and quick drying fabric is laminated with a rubber sponge material to form an improved non-absorbent and quick drying wetsuit material. Appropriate cutting and sewing processes are employed to finish the formation of a wetsuit and the improved non-absorbent and quick drying wetsuit is lighter and dries quicker when the wearer leaves the water since less water is absorbed by the wetsuit fabric as compared to a conventional wetsuit.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="53.93mm" wi="262.04mm" file="US20110000003A1-20110106-D00000.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="254.25mm" wi="82.89mm" file="US20110000003A1-20110106-D00001.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="262.21mm" wi="152.06mm" orientation="landscape" file="US20110000003A1-20110106-D00002.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="265.85mm" wi="94.32mm" file="US20110000003A1-20110106-D00003.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="257.39mm" wi="163.75mm" orientation="landscape" file="US20110000003A1-20110106-D00004.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims priority from U.S. Provisional Patent Application Ser. No. 61/222,112 filed Jul. 1, 2009.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">1. Field of the Invention</p>
+<p id="p-0004" num="0003">The present invention relates generally to the field of wetsuits used for diving, surfing and the like, and more specifically to an improved non-absorbent and quick drying fabric used to manufacture the outer and/or inner surface of a wetsuit. The wetsuit is made of the non-absorbent fiber which is pre-processed with the water repellent before being knitted, then knitted by a single circular knitting machine under a setting of 18&#x2dc;44 gauge per inch to form an improved fine and thin fabric. The non-absorbent fiber is selected from polyester having a fineness ranging from 30 denier to 75 denier and the thickness of the knitted fabric is in the range of 0.3&#x2dc;0.55 mm.</p>
+<p id="p-0005" num="0004">The present invention relates particularly to an improved non-absorbent and quick drying fabric used to manufacture the outer and/or inner surface of a wetsuit. The fabric has the ability to prevent the penetration of water molecules. The fabric is fine and has the function of non-absorbent and quick drying that provides the performance of drying quicker, a smoother sense of touch, longer life than smooth skin and glide skin and solves the drawback of wind-chill on a wearer after leaving the water.</p>
+<p id="p-0006" num="0005">2. Background Art</p>
+<p id="p-0007" num="0006">After wearing a conventional wetsuit for diving or related water sports activities, where the wearer is immersed in water, the fabric of the outer and/or inner surface of the wetsuit will absorb water and make the wetsuit wearer feel heavy, uncomfortable and cold caused by wind-chill, after the wearer leaves the water. There are some wetsuit manufacturers which have developed a method of production to have the fabric, used as the outer surface of a wetsuit, immersed in the water repellent to lessen the amount of water absorption that may reduce the above-noted drawbacks. However, this method has the disadvantage that the effects of water repellent will decrease with time due to repeated rubbing or washing. Also, it is not easy to glue to the rubber sponge or apply ink with printing, and the sense of touch is not smooth since the water repellent forms a hard and serrated film like a paper which covers the fabric after the immersing process.</p>
+<p id="p-0008" num="0007">There are some wetsuit manufacturers which have developed the method of production to replace the fabric that used to be the outer surface of a wetsuit with a smooth skin, flat neoprene, or glide skin, neoprene coated with PU, that are all non-absorbent to avoid the defect of water absorption to reduce the drawbacks of wind-chill mentioned above. However, this method has the disadvantage of the effects of having no aesthetic appeal since the smooth skin is a flat surface of neoprene that is black only, and the strength and the performance are less than a fabric laminated with neoprene.</p>
+<p id="p-0009" num="0008">It would be highly advantageous if it were possible to make the outer and/or inner surface of the wetsuit non-absorbent, to have a good sense of touch, and perform with strength and anti-friction that not only make the wetsuit aesthetically pleasing but also solves the drawback of wind-chill and lasts longer.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0010" num="0009">The present invention relates to the field of wetsuits used for diving, surfing and the like, and more specifically to the outer and/or inner surface of an improved wetsuit made of a non-absorbent and quick drying fabric.</p>
+<p id="p-0011" num="0010">The improved non-absorbent and quick drying fabric is made entirely of non-absorbent yarn selected from polyester, pre-processed with water repellent before being knitted, and having a fineness ranging from 30 denier to 75 denier.</p>
+<p id="p-0012" num="0011">The non-absorbent yarn is knitted by a single circular knitting machine under a setting of 18&#x2dc;44 gauge per inch to form a fine and thin fabric, which has the ability to prevent the penetration of water molecules and attachment of water.</p>
+<p id="p-0013" num="0012">The finished non-absorbent and quick drying fabric is at a weight of 60&#x2dc;270 gram/M<sup>2</sup>, a width of 50&#x2dc;72 inches, an elongation capability in both the vertical and horizontal directions of 100&#x2dc;300%, and having a thickness of 0.3&#x2dc;0.55 mm.</p>
+<p id="p-0014" num="0013">The non-absorbent and quick drying fabric, as the outer and/or inner surface of the wetsuit, is laminated with a rubber sponge material to form an improved non-absorbent and quick drying wetsuit. Appropriate cutting and sewing process are employed to finish the formation of wetsuit.</p>
+<p id="p-0015" num="0014">Compared with conventional fabric used as the outer surface of a wetsuit, the improved non-absorbent and quick drying fabric of the present invention is light and offers excellent strength and anti-friction. The non-absorbent feature prevents the penetration of water molecules, solves the drawback of wind-chill, and lasts longer.</p>
+<p id="p-0016" num="0015">Compared with the developed smooth skin and glide skin used as the outer surface of a conventional wetsuit, the improved non-absorbent and quick drying fabric of the present invention has a pleasant feel, aesthetic design, and excellent strength that makes the wetsuit durable.</p>
+<p id="p-0017" num="0016">It is believed to be the first time that a wetsuit has been made of rubber sponge laminated with the fine, thin, non-absorbent and quick drying fiber pre-processed with water repellent before being knitted.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0018" num="0017">The aforementioned objects and advantages of the present invention, as well as additional objects and advantages thereof, will be more fully understood herein after as a result of a detailed description of a preferred embodiment when taken in conjunction with the following drawings in which:</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 1</figref> is a flow chart showing the preferred process of making a wetsuit fabric of the present invention;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 2</figref>, comprising <figref idref="DRAWINGS">FIGS. 2A and 2B</figref> is a cross sectional view showing the macro and micro structure respectively of the fabric used to manufacture the present invention as the surface of a wetsuit;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 3</figref> is the flow chart showing the process of making a wetsuit fabric of the conventional process; and</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 4</figref>, comprising <figref idref="DRAWINGS">FIGS. 4A and 4B</figref> is a cross sectional view showing the macro and micro structure respectively of the fabric used to manufacture a conventional wetsuit.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF A PREFERRED EMBODIMENT</heading>
+<p id="p-0023" num="0022">With reference to <figref idref="DRAWINGS">FIG. 1</figref>, the process of manufacturing the wetsuit of the present invention includes the steps of pre-processing (<b>10</b>), knitting (<b>20</b>), dyeing (<b>30</b>), heat setting (<b>40</b>), laminating (<b>50</b>), and cutting and sewing (<b>60</b>). The improved non-absorbent and quick drying fabric used to manufacture the outer and/or inner surface of wetsuit, is entirely made of a non-absorbent yarn, pre-processed with the water repellent before being knitted, then knitted by a single circular knitting machine under a setting of 18&#x2dc;44 gauge per inch to form a fine and thin fabric, which has the ability to prevent the penetration of water molecules and attachment of water.</p>
+<p id="p-0024" num="0023">The improved non-absorbent and quick drying fabric is made of non-absorbent yarn selected from polyester having a fineness ranging from 30 denier to 75 denier.</p>
+<p id="p-0025" num="0024">The improved non-absorbent and quick drying fabric can prevent the penetration of water molecules and attachment of water that makes the outer and/or inner surface of the wetsuit dry when the wearer leaves the water, and makes the wearer feel dry, light, comfortable and reduces the impact of wind-chill.</p>
+<p id="p-0026" num="0025">Since the water repellent is fully absorbed throughout and combined with the fiber of the improved non-absorbent and quick drying fabric, the effects of water repellent will last longer and offer better anti-friction even if the wetsuit is rubbed or washed or aged as shown in <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+<p id="p-0027" num="0026">With reference to <figref idref="DRAWINGS">FIG. 3</figref>, the process of manufacturing the wetsuit of the conventional method includes knitting (<b>10</b>), dyeing (<b>20</b>), immersing (<b>30</b>), heat setting (<b>40</b>), laminating (<b>50</b>), and cutting and sewing (<b>60</b>). The conventional wetsuit is made of a normal fabric immersed with water repellent after knitting and dyeing and before heat setting that make the water repellent form a hard and serrated film, like a paper that covers the fabric, as shown in <figref idref="DRAWINGS">FIG. 4</figref>, and causes an unpleasant rough sense of touch. Since the water repellent is on the cover of the fabric only, the effects of the repellent will decrease and the water repellent will be eventually lost due to being rubbed or washed and that will lessen the durability of the wetsuit.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>I claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A wetsuit having an outer and/or inner surface manufactured from an improved fabric made of a non-absorbent and quick drying material.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The improved non-absorbent and quick drying fabric recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> made of non-absorbent yarn.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The improved non-absorbent and quick drying yarn recited in <claim-ref idref="CLM-00002">claim 2</claim-ref> made of polyester.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The improved non-absorbent and quick drying yarn recited in <claim-ref idref="CLM-00002">claim 2</claim-ref> having a fineness ranging from 30 denier to 75 denier.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The improved non-absorbent and quick drying yarn recited in <claim-ref idref="CLM-00002">claim 2</claim-ref> being pre-processed with a water repellent before being knitted.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The improved non-absorbent and quick drying yarn recited in <claim-ref idref="CLM-00002">claim 2</claim-ref> being knitted by a single circular knitting machine under a setting of 18&#x2dc;44 gauge per inch.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The improved non-absorbent and quick drying yarn recited in <claim-ref idref="CLM-00002">claim 2</claim-ref> having a thickness of 0.30&#x2dc;0.55 mm.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The improved non-absorbent and quick drying fabric recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> laminated with a rubber sponge material to form an improved non-absorbent and quick drying wetsuit fabric. </claim-text>
+</claim>
+</claims>
+</us-patent-application>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v42-2006-08-23.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.2 2006-08-23" file="US20110000004A1-20110106.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20101222" date-publ="20110106">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20110000004</doc-number>
+<kind>A1</kind>
+<date>20110106</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12459737</doc-number>
+<date>20090706</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>41</class>
+<subclass>D</subclass>
+<main-group>13</main-group>
+<subgroup>08</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110106</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>  2 21</main-classification>
+</classification-national>
+<invention-title id="d0e43">Fingerezz</invention-title>
+<parties>
+<applicants>
+<applicant sequence="00" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Lydon</last-name>
+<first-name>Beverly B.</first-name>
+<address>
+<city>Lake Havasu City</city>
+<state>AZ</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<correspondence-address>
+<addressbook>
+<name>Beverly B Lydon</name>
+<address>
+<address-1>3297 Silver Saddle Dr.</address-1>
+<city>Lake Havasucity</city>
+<state>AZ</state>
+<postcode>86406</postcode>
+<country>US</country>
+</address>
+</addressbook>
+</correspondence-address>
+</parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">This Invention is a Flat Item Protecting the Fingers and Thumb From Scorching Hot Automobile handles and also Door knobs by using The flat item (unlike a Glove or Straps) (not absorbent for a towel or Rag) is Instantly available at the time of need: being attached to a Key Chain, Accessories, or Clothing via the Permanent Grommet within the Flat item. The fingers and thumb will be relieved of the Scorched burning Feeling, upon the Natural movement of Grasping the Door handle, with The Fingerezz (flat item) held between handle and fingers and thumb.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="146.47mm" wi="142.24mm" file="US20110000004A1-20110106-D00000.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="152.99mm" wi="148.84mm" file="US20110000004A1-20110106-D00001.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<p id="p-0002" num="0001">This Invention is named FINGEREZZ and is a Flat Item <b>1</b>, cloth, vinyl, Or leather of Various light weight Materials: cut to form squares to be sewn, surged, Or manually cut sawtooth edges. The Flat Item <b>1</b>, is 5 inches square up to 8 inches Square. The surface <b>1</b> may have names, organizations, or pictures applied by Heat Transfer, Embroidery, or painted. A Grommet <b>2</b> is permanently attached To the Flat Item <b>1</b> for attachment to a persons accessory for instant availability.</p>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS </heading>
+<p id="p-0003" num="0002">Not Applicable</p>
+<heading id="h-0002" level="1">STATEMENT REGARDING FEDERALLY SPONSORED RESEARCH OR DEVELOPMENT </heading>
+<p id="p-0004" num="0003">Not Applicable</p>
+<heading id="h-0003" level="1">REFERENCE TO A SEQUENCE LISTING, A TABLE OR A COMPUTER PROGRAM  LISTING COMPACT DISC APPENDIX </heading>
+<p id="p-0005" num="0004">Not Applicable</p>
+<heading id="h-0004" level="1">BACKGROUND OF INVENTION</heading>
+<p id="p-0006" num="0005">The heat from the sun of 118 degrees and higher in many cities requires Protection (a class 2 definition USPTO) from the Burning sensation, scorching: To a person manually opening an Automobile Door handle and/or a Home door Knob. This item: FINGEREZZ is Invented to prevent (protect) from the discomfort And Burning sensation by having FINGEREZZ, my flat item of material, vinyl, or Leather, to Be between the Hot scorching surface and the fingers and thumb.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0007" num="0006">My Invention is a Protection from slight burning sensations, Practical, and very useful Protecting Fingers and Thumb from scorching Burns, Also instant availability for use; being attached to an accessory: May be used further for identification, for organizations, a very large Percent of the population will find this Useful and helpful.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. I Claim this Invention is for the Protection of Fingers and Thumb from being Scorched when Opening a Scorching Hot Automobile door handle or door knob, this Invention may be Attached to a Key Chain or any Accessory, as it is lifted instantly: Being placed between Scorching Hot Automobile door handle and The Fingers and Thumb. The Exact reason for this Invention is to Protect Fingers and Thumb when opening doors where the handles Or knobs have been exposed to the Direct Heat of Burning Hot Sun. </claim-text>
+</claim>
+</claims>
+</us-patent-application>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v42-2006-08-23.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.2 2006-08-23" file="US20110000005A1-20110106.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20101222" date-publ="20110106">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20110000005</doc-number>
+<kind>A1</kind>
+<date>20110106</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12498332</doc-number>
+<date>20090706</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>41</class>
+<subclass>D</subclass>
+<main-group>1</main-group>
+<subgroup>06</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110106</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>41</class>
+<subclass>D</subclass>
+<main-group>27</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110106</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>  2227</main-classification>
+<further-classification>  22431</further-classification>
+</classification-national>
+<invention-title id="d0e43">POSTURE IMPROVING GARMENT</invention-title>
+<parties>
+<applicants>
+<applicant sequence="00" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>BROWN</last-name>
+<first-name>Timothy W.</first-name>
+<address>
+<city>Newport Beach</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<correspondence-address>
+<addressbook>
+<name>MORGAN, LEWIS &#x26; BOCKIUS, LLP. (PA)</name>
+<address>
+<address-1>2 PALO ALTO SQUARE, 3000 EL CAMINO REAL, SUITE 700</address-1>
+<city>PALO ALTO</city>
+<state>CA</state>
+<postcode>94306</postcode>
+<country>US</country>
+</address>
+</addressbook>
+</correspondence-address>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>DR. BROWN DESIGNS, LLC</orgname>
+<role>02</role>
+<address>
+<city>Newport Beach</city>
+<state>CA</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A garment adapted to be worn by a wearer. The garment includes a main body portion that is configured to be worn over at least a portion of the wearer's lumbo-pelvic region, hips and at least a portion of the legs, wherein the main body portion includes first and second leg portions that each define an axis. The garment also includes a strap system that includes a plurality of leg straps releasably affixed to the main body portion. Each of the leg straps includes at least one connector for affixing the leg strap to the main body portion. Each of the leg straps overlies a grip layer that is adapted to contact the wearer's skin when the garment is worn.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="248.16mm" wi="156.21mm" file="US20110000005A1-20110106-D00000.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="248.50mm" wi="156.55mm" file="US20110000005A1-20110106-D00001.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="209.80mm" wi="182.54mm" file="US20110000005A1-20110106-D00002.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="223.52mm" wi="161.12mm" file="US20110000005A1-20110106-D00003.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="230.38mm" wi="177.04mm" file="US20110000005A1-20110106-D00004.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="229.95mm" wi="177.55mm" file="US20110000005A1-20110106-D00005.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="201.17mm" wi="150.20mm" file="US20110000005A1-20110106-D00006.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="216.24mm" wi="101.94mm" file="US20110000005A1-20110106-D00007.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="218.02mm" wi="147.49mm" file="US20110000005A1-20110106-D00008.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="79.67mm" wi="169.33mm" file="US20110000005A1-20110106-D00009.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="208.03mm" wi="156.55mm" file="US20110000005A1-20110106-D00010.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="221.23mm" wi="156.13mm" file="US20110000005A1-20110106-D00011.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="230.80mm" wi="174.84mm" file="US20110000005A1-20110106-D00012.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="239.44mm" wi="177.04mm" file="US20110000005A1-20110106-D00013.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00014" num="00014">
+<img id="EMI-D00014" he="241.30mm" wi="196.17mm" file="US20110000005A1-20110106-D00014.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00015" num="00015">
+<img id="EMI-D00015" he="242.65mm" wi="176.61mm" file="US20110000005A1-20110106-D00015.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00016" num="00016">
+<img id="EMI-D00016" he="232.16mm" wi="137.92mm" file="US20110000005A1-20110106-D00016.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00017" num="00017">
+<img id="EMI-D00017" he="232.66mm" wi="167.47mm" file="US20110000005A1-20110106-D00017.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00018" num="00018">
+<img id="EMI-D00018" he="244.43mm" wi="188.98mm" file="US20110000005A1-20110106-D00018.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00019" num="00019">
+<img id="EMI-D00019" he="254.93mm" wi="173.91mm" file="US20110000005A1-20110106-D00019.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00020" num="00020">
+<img id="EMI-D00020" he="248.07mm" wi="187.54mm" file="US20110000005A1-20110106-D00020.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00021" num="00021">
+<img id="EMI-D00021" he="255.35mm" wi="164.76mm" file="US20110000005A1-20110106-D00021.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00022" num="00022">
+<img id="EMI-D00022" he="238.08mm" wi="177.46mm" file="US20110000005A1-20110106-D00022.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00023" num="00023">
+<img id="EMI-D00023" he="251.71mm" wi="178.90mm" file="US20110000005A1-20110106-D00023.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00024" num="00024">
+<img id="EMI-D00024" he="253.49mm" wi="174.33mm" file="US20110000005A1-20110106-D00024.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00025" num="00025">
+<img id="EMI-D00025" he="253.58mm" wi="182.46mm" file="US20110000005A1-20110106-D00025.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00026" num="00026">
+<img id="EMI-D00026" he="249.94mm" wi="162.98mm" file="US20110000005A1-20110106-D00026.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00027" num="00027">
+<img id="EMI-D00027" he="239.44mm" wi="191.60mm" file="US20110000005A1-20110106-D00027.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00028" num="00028">
+<img id="EMI-D00028" he="231.22mm" wi="179.32mm" file="US20110000005A1-20110106-D00028.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00029" num="00029">
+<img id="EMI-D00029" he="245.79mm" wi="183.47mm" file="US20110000005A1-20110106-D00029.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00030" num="00030">
+<img id="EMI-D00030" he="242.65mm" wi="187.54mm" file="US20110000005A1-20110106-D00030.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">FIELD OF THE INVENTION</heading>
+<p id="p-0002" num="0001">The present invention relates generally to body mechanics and, more particularly, to posture improvement garments configured to be worn on a user's lower body and which are specifically adapted to improve the user's body alignment or posture through the use of sensorimotor stimulation.</p>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The importance of good posture is well known among health professionals. Posture generally refers to the alignment of the body and, more specifically, to the relative static and dynamic positioning of the body and its limbs. Ideally, in a body exhibiting good posture, the spine has no lateral curvature and the legs have little angulation in the knees and ankles.</p>
+<p id="p-0004" num="0003">The effects of poor posture are well documented and include limited range of motion wherein muscles, such as the pectoral muscles in the chest, may be permanently shortened due to a hunched-over upper body position. Other effects of poor posture include discomfort in the form of headaches at the base of the skull and pain in the shoulders, arms, and hands. Additionally, poor posture may lead to pain in the jaw due to a forward-head position, as well as decreased lung capacity due to decreased volume of the chest cavity and lungs. One of the most common consequences of poor posture is the onset of lower back pain which may increase with advancing age. Finally, a hunched-over upper body position of poor posture can add years to one's appearance.</p>
+<p id="p-0005" num="0004">However, by assuming good posture, gravitational forces may be more evenly distributed through the bones, ligaments and muscles of the body. Maintaining good posture is equally important during passive (static) activities such as sitting and standing, as well as during dynamic activities such as walking, running, and lifting. Theoretically, the slight S-shape of the spine that is characteristic of good posture should preferably be maintained during both static and dynamic activities. Unfortunately, our increasingly sedentary lifestyle, wherein many hours are spent sitting in front of a computer, driving an automobile, or watching television, has an adverse effect on posture. Such static activities may result in forward protrusion of the head and neck, rounding of the thoracic and lumbar spine, stretching of the spinal ligaments and also causing abnormal tilting and rotation of the pelvis. This also puts added stress on the hips, joints and other portions of the lower body. Such stretching gradually causes pain in the neck, upper back, lower back and hips and results in fatiguing of the body's muscles and ligaments. Poor posture during dynamic activities such as running and lifting results in inefficient body movements with increased stress on muscles and ligaments.</p>
+<p id="p-0006" num="0005">Maintaining an awareness of proper posture during static and dynamic activities may sometimes prevent overstressing of muscles and ligaments. In addition, maintaining an awareness of proper posture may train certain muscles through muscle memory such that proper posture eventually becomes a habit. However, it is sometimes difficult to maintain an awareness of proper posture during mentally challenging activities such as working at a computer, or during physically challenging activities such as participating in aggressive sports. Physical therapists may utilize postural therapy to improve the posture of a patient. Such postural therapy may include techniques such as shoulder taping and breathing exercises. Conventional chiropractic techniques may utilize body manipulation and treatment to help keep the patient's spine in alignment. However, the patient must take the time and energy to visit the offices of a physical therapist or a chiropractor in order to receive the needed postural therapy and/or chiropractic manipulation. Moreover, alternative treatments predictable therapeutic response is achieved through cutaneous nerve stimulation, is often overlooked as a method to improve the patient's posture.</p>
+<p id="p-0007" num="0006">As can be seen, there exists a need in the art for a device that is specifically adapted to continuously train and develop certain body muscles such that the user's posture may be improved. In addition, there exists a need in the art for a device that allows for developing such muscle training during static activities such as standing and sitting. In addition, there exists a need in the art for a device that discretely allows for developing such muscle training during dynamic activities such as walking, running and during other daily activities. Furthermore, there exists a need in the art for a device for improving the user's posture that may be progressively adjusted in accordance with changes or improvements in the user's posture over time. Finally, there exists a need in the art for a device for improving the user's posture that may be adjusted according to varying physiological parameters between users including differences in user's age, body size, muscular development and underlying pathophysiologic status.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0008" num="0007">The invention is a posture improvement garment or device that is specifically adapted to provide sensorimotor stimulation or proprioceptive awareness using a combination of gripping of the skin, pressure, torque and angle simultaneously applied to the user in order to train body muscles for proper posture through muscle memory, similar to the shirt taught in U.S. Patent Application Publication No. 2009/0062704 (referred to herein as the &#x201c;'704 publication&#x201d;), the entirety of which is incorporated herein by reference. The device comprises a garment designed to be worn by a user and which is adapted to envelop at least a portion of the user's lower body, including the lumbo-pelvic region, hips and at least a portion of the legs or lower extremities. This garment is preferably configured like a pair of shorts or pants.</p>
+<p id="p-0009" num="0008">Pressure is applied to the user's skin in order to proprioceptively stimulate cutaneous nerve receptors of the skin by configuring the garment as a relatively tight, form-fitting pair of shorts. The garment is adapted to envelop at least a portion of the user's lumbo-pelvic region, hips and at least a portion of the legs or lower extremities.</p>
+<p id="p-0010" num="0009">The garment may be fabricated of a stretchable, yet taut material in order to provide the desirable form-fitting feature such that specific pressure may be readily applied to the surface of the skin over specific anatomical landmarks for neuromuscular stimulation. In this regard, the garment is preferably fabricated of elastomeric material that is also preferably breathable and/or which has moisture wicking capabilities such as may be provided by a material comprised of a combination of lycra and spandex, Fabrifoam, nylon or the like.</p>
+<p id="p-0011" num="0010">The shorts/pants create a sensation/cue on the skin through the design that specifically bends, compresses and directs the nerve receptors in the skin (peripheral nervous system 20-80 nerve endings/square inch on skin, in muscles, tendons, joint lining, etc.) to be pulled in such a way and in such a specific direction that tells the brain to instantly relax and lengthen specific, over used, under stretched muscles while the brain simultaneously commands the opposite (front to back and/or side to side), weak, under toned, under supportive muscles to contract, tone and support the wearer's core and lower extremities. This natural reflexive response is known as reciprocal inhibition and this naturally balancing muscle stimulation system retrains the wearer's muscles every time the garment is put on to create a wearable, therapeutic short/pant that decreases muscle and joint pain, improves recovery from training, travel and injury and improves aberrant biomechanics that create muscle imbalances. In a preferred embodiment, the desired cues and responses are provided by a strap system that twists each leg in a spiral manner to rotate the leg toward where the muscles are underused and weak. Spirals and spiral physiology are naturally occurring within the human body and nature as a whole and can all be related through the Fibonacci numbers or Fibonacci structure. The Fibonacci numbers are nature's numbering system. They appear everywhere in nature, from the leaf arrangement in plants, to the pattern of the florets of a flower, the bracts of a pinecone, or the scales of a pineapple. The Fibonacci numbers are therefore applicable to the growth of every living thing, including a single cell, a grain of wheat, a hive of bees, and even humans.</p>
+<p id="p-0012" num="0011">The Fibonacci sequence is 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, and so on. It begins with the number 1, and each new term from there is the sum of the previous two. The limit ratio between the terms is 0.618034 . . . , an irrational number variously called the &#x201c;golden ratio&#x201d; and/or the &#x201c;divine proportion,&#x201d; but in this century more succinctly &#x201c;PHI&#x201d; (f) after the architect Phidias, who designed the Parthenon. In other words, any two adjoining numbers equal the next higher number. For example, 5+8=13. Any number divided by the next higher number gives a ratio of 0.618. For example, 8/13=0.618. Any number divided by the next lower number gives a reciprocal of 1.618.</p>
+<p id="p-0013" num="0012">In the lower numbers the ratios are not exact, but close enough for practical purposes.</p>
+<p id="p-0014" num="0013">Both the Fibonacci Sequence and the Golden Ratio appear in natural forms ranging from the geometry of the DNA molecule (and the human body) to the physiology of plants and animals.</p>
+<p id="p-0015" num="0014">In recent years, science has taken a quantum leap in knowledge concerning the universal appearance and fundamental importance of Fibonacci mathematics. Some of history's greatest minds, from Pythagoras to Isaac Newton, have held phi (f) and the Fibonacci sequence in the highest esteem and reverence.</p>
+<p id="p-0016" num="0015">All human senses, including hearing, touch, taste, vision and pain receptors, have not only spiral physiology, but also response curves that are logarithmic (having a fibonacci structure). Cellular action membrane potentials, which are important for muscles and the nervous system, have a voltage equal to the log of the ratio of the ion concentration outside the cell to that of inside the cell. The brain and nervous systems are made from the same type of cellular building units and look similar microscopically, so the response curve of the central nervous system is probably also logarithmic. This spiral/helical physiology is utilized by the design of the garment of the present invention. The straps extend about the axis of the legs or feet,</p>
+<p id="p-0017" num="0016">The design stimulates the sensorimotor system (sensori includes the nervous system combined with the (motor) musculoskeletal system), instantly cueing a wearer's lower body into muscular balance and ideal anatomical alignment. This stimulates the user's anatomy on both a conscious and subconscious level. This instantly allows the wearer to move with more biomechanical efficiency which means using less energy while enhancing and optimizing body mechanics and gait. This has an effect that decreases normal wear and tear on joints and enhances healthy circulation and recovery from training, travel, and injury.</p>
+<p id="p-0018" num="0017">It will be appreciated that virtually every time a user puts the garment on, he/she is training. The garment makes weak muscles work. When a weak muscle works it helps to balance the muscles so the body is using all sides to work with rhythm and synchrony making the body move with more efficiency, greater fluidity and less effort.</p>
+<p id="p-0019" num="0018">In accordance with one preferred embodiment of the present invention, there is provided a garment adapted to be worn by a wearer. The garment includes a main body portion that is configured to be worn over at least a portion of the wearer's lumbo-pelvic region, hips and at least a portion of the legs. The main body portion includes first and second leg portions that each define an axis. The garment also includes at least a first strap associated with the main body portion that is releasably affixed to the first leg portion, and at least a first grip layer associated with the main body portion. The first strap overlies the first grip layer. The first grip layer is configured to come into contact with a wearer's skin when the garment is worn. In a preferred embodiment, the first strap is positioned such that it extends in a spiral about the axis of the first leg portion. In a preferred embodiment, the first and second leg portions include a stirrup extending from the bottom thereof and an adjustable arch strap attached at an upper end to the leg portion and at a lower end to the stirrup. Preferably, the stirrups each include a longitudinal arch support, a transverse arch support and a heel support.</p>
+<p id="p-0020" num="0019">In accordance with another preferred embodiment of the present invention, there is provided a garment adapted to be worn by a wearer. The garment includes a main body portion that is configured to be worn over at least a portion of the wearer's lumbo-pelvic region, hips and at least a portion of the legs, wherein the main body portion includes first and second leg portions that each define an axis. The garment also includes a strap system that includes a plurality of leg straps releasably affixed to the main body portion. Each of the leg straps includes at least one connector for affixing the leg strap to the main body portion. Each of the leg straps overlies a grip layer that is adapted to contact the wearer's skin when the garment is worn.</p>
+<p id="p-0021" num="0020">In accordance with another preferred embodiment of the present invention, there is provided a method that includes donning a garment that covers at least a portion of the wearer's lumbo-pelvic region, hips and at least a portion of the legs. The garment includes first and second leg portions that each define an axis. The method further includes positioning a first strap on the first leg portion such that it extends in a spiral about the axis of the first leg portion, thereby defining a first spiral direction. The first strap overlies a first grip layer that is in contact with the skin on the wearer's leg and the first grip layer pulls the wearer's skin in the first spiral direction.</p>
+<p id="p-0022" num="0021">The invention, together with additional features and advantages thereof, may be best understood by reference to the following description taken in conjunction with the accompanying illustrative drawings. In these accompanying drawings, like reference numerals designate like parts throughout the figures.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 1</figref> a perspective view of a garment (pair of shorts) as worn by a user in accordance with a preferred embodiment of the present invention;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 2</figref> is a front elevational view of the garment of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 3</figref> is a rear elevational view of the garment of <figref idref="DRAWINGS">FIG. 1</figref>;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 4</figref> is a perspective view of the garment of <figref idref="DRAWINGS">FIG. 1</figref>, showing one of the straps unaffixed;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 5</figref> is a perspective view of the garment of <figref idref="DRAWINGS">FIG. 1</figref>, showing another one of the straps unaffixed;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 6</figref> is a front elevational view of the garment of <figref idref="DRAWINGS">FIG. 1</figref> inside out and showing the grip layers on the inside thereof;</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 7</figref> is a right side elevational view of the garment of <figref idref="DRAWINGS">FIG. 1</figref> inside out and showing the grip layers on the inside thereof;</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 8</figref> is a rear elevational view of the garment of <figref idref="DRAWINGS">FIG. 1</figref> inside out and showing the grip layers on the inside thereof;</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 9</figref> is a cross-section taken along line <b>9</b>-<b>9</b> of <figref idref="DRAWINGS">FIG. 4</figref>, showing the front strap portion over the connector layer, the base grip layer and the user's skin;</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 10</figref> is a rear elevational view of the garment of <figref idref="DRAWINGS">FIG. 1</figref> with the rear straps in a different position in accordance with a preferred embodiment of the present invention;</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 11</figref> is a rear elevational view of the garment of <figref idref="DRAWINGS">FIG. 1</figref> with one removable strap in accordance with a preferred embodiment of the present invention;</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 12</figref> is a perspective view of a garment (three quarter length pants) in accordance with another preferred embodiment of the present invention;</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. 13</figref> is a front elevational view of the garment of <figref idref="DRAWINGS">FIG. 12</figref>;</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 14</figref> is a rear elevational view of the garment of <figref idref="DRAWINGS">FIG. 12</figref>;</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. 15</figref> is a front elevational view of the garment of <figref idref="DRAWINGS">FIG. 12</figref> inside out and showing the grip layers on the inside thereof;</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 16</figref> is a right side elevational view of the garment of <figref idref="DRAWINGS">FIG. 12</figref> inside out and showing the grip layers on the inside thereof;</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. 17</figref> is a perspective view of a garment (full length pants) in accordance with another preferred embodiment of the present invention;</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. 18</figref> is a front elevational view of the garment of <figref idref="DRAWINGS">FIG. 17</figref>;</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. 19</figref> is a rear elevational view of the garment of <figref idref="DRAWINGS">FIG. 17</figref>;</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. 20</figref> is a front elevational view of the garment of <figref idref="DRAWINGS">FIG. 17</figref> inside out and showing the grip layers on the inside thereof;</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. 21</figref> is a right side elevational view of the garment of <figref idref="DRAWINGS">FIG. 17</figref> inside out and showing the grip layers on the inside thereof;</p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. 22</figref> is a perspective view of a garment (pants with stirrups) in accordance with another preferred embodiment of the present invention;</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. 23</figref> is a front elevational view of the garment of <figref idref="DRAWINGS">FIG. 22</figref>;</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. 24</figref> is a rear elevational view of the garment of <figref idref="DRAWINGS">FIG. 22</figref>;</p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIG. 25</figref> is a front elevational view of the garment of <figref idref="DRAWINGS">FIG. 22</figref> inside out and showing the grip layers on the inside thereof;</p>
+<p id="p-0048" num="0047"><figref idref="DRAWINGS">FIG. 26</figref> is a right side elevational view of the garment of <figref idref="DRAWINGS">FIG. 22</figref> inside out and showing the grip layers on the inside thereof;</p>
+<p id="p-0049" num="0048"><figref idref="DRAWINGS">FIG. 27</figref> is a perspective view of the garment of <figref idref="DRAWINGS">FIG. 22</figref> with an adjustable arch strap shown on the left leg portion and stirrup;</p>
+<p id="p-0050" num="0049"><figref idref="DRAWINGS">FIG. 28</figref> is a bottom perspective view of the stirrup of the garment of <figref idref="DRAWINGS">FIG. 22</figref> with the adjustable arch support;</p>
+<p id="p-0051" num="0050"><figref idref="DRAWINGS">FIG. 29</figref> is an elevational view of an adjustable arch strap; and</p>
+<p id="p-0052" num="0051"><figref idref="DRAWINGS">FIGS. 30-32</figref> is a series of elevational views of a foot showing no support (<figref idref="DRAWINGS">FIG. 30</figref>), the support provided by a stirrup (<figref idref="DRAWINGS">FIG. 31</figref>) and the support provided by a stirrup combined with an adjustable arch strap (<figref idref="DRAWINGS">FIG. 32</figref>).</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<p id="p-0053" num="0052">Like numerals refer to like structures or features throughout the several views of the drawings.</p>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+<p id="p-0054" num="0053">As shown in the drawings, for purposes of illustration, preferred embodiments of posture improvement garments (shorts <b>10</b>, three quarter length pants <b>30</b>, full length pants <b>40</b> and pants with stirrups <b>50</b>) are shown and described. It will be appreciated that terms such as &#x201c;front,&#x201d; &#x201c;back,&#x201d; &#x201c;top,&#x201d; &#x201c;bottom,&#x201d; &#x201c;side,&#x201d; &#x201c;short&#x201d; &#x201c;long,&#x201d; &#x201c;up,&#x201d; &#x201c;down,&#x201d; and &#x201c;below&#x201d; used herein are merely for ease of description and refer to the orientation of the components as shown in the figures. It should be understood that any orientation of the garments <b>10</b>, <b>30</b>, <b>40</b> or <b>50</b>, and the components thereof described herein is within the scope of the present invention.</p>
+<p id="p-0055" num="0054">Referring now to the drawings, wherein the showings are for purposes of illustrating the present invention and not for purposes of limiting the same, <figref idref="DRAWINGS">FIGS. 1-5</figref> show the outside of a first embodiment of a posture improvement garment <b>10</b>, which is configured to be worn by a user <b>12</b> and which is configured to envelop at least a portion of the user's lumbo-pelvic region, hips and at least a portion of the legs or lower extremities, collectively known as the core. In this regard, the garment <b>10</b> is generally configured to be similar to one of a pair of shorts or pants (e.g., a pair of compression shorts or pants). While the illustrated garment <b>10</b> is designed as a &#x201c;pull-up&#x201d; style, the garment may also be provided with an open or partially open front, back or side portion, which is selectively closeable by means of known garment closure systems, such as a zipper, buttons, snaps, and the like. The garment <b>10</b> includes a main body portion <b>13</b> that has a front <b>13</b><i>a, </i>back <b>13</b><i>b, </i>right side <b>13</b><i>c </i>and left side <b>13</b><i>d </i>and first and second leg portions <b>14</b> that each define an axis. In the appropriate embodiments of the different garments <b>10</b>, <b>30</b>, <b>40</b> and <b>50</b> described below, the first and second leg portion <b>14</b> each include an upper leg portion <b>14</b><i>a </i>(garments <b>10</b>, <b>30</b>, <b>40</b> and <b>50</b>), lower leg portion <b>14</b><i>b </i>(garments <b>30</b>, <b>40</b> and <b>50</b>), knee portion <b>14</b><i>c </i>(garments <b>30</b>, <b>40</b> and <b>50</b>) and shin portion <b>14</b><i>d </i>(garments <b>40</b> and <b>50</b>).</p>
+<p id="p-0056" num="0055">Proprioceptive effects are achieved by the use of a strap system <b>100</b> that includes strategically placed straps <b>16</b>, stretch panels <b>18</b> and grip layers <b>20</b>, integrated directly into or sewn together, or sewn directly into the material used to fabricate the garment <b>10</b>. It will be understood that the grip layer <b>20</b> is essentially a layer or patch for cuing or stimulating the nerve receptors responsible for proprioceptive feedforward and feedback. As a result, the garment of the present invention is particularly suited for the consumer market, as they are attractive and comfortable. It will be understood that the strap system <b>100</b> can include straps that are adjustable and are affixed by the user, as shown in the figures or the strap system can include straps that are integral with the garment (are not adjustable). In a preferred embodiment, the strap system <b>100</b> twists each leg in a spiral or helix manner to rotate the leg toward where the muscles are underused and weak. As can be seen in the figures, the straps <b>16</b> on each of the garments <b>10</b>, <b>30</b>, <b>40</b> and <b>50</b> are all positioned so that they extend in a spiral about the axis of the leg portions <b>14</b>. The spiral or helix may extend at any angle.</p>
+<p id="p-0057" num="0056">Regarding material from which the garment <b>10</b> may be fabricated, it is preferred that the material be thin, and have an elastic quality that stretches or moves with the user's body, in order to provide a desirable form-fitting feature such that pressure may be readily applied to the surface of the user's skin in order to enhance neuromuscular stimulation thereto. The material may contain, but not be limited to, polyester, lycra, spandex, elastic, nylon, Fabrifoam&#xae; and the like, and is preferably a combination of these materials for different portions of the garment, as described below. It may have metal ions woven into it, or other mechanical sweat wicking, temperature regulating materials which are known in the art and function in an equivalent way to regulate temperature and wick moisture. Its breathability and/or moisture wicking capabilities function to improve the user's comfort level during periodic wearing of the garment.</p>
+<p id="p-0058" num="0057">As shown in <figref idref="DRAWINGS">FIGS. 1-5</figref>, in a preferred embodiment, the strap system <b>100</b> includes a plurality of leg straps <b>16</b> and two ab straps <b>17</b> (right and left ab straps are referred to individually herein as <b>17</b><i>a </i>and <b>17</b><i>b </i>respectively). In the embodiment shown in <figref idref="DRAWINGS">FIGS. 1-5</figref>, the straps <b>16</b> are a single piece of material that each have an unattached front strap portion <b>16</b><i>a </i>an anchor portion <b>16</b><i>b </i>and an unattached rear strap portion <b>16</b><i>c. </i>However, it will be understood that the unattached front strap portion <b>16</b><i>a </i>and unattached rear strap portion <b>16</b><i>c </i>are basically independent straps that can be affixed and unaffixed to the main body portion <b>13</b> as desired. The remainder of the garment is comprised of a series of panels <b>18</b>, that are preferably made of a four-way elastic material. However, these panels do not have to be elastic.</p>
+<p id="p-0059" num="0058"><figref idref="DRAWINGS">FIGS. 6-8</figref> show the garment <b>10</b> inside-out to illustrate the preferred arrangement or pattern of the base grip layers <b>20</b>. The base grip layers <b>20</b> are positioned underneath the straps <b>16</b> and <b>17</b>. This can be seen by comparing, for example, <figref idref="DRAWINGS">FIG. 2</figref> to <figref idref="DRAWINGS">FIG. 6</figref> to see that the base grips layers <b>20</b> have the same configuration as the straps <b>16</b> and <b>17</b>. Therefore, the straps <b>16</b> and <b>17</b> overly a grip layer <b>20</b>. As shown in <figref idref="DRAWINGS">FIGS. 6-8</figref> other baser grip layers <b>20</b> can be positioned at locations where they will not be underneath a strap (for example, see the side leg and butt areas in <figref idref="DRAWINGS">FIG. 7</figref>). This may be for proprioceptive reasons or may be to help prevent migration of the garment or for ease of manufacture. When the garment <b>10</b> is worn by a user <b>12</b>, the base grip layer <b>20</b> is in contact with the skin. The base grip layer <b>20</b> is preferably made of a material that is tacky or provides grip on the skin for providing the desired proprioceptive effects. In another embodiment, the entire layer that is in contact with the skin can be a grip layer (i.e., made of Fabrifoam&#xae; or the like).</p>
+<p id="p-0060" num="0059">Referring once again to <figref idref="DRAWINGS">FIGS. 1-5</figref>, in a preferred embodiment, at least the unattached front and rear strap portions <b>16</b><i>a </i>and <b>16</b><i>c </i>of the leg straps <b>16</b> is positioned over a hook and loop or connector layer <b>22</b>. Each of the front and rear strap portions <b>16</b><i>a </i>and <b>16</b><i>c </i>has at least one and preferably two hook and loop tabs or connectors <b>24</b> that allow the user to affix the straps portions <b>16</b><i>a </i>and <b>16</b><i>c </i>to the connector layer <b>22</b> and to adjust how much tension (or sensorimotor stimulation) on the muscle is comfortable, the specific direction of compression, and support, as described more fully below. It will be understood that any type of connection between the front and rear strap portions <b>16</b><i>a </i>and <b>16</b><i>c </i>of the straps <b>16</b> and the connector layer <b>22</b> is within the scope of the present invention. For example, snaps, buttons, adhesive, hooks or the like are also within the scope of the present invention. In another embodiment, the connector layer <b>22</b> can be omitted and the unaffixed strap portions <b>16</b><i>a </i>and <b>16</b><i>c </i>can be connected directly to the base grip layer <b>20</b>. As will be described more fully below, what is important is that the strap <b>16</b> overlies and places tension on the base grip layer <b>20</b> (which is in contact with the skin), which cues responses in the nerve receptors in the skin. <figref idref="DRAWINGS">FIG. 9</figref> shows a cross section through the garment <b>10</b> at line <b>9</b>-<b>9</b> of <figref idref="DRAWINGS">FIG. 4</figref>. <figref idref="DRAWINGS">FIG. 9</figref> shows the various layers of the garment <b>10</b> and, in particular, the grip layer <b>20</b> in contact with the skin and the nerve receptors therein.</p>
+<p id="p-0061" num="0060">In a preferred embodiment, the straps <b>16</b> and <b>17</b> are fabricated of a two-way elastic material, e.g., FABRIFOAM&#xae; or the like and, as discussed above, each of the front and rear portions <b>16</b><i>a </i>and <b>16</b><i>c </i>include two hook and loop or connector tabs <b>24</b> (which provides a double anchor system). However, this is not a limitation on the present invention. In a preferred embodiment, the anchor section <b>16</b><i>b </i>of the leg straps <b>16</b> is sewn (stitching is marked <b>16</b><i>d</i>&#x2014;e.g., see the lower left strap in <figref idref="DRAWINGS">FIG. 2</figref>) or otherwise permanently attached to the layer underneath. <figref idref="DRAWINGS">FIGS. 4 and 5</figref> illustrate one of the front strap portions <b>16</b><i>a </i>when it is not attached to the connector layer <b>22</b>.</p>
+<p id="p-0062" num="0061">In use, after a user puts the garment <b>10</b> on, for each of the leg straps <b>16</b>, the user pulls the unaffixed front strap portion <b>16</b><i>a </i>and connects the first hook and loop tab <b>24</b> to the connector layer <b>22</b> and then pulls the remainder of the unaffixed front strap portion <b>16</b><i>a </i>and connects the second hook and loop tab <b>24</b> to the connector layer <b>22</b>. This is then repeated for each of the rear strap portions <b>16</b><i>b. </i>In a preferred embodiment, the back leg strap portions <b>16</b><i>c </i>are anchored first. However, this is not a limitation on the present invention.</p>
+<p id="p-0063" num="0062">It will be understood by those skilled in the art that the muscles in the outside of a human's leg generally become dominant, short and tight from overuse and understretch and the body tends to rotate toward tension, thereby causing external rotation of the hip, lower leg and foot, increasing pronation, and serial distortion. All of these imbalances in the muscles that cause this motion collectively create what is known as lower crossed syndrome. For instance, this increased pronation and valgus stress on the knees causes increased stress on joint surfaces and neuromuscular structures including mechanoreceptors and nociceptros within the joint and surrounding soft tissues. The present invention helps derotate the lower extremities and return to a more optimal anatomically neutral and functionally balanced position. When the leg straps <b>16</b> are connected as described above (as shown in <figref idref="DRAWINGS">FIG. 2</figref>), the anchor portion <b>16</b><i>b </i>or <b>16</b><i>d </i>creates a base or anchor, and the two-way stretch causes the leg to rotate or return to the inner leg, where the muscles are underused and weak. This is illustrated by the arrows on straps <b>16</b> in <figref idref="DRAWINGS">FIGS. 2</figref>, <b>3</b> and <b>10</b>. The arrows show that the front and rear strap portions <b>16</b><i>a </i>and <b>16</b><i>c </i>(generally, straps <b>16</b>) have a directional influence on the body of the user <b>12</b>. It forces the user to use underused muscles while the overused muscles are held in a position that causes them to stretch, relax and unload the joints of the hip, lower back, knee, etc. This is what unloads the pressure and stress from the joints and places it back into a more physiologically capable balance of human muscle and joint function. The overtoned/overused muscles include, for example, the gluteus medius, the vastus lateralus, tensor fascia lata, psoas, illicus, piriformis. The undertoned/underused muscles include, for example, gracilas, pecitinious, adductor brevis, adductor longus and vmo.</p>
+<p id="p-0064" num="0063">It will be understood by those skilled in the art that the strapping system <b>100</b> is based upon the concept of a concentration gradient, meaning that the straps <b>16</b> always pull back toward the larger anchor portion <b>16</b><i>b, </i>which is the greater mass of like material, or the seem <b>16</b><i>d, </i>which anchors the straps <b>16</b> to the main body portion <b>13</b>. In other words, in the embodiment shown in <figref idref="DRAWINGS">FIGS. 1-5</figref>, the anchor portion <b>16</b><i>b </i>includes a greater amount of like material than does either the front strap portion <b>16</b><i>a </i>or the rear strap portion <b>16</b><i>c. </i>It is not a limitation that the anchor portion <b>16</b><i>b </i>include more material (as is the case when the anchor is simply a seem <b>16</b><i>d </i>or the like). However, the concentration gradient is more effective if it does. The concept works best when there is more anchored material than loose material and when the materials are the same and include a two-way stretch.</p>
+<p id="p-0065" num="0064">The ab straps <b>16</b> also work via a concentration gradient. As is shown in <figref idref="DRAWINGS">FIGS. 4-5</figref>, for a right handed user, the left ab strap <b>17</b><i>b </i>is placed underneath lightly and the right ab strap <b>17</b><i>a </i>is positioned thereover with more pull. This helps de-rotate the right hip back into a neutral anatomical position and helps prevent predictable antiversion of, for example, the right hip on right handed person. As is shown in <figref idref="DRAWINGS">FIGS. 1-2</figref>, for a left handed user, the right ab strap <b>17</b><i>a </i>is placed underneath lightly and the left ab strap <b>17</b><i>b </i>is positioned thereover with more pull. This helps de-rotate the left hip back into a neutral anatomical position. One of skill in the art will understand that the top strap cues the lower abs to fire and de-rotates the pelvis and shuts off or relaxes the overtoned/inhibited hip flexors. In order to achieve this, in a preferred embodiment, the right and left ab straps <b>17</b><i>a </i>and <b>17</b><i>b </i>include hook and loop tabs or connectors <b>24</b> on both the top and bottom thereof.</p>
+<p id="p-0066" num="0065">It will be understood that the strap system <b>100</b> can be modified in other embodiments of the garment. Although four leg straps <b>16</b> and one ab strap <b>17</b> (and corresponding base grip layers <b>20</b>) are shown in the embodiment of <figref idref="DRAWINGS">FIGS. 1-9</figref>, any number of such straps <b>16</b> and <b>17</b> and of various shapes and sizes, may be employed if desired. For example, the strap system <b>100</b> may include more or less than four straps or the straps may only include unaffixed front strap portions, unaffixed rear strap portions or a combination of both. In another embodiment, the straps can be a four-way elastic or a non-elastic material, and/or can include only a single connector tab <b>24</b>. It will be understood that any embodiment that includes a base grip layer against the skin and a strap positioned thereover is within the scope of the present invention. For example, an embodiment can include a pair of form fitting shorts that include a base grip layer inside that contacts the skin and straps on the outside. The straps <b>16</b> and <b>17</b>, together with the base grip layers <b>20</b> function to stimulate muscles that are too tight (the straps/grip layers will stretch these muscles), or too loose and undertoned (the straps/grip layers will add tone to these muscles and encourage/stimulate them to work).</p>
+<p id="p-0067" num="0066">It will be understood that different embodiments or versions of the shorts can be provided for different users and for different conditions to be corrected. The embodiment shown in <figref idref="DRAWINGS">FIGS. 1-5</figref> has the rear strap portions <b>16</b><i>c </i>extending from the groin toward the back of the leg or hamstring. <figref idref="DRAWINGS">FIG. 10</figref> shows another preferred embodiment of the garment <b>10</b>, where the rear straps <b>16</b><i>c </i>are anchored on the rear of the leg portions <b>14</b> and extend from the rear of the leg portion <b>14</b> (adjacent the hamstring) and toward the groin. It will be understood that the grip layer pattern for this version of the garment can be similar to that shown in <figref idref="DRAWINGS">FIG. 6-8</figref>.</p>
+<p id="p-0068" num="0067"><figref idref="DRAWINGS">FIG. 11</figref> shows a garment <b>10</b> similar to that shown in <figref idref="DRAWINGS">FIGS. 1-5</figref>, except that it includes one removable strap <b>26</b>. In <figref idref="DRAWINGS">FIG. 11</figref>, the removable strap <b>26</b> has one end unattached and the other end attached. The removable strap <b>26</b> includes hook and loop tabs or connectors <b>24</b> on both ends thereof and can include connectors <b>24</b> anywhere along its length to keep the strap <b>26</b> attached to the garment <b>10</b> as desired. The removable strap(s) <b>26</b> provide greater adjustability than straps that are permanently anchored to the garment <b>10</b>.</p>
+<p id="p-0069" num="0068"><figref idref="DRAWINGS">FIGS. 12-16</figref> show another preferred embodiment of a garment <b>30</b>. In this embodiment of the present invention the garment <b>30</b> is a three quarter length pair of pants that extend just below a wearer's knee. It will be understood that the portion of the garment <b>30</b> above the knees is the same as the garment <b>10</b> described above. Therefore, only the portion of the garment <b>30</b> that is different will be described.</p>
+<p id="p-0070" num="0069">Just below the knee, the garment <b>30</b> includes at least one sub-patella strap <b>16</b>. In the embodiment shown in <figref idref="DRAWINGS">FIGS. 12-14</figref>, each leg portion <b>14</b> of the garment <b>30</b> includes two sub-patella straps <b>16</b>, one that extends from the midline of medial aspect of the knee joint and extends around laterally and ending at the lateral posterior aspect of the proximal head of the fibula. Generally, it extends from the inner leg around the front. The other strap <b>16</b> extends from the midline superior posterior aspect of the trisceps surac (calf muscles) and toward the inner leg. Generally, it extends from the middle of the back of the leg toward the inner leg. As shown, the sub-patella strap <b>16</b> on the back of the leg is preferably positioned about an inch below the joint line. As can be seen in <figref idref="DRAWINGS">FIG. 14</figref>, the sub-patella straps extend at an angle and in a spiral direction about the axis of the leg portion <b>14</b>. <figref idref="DRAWINGS">FIGS. 15-16</figref> show the garment <b>30</b> inside-out to illustrate the preferred arrangement or pattern of the base grip layers <b>20</b>. It will be understood that the grip layers <b>20</b> may or may not have a spiral shape to them. In an embodiment where the spiral is important, it only matters that the corresponding straps <b>16</b> have the spiral shape and that they overly a grip layer <b>20</b>. In a preferred embodiment, these straps <b>16</b> in combination with the grip layers <b>20</b> cause reciprocal inhibition by creating traction and directional compression over cutaneous neuro receptors from lateral (posterior-lateral proximal head of fibula which is an area extremely dense with sensitive nerve receptors/golgi tendon organs and where many tendons attach) to medial commonly weaker, less supportive, less coordinated and less reactive to stress) causing muscles of wearer's medial thigh and lower leg to contract, tone, balance and optimally align, adding instant and improved sensory motor support and stability to the knee and lower extremity as a whole because the muscles (dynamic support system) now function with rhythm and synchrony and unload the mechanical stress that often pre loads a joint, decreases it's range of motion and function and makes it susceptible to injury of the wear and tear and traumatic nature.</p>
+<p id="p-0071" num="0070"><figref idref="DRAWINGS">FIGS. 17-21</figref> show another preferred embodiment of a garment <b>40</b>. In this embodiment of the present invention, the garment <b>40</b> is a full length pair of pants that extend to a point just above a wearer's foot. It will be understood that the majority of the garment <b>40</b> is the same as the garment <b>30</b> described above. Therefore, only the portion of the garment <b>40</b> that is different will be described.</p>
+<p id="p-0072" num="0071">In a preferred embodiment, the garment <b>40</b> includes at least one shin or tibia strap <b>16</b>, and preferably a pair of shin straps <b>16</b>. In the embodiment shown in <figref idref="DRAWINGS">FIGS. 17-19</figref>, each leg portion <b>14</b> of the garment <b>40</b> includes two shin straps <b>16</b>. In a preferred embodiment, the shin straps <b>16</b> on each leg portion <b>14</b> extend from the middle of the front of the shin at the tibia and around the inside and outside of the shin, respectively, and toward the back of the leg (on both leg portions <b>14</b>). However, the placement or location of the stitching <b>16</b><i>d </i>or anchor is not a limitation on the present invention. As can be seen in <figref idref="DRAWINGS">FIG. 18</figref>, the shin straps <b>16</b> extend in a spiral manner. <figref idref="DRAWINGS">FIGS. 20-21</figref> show the garment <b>40</b> inside-out to illustrate the preferred arrangement or pattern of the base grip layers <b>20</b>. In a preferred embodiment, these shin straps <b>16</b> in combination with the grip layers allow the wearer to adjust and control lower leg internal and external rotation (duck walk or opposite gait known as pigeon toe). Many people are either lower extremity gait pronators (90+ % of the population) or a supinator. The shin strap <b>16</b> allows the wearer to help correct these problems and to adjust and control lower leg internal and external rotation as desired. This helps decrease serial distortion caused by over pronation or over supination. The tibia strap <b>16</b> helps prevent midial tibial torsion syndrome (shin splints), high ankle sprains and peroneal tendonopathy. In an embodiment of the invention, as shown in <figref idref="DRAWINGS">FIG. 17</figref>, between the sub-patella straps <b>16</b> and the shin straps <b>16</b>, the lower leg portion <b>14</b><i>b </i>can include two different materials, a two-stretch material portion <b>19</b> on the front and the normal stretch panel <b>18</b> on the back. However, this is not a limitation and this entire portion of the pants can also be made of four-way stretch panel <b>18</b> or two-way stretch material <b>19</b>.</p>
+<p id="p-0073" num="0072"><figref idref="DRAWINGS">FIGS. 22-32</figref> show another preferred embodiment of a garment <b>50</b>. In this embodiment of the present invention the garment <b>50</b> is a full length pair of pants that includes stirrups <b>52</b> that at least partially surround a wearer's foot. It will be understood that the majority of the garment <b>50</b> is the same as the garment <b>40</b> described above. Therefore, only the portion of the garment <b>50</b> that is different will be described. <figref idref="DRAWINGS">FIGS. 25-26</figref> show the garment <b>50</b> inside-out to illustrate the preferred arrangement or pattern of the base grip layers <b>20</b>.</p>
+<p id="p-0074" num="0073">In a preferred embodiment, as shown in <figref idref="DRAWINGS">FIGS. 22-24</figref>, each leg portion <b>14</b> of the garment <b>50</b> includes a stirrup <b>52</b>. The arch stirrup <b>52</b> supports and adds a suspension system that supports the wearers heel (a natural fat pad) and the longitudinal and transverse arches of the foot. The support by the stirrup <b>52</b> elevates and stimulates the sensory motor system through the cutaneous nerve receptors in the bottom of the feet that are in numbers up to four times greater than most other parts of the human body.</p>
+<p id="p-0075" num="0074">As shown in <figref idref="DRAWINGS">FIG. 22</figref> and the stirrup <b>52</b> preferably includes a heel support <b>54</b>, a longitudinal arch support <b>56</b>, a transverse arch support <b>58</b> and an adjustable arch strap <b>60</b>. Together, these components all cooperate to define a space where the wearer's foot fits. The components of the stirrup <b>52</b> are preferably made of a grip material or layer, such as Fabrifoam&#xae;.</p>
+<p id="p-0076" num="0075">The longitudinal arch support <b>56</b> preferably mimics the function of a normal, toned posterior tibialis muscle that when functioning normally, naturally adds tone, support and lift to the longitudinal arch of the foot by lifting the arch from inferior to superior direction.</p>
+<p id="p-0077" num="0076">In a preferred embodiment, the heel support <b>54</b> preferably acts as a baffle to add support and continuity to the natural shock absorber in the heel of the foot. The heel support <b>54</b> creates a &#x201c;fat pad dam&#x201d; that allows the fat pad to stay full and not flatten out which helps the foot better absorb shock and pounding that occurs during very common abnormal gait patterns such as over pronating produces. Over time it is common for the natural ligamentous baffle to fail, causing the fat pad to compress, spread out and lose its shock absorbing capability. The heel support <b>54</b> helps control and concentrate the shape and efficacy of the pad so its function can be at its optimum.</p>
+<p id="p-0078" num="0077">In a preferred embodiment, the transverse arch support <b>58</b> includes two members that criss-cross as best shown in <figref idref="DRAWINGS">FIG. 22</figref> The criss-cross pattern takes advantage of the spiral/helix features discussed above. The transverse arch support <b>58</b> supports under and across the midfoot at the transverse arch adding suspension and support of the foot during pronation, supination, inversion and eversion.</p>
+<p id="p-0079" num="0078">The adjustable arch strap <b>60</b> (shown in <figref idref="DRAWINGS">FIGS. 27</figref>, <b>28</b> and <b>32</b>) includes connectors <b>24</b> (preferably hook and loop tabs) at the opposite ends thereof This allows the strap <b>60</b> to be connected at or near the shin straps <b>16</b> and the bottom of strap <b>60</b> is attached under the mid line of the longitudinal arch, as shown in <figref idref="DRAWINGS">FIGS. 27 and 28</figref>. The wearer can adjust the strap <b>60</b> based upon how much arch support the wearer desires. The further up the leg the strap <b>60</b> is attached, the more lift is accomplished. In a preferred embodiment, the strap <b>60</b> includes double anchors or connectors <b>24</b>, as is shown in <figref idref="DRAWINGS">FIG. 29</figref>. However, this is not a limitation on the present invention. In use, the upper end of the strap <b>60</b> is preferably attached first and then the bottom or lower end of the strap <b>60</b> is attached under the longitudinal arch. In a preferred embodiment, the arch strap <b>60</b> is connected at or near the natural origin of the posterior tibialis. As shown in the figures, the longitudinal arch support <b>56</b> includes a connector layer <b>22</b> thereon for connecting the arch strap <b>60</b> as desired. It will be understood that the entire stirrup <b>52</b> can have a connector layer <b>22</b> on the outside thereof for connecting straps <b>60</b> as desired.</p>
+<p id="p-0080" num="0079"><figref idref="DRAWINGS">FIGS. 30-32</figref> show a series of elevational views of a wearer's foot. <figref idref="DRAWINGS">FIG. 30</figref> shows a foot without any support. This is a typical case of a flat arch with undertoned muscles. As can be seen in <figref idref="DRAWINGS">FIG. 31</figref>, using the stirrup <b>52</b>, the arch support <b>56</b> provides support and lifts the arch of the foot. As shown in <figref idref="DRAWINGS">FIG. 32</figref>, the addition of the adjustable arch strap <b>60</b> provides even further lift and support to the arch of the foot. It will be appreciated that these figures show the stirrup without any Velcro or connector layer on the outside <b>22</b>, except on the longitudinal arch support <b>56</b>.</p>
+<p id="p-0081" num="0080">In the exemplary embodiments shown in the figures, the garments <b>10</b>, <b>30</b>, <b>40</b> and <b>50</b> are made of a plurality of pieces that are sewn together. It will be understood that the two-way stretch portions of the garments are made of Fabrifoam&#xae; with a layer of female hook and loop connector material on the opposite side. These are the grip and connector layers and are apparent by comparing the figures showing the outside of the garment to the figures showing the inside&#x2014;the grip layers <b>20</b> correspond to the Velcro connector layers <b>22</b> (e.g., compare <figref idref="DRAWINGS">FIG. 2</figref> to <figref idref="DRAWINGS">FIG. 6</figref> or compare <figref idref="DRAWINGS">FIG. 3</figref> to <figref idref="DRAWINGS">FIG. 8</figref>). The leg straps <b>16</b>, ab straps <b>17</b>, adjustable arch strap <b>60</b> and stirrup <b>52</b> are also made of this material. The 4-way stretch pieces or panels <b>18</b> are made of nylon. All of the pieces are sewn together to make the garment. It will be understood that this construction is only exemplary and not intended to be a limitation on the present invention.</p>
+<p id="p-0082" num="0081">Generally, in use, the stirrup <b>52</b> decreases over pronation, flat feet, serial distortion and/or other common mechanical and sensory motor muscular imbalances that can cause abnormal gait and movement pattern (wear and tear) pathology both locally in the lower extremities and globally, throughout the body's neuromusculoskeletal system. The stirrup <b>52</b> decreases stress on the joints by cuing proprioception and synchronizing the correct, optimal muscles and their firing patterns and retrains the muscles to better dynamically support structures that normally help displace weight and allow the wearer to move smoothly and efficiently. It will be understood that it is within the scope of the present invention to include any of the components of the stirrup <b>52</b> in various embodiments of the present invention. For example, only the longitudinal arch support may be included. In another embodiment, only the heel support may be included. In another embodiment, the adjustable arch strap may be permanently attached to the leg portion at one end.</p>
+<p id="p-0083" num="0082">Other embodiments may just include straps on the lower leg portions <b>14</b><i>b. </i>In other embodiments, viscoelastic tape can be disposed in certain portions of the garment for the purpose of preventing migration of the garment. Alternative means for providing a tacky surface for contacting the user's skin may also be used. It will understood that any combination of straps is within the scope of the present invention. In another embodiment, the garment may omit the straps and just include stirrups or may just include ab straps and stirrups.</p>
+<p id="p-0084" num="0083">In another preferred embodiment, the garment <b>10</b>, <b>30</b>, <b>40</b> or <b>50</b> may include neuro nubs, similar to those disclosed in the '704 publication. These neuro nubs preferably comprise soft, tacky bumps, or cutaneous nerve receptor stimulators, which are designed to provide a massaging, stimulating effect when the user moves. In general, patterns of such neuro nubs are helpful in creating proprioceptive stimulation, and also function to provide decreased migration of the garment as the body moves throughout its full range of motion. They are disposed at specific areas on the inside surface of the garment, to stimulate cutaneous nerve receptors in the skin and soft tissue structures to enhance &#x201c;noise&#x201d; that creates cues to the brain, enhancing muscle balance, body position awareness, posture, function, and performance.</p>
+<p id="p-0085" num="0084">Desired locations of the neuro nubs are at known acupuncture sites, as stimulation of these specific energy meridians enhances blood flow and stimulates normal physiology to organs and soft tissues that supply movement, support, and information crucial to those seeking optimal health and function. However, this is not a limitation on the present invention.</p>
+<p id="p-0086" num="0085">Conventional approaches to date have focused on mechanical support systems that have been shown to create atrophy and a reliance on a brace, which in the long term can create a system of dependence that the inventor believes is detrimental to optimal health and efficient recovery and performance. The straps together with the grip layers, create specific traction and tactile stimulation of cutaneous nerves in the skin. There are a minimum of 20,000 of such nerves per square inch of skin that will transfer specific information to the receptors (mechanoreceptors/nociceptors) that exist by the thousands/millions in the muscle, tendon, ligament, and joint surfaces, causing a predictable unloading of specific, predictable and common muscle imbalances that create and perpetuate joint stress and injury throughout the body.</p>
+<p id="p-0087" num="0086">Proprioceptive viscoelastic pads may optionally be employed in each of the illustrated embodiments, on the inside surface thereof, either permanently or releasably mounted thereto, for contacting the user's skin at strategic acupuncture meridian points or other locations in order to increase the proprioceptive effect of the garment. These pads, preferably made of silicone, have a skin-contacting surface which is grooved or otherwise modified to improve tactile response, using an acupuncture-type approach. The pressure generated by the garment <b>10</b>, <b>30</b>, <b>40</b> or <b>50</b> creates an acupressure effect. The strategic locations and numbers of pads may be varied in accordance with specific therapeutic objectives.</p>
+<p id="p-0088" num="0087">Essentially, the garment of the invention functions to create an exoskeleton for the user's lower body, thereby allowing for the sensory motor stimulation or proprioceptive awareness of strategic regions. Increased pressure is applied to these strategic body regions to perform the advantageous sensory motor stimulation or proprioceptive retraining or awareness. Prior art approaches involved mechanical treatment, i.e. physically manipulating portions of the body to desired configurations and limiting all range of motion including the healthy range of motion or non-injured muscles, which, over time, weakens muscles and makes the wearer dependent and decreases proprioception. This modern inventive approach instead induces a nervous system response through the application of strategic sensory motor stimulation and proprioceptive retraining and cuing and allows uninjured muscles to continue to move in the healthy range of motion, even during recovery. Accordingly, the garment provides advantageous effects for injured and uninjured wearers alike.</p>
+<p id="p-0089" num="0088">Accordingly, although exemplary embodiments of the invention have been shown and described, it is to be understood that all the terms used herein are descriptive rather than limiting, and that many changes, modifications, and substitutions may be made by one having ordinary skill in the art without departing from the spirit and scope of the invention.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A garment adapted to be worn by a wearer, the garment comprising:
+<claim-text>a main body portion, wherein the main body portion is configured to be worn over at least a portion of the wearer's lumbo-pelvic region, hips and at least a portion of the legs, wherein the main body portion includes first and second leg portions that each define an axis,</claim-text>
+<claim-text>at least a first strap associated with the main body portion: wherein at least a portion of the first strap is releasably affixed to the first leg portion, and</claim-text>
+<claim-text>at least a first grip layer associated with the main body portion, wherein the first strap overlies the first grip layer, and wherein the first grip layer is configured to come into contact with a wearer's skin when the garment is worn.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The garment of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the first strap is positioned such that it extends in a spiral about the axis of the first leg portion.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The garment of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the first strap has a first end that is permanently affixed to the main body portion and a second end that is temporarily affixed to the main body portion by a connector.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The garment of <claim-ref idref="CLM-00003">claim 3</claim-ref> wherein the first strap includes a second connector located between the first connector and the second end.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The garment of <claim-ref idref="CLM-00004">claim 4</claim-ref> wherein the first and second connectors are hook and loop connectors and wherein the first leg portion includes corresponding hook and loop connectors for affixing the first strap to the first leg portion.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The garment of <claim-ref idref="CLM-00001">claim 1</claim-ref> further comprising first and second ab straps associated with the main body portion.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The garment of <claim-ref idref="CLM-00006">claim 6</claim-ref> wherein the first and second ab straps each have a front surface and a back surface that have a connector thereon, whereby the first and second ab straps can be connected with the first ab strap on top or the second ab strap on top.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. A method comprising the steps of:
+<claim-text>donning a garment that covers at least a portion of the wearer's lumbo-pelvic region, hips and at least a portion of the legs, wherein the garment includes first and second leg portions that each define an axis,</claim-text>
+<claim-text>positioning a first strap on the first leg portion such that it extends in a spiral about the axis of the first leg portion, thereby defining a first spiral direction, wherein the first strap overlies a first grip layer that is in contact with the skin on the wearer's leg, and wherein the first grip layer pulls the wearer's skin in the first spiral direction.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The method of <claim-ref idref="CLM-00008">claim 8</claim-ref> further comprising the step of positioning a second strap on the second leg portion such that it extends in a spiral about the axis of the second leg portion, thereby defining a second spiral direction, wherein the second strap overlies a second grip layer that is in contact with the skin on the wearer's leg, and wherein the second grip layer pulls the wearer's skin in the second spiral direction.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The method of <claim-ref idref="CLM-00009">claim 9</claim-ref> wherein the first and second leg portions each include an upper leg portion and a lower leg portion, wherein the first and second straps are positioned on the upper leg portions of the first and second leg portions, respectively, wherein the method further comprises positioning third and fourth straps on the lower leg portions of the first and second leg portions, respectively, wherein the third and fourth straps overly third and fourth grip layers that are in contact with the skin on the wearer's leg.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text><b>11</b>. The method of <claim-ref idref="CLM-00008">claim 8</claim-ref> further comprising the step of connecting a first ab strap to a second ab strap.</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text><b>12</b>. A garment adapted to be worn by a wearer, the garment comprising:
+<claim-text>a main body portion, wherein the main body portion is configured to be worn over at least a portion of the wearer's lumbo-pelvic region, hips and at least a portion of the legs, wherein the main body portion includes first and second leg portions that each define an axis,</claim-text>
+<claim-text>a strap system that includes a plurality of leg straps releasably affixed to the main body portion, wherein each of the leg straps includes at least one connector for affixing the strap to the main body portion, wherein each of the leg straps overlies a grip layer that is adapted to contact the wearer's skin when the garment is worn.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text><b>13</b>. The garment of <claim-ref idref="CLM-00012">claim 12</claim-ref> wherein each of the leg straps is positioned such that it extends in a spiral about the axis of one of the first and second leg portions.</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text><b>14</b>. The garment of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein each of the leg straps has a first end that is permanently attached to the main body portion and a second end that includes the at least one connector thereon.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text><b>15</b>. The garment of <claim-ref idref="CLM-00014">claim 14</claim-ref> wherein the first and second leg portions each include an upper leg portion, and wherein the strap system includes at least one leg strap on the upper leg portion of the first leg portion and at least one leg strap on the upper leg portion of the second leg portion.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text><b>16</b>. The garment of <claim-ref idref="CLM-00015">claim 15</claim-ref> wherein the first and second leg portions each include a lower leg portion and a knee portion, and wherein the strap system includes at least one leg strap on the lower leg portion just below the knee portion of the first leg portion and at least one leg strap on the lower leg portion just below the knee portion of the second leg portion.</claim-text>
+</claim>
+<claim id="CLM-00017" num="00017">
+<claim-text><b>17</b>. The garment of <claim-ref idref="CLM-00016">claim 16</claim-ref> wherein the strap system includes at least one leg strap on the shin portion of the first leg portion and at least one leg strap on the shin portion of the second leg portion.</claim-text>
+</claim>
+<claim id="CLM-00018" num="00018">
+<claim-text><b>18</b>. The garment of <claim-ref idref="CLM-00017">claim 17</claim-ref> wherein each of the first and second leg portions include a stirrup extending from the bottom thereof.</claim-text>
+</claim>
+<claim id="CLM-00019" num="00019">
+<claim-text><b>19</b>. The garment of <claim-ref idref="CLM-00018">claim 18</claim-ref> wherein each of the first and second leg portions include an adjustable arch strap attached at an upper end to the leg portion and at a lower end to the stirrup.</claim-text>
+</claim>
+<claim id="CLM-00020" num="00020">
+<claim-text><b>20</b>. The garment of <claim-ref idref="CLM-00018">claim 18</claim-ref> wherein the stirrups each include a longitudinal arch support, a transverse arch support and a heel support. </claim-text>
+</claim>
+</claims>
+</us-patent-application>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v42-2006-08-23.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.2 2006-08-23" file="US20110000006A1-20110106.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20101222" date-publ="20110106">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20110000006</doc-number>
+<kind>A1</kind>
+<date>20110106</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12497914</doc-number>
+<date>20090706</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>43</class>
+<subclass>B</subclass>
+<main-group>17</main-group>
+<subgroup>00</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110106</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>A</section>
+<class>41</class>
+<subclass>D</subclass>
+<main-group>27</main-group>
+<subgroup>20</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110106</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>  2240</main-classification>
+<further-classification>  2250</further-classification>
+</classification-national>
+<invention-title id="d0e43">HEEL PROTECTORS</invention-title>
+<parties>
+<applicants>
+<applicant sequence="00" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Fehring</last-name>
+<first-name>Thomas K.</first-name>
+<address>
+<city>Charlotte</city>
+<state>NC</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<correspondence-address>
+<addressbook>
+<name>BLAKELY SOKOLOFF TAYLOR &#x26; ZAFMAN LLP</name>
+<address>
+<address-1>1279 OAKMEAD PARKWAY</address-1>
+<city>SUNNYVALE</city>
+<state>CA</state>
+<postcode>94085-4040</postcode>
+<country>US</country>
+</address>
+</addressbook>
+</correspondence-address>
+</parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">In order to prevent heel ulcers and Achilles' tendon ulcers as described above, a sock with a gelfoam pad or other supporting material in the Achilles' tendon area and the heel area is slid into an outside pocket of a sock. In one embodiment, a circle-shaped or oval-shaped hole is formed in the gelfoam pad in the region of the Achilles' tendon area and the heel area to relieve pressure on these areas. Non-slip material is also affixed to the sole of the sock. These socks are easily removed. Two pairs may be used for a patient such that the inserts may be removed from one for to the other so that one could be washed while the other is being used. In addition, the socks may be placed underneath the cast or on a knee immobilizer or on any bed-ridden patient at any hospital to prevent the serious problems described above.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="125.65mm" wi="114.05mm" file="US20110000006A1-20110106-D00000.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="160.95mm" wi="113.03mm" file="US20110000006A1-20110106-D00001.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="133.60mm" wi="102.28mm" file="US20110000006A1-20110106-D00002.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">BACKGROUND</heading>
+<p id="p-0002" num="0001">Orthopedic patients and especially elderly patients with diminished mental capacity frequently have lower extremity fractures or injuries. Common treatment for these types of injuries are knee immobilizers which are made of padded material with Velcro straps and metal stays along the back. These frequently slip down and cause large pressure ulcers on the Achilles' tendon and on the heel. Once this happens, the patient is looking at months of dressing changes and possible plastic surgery intervention to cure the problem. These are extremely common problems.</p>
+<p id="p-0003" num="0002">Additionally, when people are placed in long leg casts, especially nursing home patients or the elderly who do not get adequate attention, severe heel ulcers often result.</p>
+<p id="p-0004" num="0003">Finally, there are a group of patients who, with diminished mental status or physical capacity get heel sores while lying in the bed. This problem can be magnified in patients who have diabetes or peripheral vascular disease. The diabetic patients have diminished sensation making them more susceptible to the problem. Those patients with peripheral vascular disease have diminished blood flow to the area making them more susceptible also.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0002" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0005" num="0004">A better understanding of the present invention can be obtained from the following detailed description in conjunction with the drawings, in which:</p>
+<p id="p-0006" num="0005"><figref idref="DRAWINGS">FIG. 1</figref> illustrates a sock with a pocket for holding a gelfoam pad according to one embodiment of the invention.</p>
+<p id="p-0007" num="0006"><figref idref="DRAWINGS">FIG. 2</figref> illustrates a gelfoam pad with an oval hole and a corresponding pocket into which the gelfoam pad is placed in one embodiment of the invention.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0003" level="1">SUMMARY</heading>
+<p id="p-0008" num="0007">In order to prevent heel ulcers and Achilles' tendon ulcers as described above, a sock with a gelfoam pad, a felt pad, or similar supporting material is slid into an outside pocket of a sock to protect the Achilles' tendon area and the heel. In one embodiment, a circle-shaped or oval-shaped hole is formed in the pad in the region of the Achilles' tendon area and the heel area to relieve pressure on these areas. Additionally, in one embodiment, non-slip material is placed on the sole of the sock to prevent falls during hospitalization. These socks are easily removed. Two pairs may be used for a patient such that the inserts may be removed from one for to the other so that one could be washed while the other is being used. In addition, the socks may be placed underneath the cast or on a knee immobilizer or on any bed-ridden patient at any hospital to prevent the serious problems described above.</p>
+<heading id="h-0004" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0009" num="0008">In one embodiment of the invention, in order to prevent heel ulcers and Achilles' tendon ulcers as described above, a sock with a pad in the Achilles' tendon area and the heel area is slid into an outside pocket of a sock. In one embodiment, a donut-shaped or oval-shaped hole is formed in the pad in the region of the Achilles' tendon area and the heel area to relieve pressure on these areas. These socks are easily removed. Two pairs may be used for a patient such that the inserts may be removed from one for to the other so that one could be washed while the other is being used. In addition, the socks may be placed underneath the cast or on a knee immobilizer or on any bed-ridden patient at any hospital to prevent the serious problems described above.</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. 1</figref> illustrates one embodiment of the invention comprised of a sock <b>102</b> with a pocket <b>101</b> affixed to the heel area of the sock <b>102</b>. The pocket <b>101</b> and sock <b>102</b> may be manufactured using various materials including, by way of example and not limitation, cotton, polyester, nylon, wool or synthetic blends of material, or any combination thereof. Of course, the underlying principles of the invention are not limited to any particular material.</p>
+<p id="p-0011" num="0010">In one embodiment, the pocket <b>101</b> and sock <b>102</b> are manufactured individually and the pocket <b>101</b> is then stitched to the back of the sock <b>102</b>. Alternatively, a sock <b>102</b> with a pocket <b>101</b> may be manufactured together as a single unit.</p>
+<p id="p-0012" num="0011">The sock <b>102</b> has an internal surface, which comes in contact with the patient's foot and an external surface, to which the pocket is affixed. As illustrated in <figref idref="DRAWINGS">FIG. 1</figref>, the external surface has a front-facing region <b>110</b> (&#x201c;front-facing&#x201d; in relation to the body of the user), an underside <b>111</b> and a posterior region <b>112</b> (covering the patient's Achilles' tendon and heel). As illustrated, in one embodiment, the pocket <b>101</b> is affixed to the posterior region <b>112</b> of the external surface of the sock <b>102</b>.</p>
+<p id="p-0013" num="0012">Additionally, in one embodiment, non-slip material is affixed to the sole of the sock to prevent falls during hospitalization.</p>
+<p id="p-0014" num="0013">As illustrated in <figref idref="DRAWINGS">FIG. 2</figref>, one embodiment of the invention includes a pad <b>201</b> formed from a gelfoam, a felt pad, or similar supporting material such as expanded polystyrene foam. In one embodiment, the pad is formed from Sorbothane, a synthetic viscoelastic polymer containing rubber silicone and elastic polymers. A hole <b>202</b> is formed in the pad <b>201</b>. The hole is positioned such that, when the pad <b>201</b> is placed into the pocket <b>101</b>, it will be located around the region of the Achilles' tendon area and the heel area of the patient to relieve pressure on these areas. In the present implementation, the pad is 16 cm long, 6.75 cm wide, and 0.7 cm deep. The hole in the pad is oval and 3.2 cm at its maximum width and 6.25 cm at its maximum height. The pocket <b>101</b> is sized to allow the pad to fit snugly between the pocket <b>101</b> and the sock <b>102</b>. In one embodiment, the pocket is 17 cm long and 7.5 cm wide, and 0.5 cm deep. Of course, various other sizes may be employed as long as the hole <b>202</b> aligns with the Achilles' tendon area and the heel area of the patient when the pad <b>201</b> is placed in the pocket <b>101</b>.</p>
+<p id="p-0015" num="0014">Moreover, various different sizes of socks, pockets and pads may be designed for different patents. In one embodiment, three different sizes are employed: extra-small, small, medium, large, and extra-large to account for patients with different sized feet.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>What is claimed is:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. An apparatus for prevent pressure ulcers on patients comprising:
+<claim-text>a sock adapted to fit around a human foot;</claim-text>
+<claim-text>a pocket affixed to a posterior region of the sock and positioned to cover a portions of the Achilles' tendon area and the heel area of a patient wearing the sock; and</claim-text>
+<claim-text>a pad sized in relation to the pocket to fit snugly within the pocket, the pad having a hole formed therein and positioned to provide pressure relief in the patient's Achilles' tendon area and/or heel area when the patient is wearing the sock.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The apparatus as in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the hole is oval in shape.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The apparatus as in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the pad is formed from gelfoam.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The apparatus as in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the pad is formed from felt.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The apparatus as in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the pad is formed from Sorbothane.</claim-text>
+</claim>
+</claims>
+</us-patent-application>

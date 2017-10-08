@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v42-2006-08-23.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.2 2006-08-23" file="US20110000003A1-20110106.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20101222" date-publ="20110106">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20110000003</doc-number>
+<kind>A1</kind>
+<date>20110106</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>12460569</doc-number>
+<date>20090721</date>
+</document-id>
+</application-reference>
+<us-application-series-code>12</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>63</class>
+<subclass>C</subclass>
+<main-group>11</main-group>
+<subgroup>04</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110106</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>32</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>02</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110106</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>32</class>
+<subclass>B</subclass>
+<main-group>5</main-group>
+<subgroup>18</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110106</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>D</section>
+<class>04</class>
+<subclass>B</subclass>
+<main-group>1</main-group>
+<subgroup>22</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20110106</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classification-national>
+<country>US</country>
+<main-classification>  2  215</main-classification>
+<further-classification>442304</further-classification>
+<further-classification>442315</further-classification>
+<further-classification> 66170</further-classification>
+</classification-national>
+<invention-title id="d0e43">Wetsuit made with a non-absorbent and quick drying fabric</invention-title>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>61222112</doc-number>
+<kind>00</kind>
+<date>20090701</date>
+</document-id>
+</us-provisional-application>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="00" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Shiue</last-name>
+<first-name>Min-Chen</first-name>
+<address>
+<city>I-Lan Hsien</city>
+<country>TW</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>TW</country>
+</residence>
+</applicant>
+</applicants>
+<correspondence-address>
+<addressbook>
+<name>LEONARD TACHNER, A PROFESSIONAL LAW;CORPORATION</name>
+<address>
+<address-1>17961 SKY PARK CIRCLE, SUITE 38-E</address-1>
+<city>IRVINE</city>
+<state>CA</state>
+<postcode>92614</postcode>
+<country>US</country>
+</address>
+</addressbook>
+</correspondence-address>
+</parties>
+<assignees>
+<assignee>
+<orgname>SHEI CHUNG HSIN IND, CO. LTD.</orgname>
+<role>03</role>
+</assignee>
+</assignees>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A wetsuit having an outer and/or inner surface is manufactured from an improved non-absorbent and quick drying fabric. The improved non-absorbent and quick drying fabric is made of 100% non-absorbent fiber, selected from polyester, having a fineness ranging from 30 denier to 75 denier, and pre-processed with water repellent before being knitted, then knitted by a single circular knitting machine under a setting of 18&#x2dc;44 gauge per inch. The result is an improved fine, thin, non-absorbent, and quick drying fabric, which prevents the penetration of water molecules. The improved non-absorbent and quick drying fabric is laminated with a rubber sponge material to form an improved non-absorbent and quick drying wetsuit material. Appropriate cutting and sewing processes are employed to finish the formation of a wetsuit and the improved non-absorbent and quick drying wetsuit is lighter and dries quicker when the wearer leaves the water since less water is absorbed by the wetsuit fabric as compared to a conventional wetsuit.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="53.93mm" wi="262.04mm" file="US20110000003A1-20110106-D00000.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="254.25mm" wi="82.89mm" file="US20110000003A1-20110106-D00001.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="262.21mm" wi="152.06mm" orientation="landscape" file="US20110000003A1-20110106-D00002.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="265.85mm" wi="94.32mm" file="US20110000003A1-20110106-D00003.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="257.39mm" wi="163.75mm" orientation="landscape" file="US20110000003A1-20110106-D00004.TIF"  img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims priority from U.S. Provisional Patent Application Ser. No. 61/222,112 filed Jul. 1, 2009.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">1. Field of the Invention</p>
+<p id="p-0004" num="0003">The present invention relates generally to the field of wetsuits used for diving, surfing and the like, and more specifically to an improved non-absorbent and quick drying fabric used to manufacture the outer and/or inner surface of a wetsuit. The wetsuit is made of the non-absorbent fiber which is pre-processed with the water repellent before being knitted, then knitted by a single circular knitting machine under a setting of 18&#x2dc;44 gauge per inch to form an improved fine and thin fabric. The non-absorbent fiber is selected from polyester having a fineness ranging from 30 denier to 75 denier and the thickness of the knitted fabric is in the range of 0.3&#x2dc;0.55 mm.</p>
+<p id="p-0005" num="0004">The present invention relates particularly to an improved non-absorbent and quick drying fabric used to manufacture the outer and/or inner surface of a wetsuit. The fabric has the ability to prevent the penetration of water molecules. The fabric is fine and has the function of non-absorbent and quick drying that provides the performance of drying quicker, a smoother sense of touch, longer life than smooth skin and glide skin and solves the drawback of wind-chill on a wearer after leaving the water.</p>
+<p id="p-0006" num="0005">2. Background Art</p>
+<p id="p-0007" num="0006">After wearing a conventional wetsuit for diving or related water sports activities, where the wearer is immersed in water, the fabric of the outer and/or inner surface of the wetsuit will absorb water and make the wetsuit wearer feel heavy, uncomfortable and cold caused by wind-chill, after the wearer leaves the water. There are some wetsuit manufacturers which have developed a method of production to have the fabric, used as the outer surface of a wetsuit, immersed in the water repellent to lessen the amount of water absorption that may reduce the above-noted drawbacks. However, this method has the disadvantage that the effects of water repellent will decrease with time due to repeated rubbing or washing. Also, it is not easy to glue to the rubber sponge or apply ink with printing, and the sense of touch is not smooth since the water repellent forms a hard and serrated film like a paper which covers the fabric after the immersing process.</p>
+<p id="p-0008" num="0007">There are some wetsuit manufacturers which have developed the method of production to replace the fabric that used to be the outer surface of a wetsuit with a smooth skin, flat neoprene, or glide skin, neoprene coated with PU, that are all non-absorbent to avoid the defect of water absorption to reduce the drawbacks of wind-chill mentioned above. However, this method has the disadvantage of the effects of having no aesthetic appeal since the smooth skin is a flat surface of neoprene that is black only, and the strength and the performance are less than a fabric laminated with neoprene.</p>
+<p id="p-0009" num="0008">It would be highly advantageous if it were possible to make the outer and/or inner surface of the wetsuit non-absorbent, to have a good sense of touch, and perform with strength and anti-friction that not only make the wetsuit aesthetically pleasing but also solves the drawback of wind-chill and lasts longer.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0010" num="0009">The present invention relates to the field of wetsuits used for diving, surfing and the like, and more specifically to the outer and/or inner surface of an improved wetsuit made of a non-absorbent and quick drying fabric.</p>
+<p id="p-0011" num="0010">The improved non-absorbent and quick drying fabric is made entirely of non-absorbent yarn selected from polyester, pre-processed with water repellent before being knitted, and having a fineness ranging from 30 denier to 75 denier.</p>
+<p id="p-0012" num="0011">The non-absorbent yarn is knitted by a single circular knitting machine under a setting of 18&#x2dc;44 gauge per inch to form a fine and thin fabric, which has the ability to prevent the penetration of water molecules and attachment of water.</p>
+<p id="p-0013" num="0012">The finished non-absorbent and quick drying fabric is at a weight of 60&#x2dc;270 gram/M<sup>2</sup>, a width of 50&#x2dc;72 inches, an elongation capability in both the vertical and horizontal directions of 100&#x2dc;300%, and having a thickness of 0.3&#x2dc;0.55 mm.</p>
+<p id="p-0014" num="0013">The non-absorbent and quick drying fabric, as the outer and/or inner surface of the wetsuit, is laminated with a rubber sponge material to form an improved non-absorbent and quick drying wetsuit. Appropriate cutting and sewing process are employed to finish the formation of wetsuit.</p>
+<p id="p-0015" num="0014">Compared with conventional fabric used as the outer surface of a wetsuit, the improved non-absorbent and quick drying fabric of the present invention is light and offers excellent strength and anti-friction. The non-absorbent feature prevents the penetration of water molecules, solves the drawback of wind-chill, and lasts longer.</p>
+<p id="p-0016" num="0015">Compared with the developed smooth skin and glide skin used as the outer surface of a conventional wetsuit, the improved non-absorbent and quick drying fabric of the present invention has a pleasant feel, aesthetic design, and excellent strength that makes the wetsuit durable.</p>
+<p id="p-0017" num="0016">It is believed to be the first time that a wetsuit has been made of rubber sponge laminated with the fine, thin, non-absorbent and quick drying fiber pre-processed with water repellent before being knitted.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0018" num="0017">The aforementioned objects and advantages of the present invention, as well as additional objects and advantages thereof, will be more fully understood herein after as a result of a detailed description of a preferred embodiment when taken in conjunction with the following drawings in which:</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 1</figref> is a flow chart showing the preferred process of making a wetsuit fabric of the present invention;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 2</figref>, comprising <figref idref="DRAWINGS">FIGS. 2A and 2B</figref> is a cross sectional view showing the macro and micro structure respectively of the fabric used to manufacture the present invention as the surface of a wetsuit;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 3</figref> is the flow chart showing the process of making a wetsuit fabric of the conventional process; and</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 4</figref>, comprising <figref idref="DRAWINGS">FIGS. 4A and 4B</figref> is a cross sectional view showing the macro and micro structure respectively of the fabric used to manufacture a conventional wetsuit.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF A PREFERRED EMBODIMENT</heading>
+<p id="p-0023" num="0022">With reference to <figref idref="DRAWINGS">FIG. 1</figref>, the process of manufacturing the wetsuit of the present invention includes the steps of pre-processing (<b>10</b>), knitting (<b>20</b>), dyeing (<b>30</b>), heat setting (<b>40</b>), laminating (<b>50</b>), and cutting and sewing (<b>60</b>). The improved non-absorbent and quick drying fabric used to manufacture the outer and/or inner surface of wetsuit, is entirely made of a non-absorbent yarn, pre-processed with the water repellent before being knitted, then knitted by a single circular knitting machine under a setting of 18&#x2dc;44 gauge per inch to form a fine and thin fabric, which has the ability to prevent the penetration of water molecules and attachment of water.</p>
+<p id="p-0024" num="0023">The improved non-absorbent and quick drying fabric is made of non-absorbent yarn selected from polyester having a fineness ranging from 30 denier to 75 denier.</p>
+<p id="p-0025" num="0024">The improved non-absorbent and quick drying fabric can prevent the penetration of water molecules and attachment of water that makes the outer and/or inner surface of the wetsuit dry when the wearer leaves the water, and makes the wearer feel dry, light, comfortable and reduces the impact of wind-chill.</p>
+<p id="p-0026" num="0025">Since the water repellent is fully absorbed throughout and combined with the fiber of the improved non-absorbent and quick drying fabric, the effects of water repellent will last longer and offer better anti-friction even if the wetsuit is rubbed or washed or aged as shown in <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+<p id="p-0027" num="0026">With reference to <figref idref="DRAWINGS">FIG. 3</figref>, the process of manufacturing the wetsuit of the conventional method includes knitting (<b>10</b>), dyeing (<b>20</b>), immersing (<b>30</b>), heat setting (<b>40</b>), laminating (<b>50</b>), and cutting and sewing (<b>60</b>). The conventional wetsuit is made of a normal fabric immersed with water repellent after knitting and dyeing and before heat setting that make the water repellent form a hard and serrated film, like a paper that covers the fabric, as shown in <figref idref="DRAWINGS">FIG. 4</figref>, and causes an unpleasant rough sense of touch. Since the water repellent is on the cover of the fabric only, the effects of the repellent will decrease and the water repellent will be eventually lost due to being rubbed or washed and that will lessen the durability of the wetsuit.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<us-claim-statement>I claim:</us-claim-statement>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A wetsuit having an outer and/or inner surface manufactured from an improved fabric made of a non-absorbent and quick drying material.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The improved non-absorbent and quick drying fabric recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> made of non-absorbent yarn.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The improved non-absorbent and quick drying yarn recited in <claim-ref idref="CLM-00002">claim 2</claim-ref> made of polyester.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The improved non-absorbent and quick drying yarn recited in <claim-ref idref="CLM-00002">claim 2</claim-ref> having a fineness ranging from 30 denier to 75 denier.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The improved non-absorbent and quick drying yarn recited in <claim-ref idref="CLM-00002">claim 2</claim-ref> being pre-processed with a water repellent before being knitted.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The improved non-absorbent and quick drying yarn recited in <claim-ref idref="CLM-00002">claim 2</claim-ref> being knitted by a single circular knitting machine under a setting of 18&#x2dc;44 gauge per inch.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. The improved non-absorbent and quick drying yarn recited in <claim-ref idref="CLM-00002">claim 2</claim-ref> having a thickness of 0.30&#x2dc;0.55 mm.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The improved non-absorbent and quick drying fabric recited in <claim-ref idref="CLM-00001">claim 1</claim-ref> laminated with a rubber sponge material to form an improved non-absorbent and quick drying wetsuit fabric. </claim-text>
+</claim>
+</claims>
