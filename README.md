@@ -1,46 +1,37 @@
-K-MOOC: 데이터 과학을 위한 파이썬 입문
-=========================
+TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
+==================================
 
-본 강의는 교육부의 "K-MOOC 강좌개발지원 사업"의 일환으로 가천대학교 ACE 사업단에
-의해 제작되었습니다. 본 강의는 가천대학교 ACE 사업단의 데이터 과학 시리즈 MOOC의
-일환으로 제작됩니다. 본 과정은 아래와 같이 구성됩니다.
-- Introduction to Python Programming - 본과정
+본 강의는 [TEAMLAB](http://theteamlab.io/)과 [Inflearn](https://www.inflearn.com/)이 함께 구축한 데이터 사이언스 과정의 첫 번째 강의인 "데이터 과학을 위한 파이썬 입문" 입니다.
+본 강의는 기준 교육부 지원에 의해 제작된 [K-MOOC:  데이터 과학을 위한 파이썬 입문](http://www.kmooc.kr/courses/course-v1:GachonUnivK+ACE.GachonUnivK01+2016_01/about)([YouTube](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz)) 강좌의 내용을 기반으로 제작되었습니다. 기존 강좌를 보신분은 추가로 수강하실 필요는 없습니다.
+
+본 강의는 [TEAMLAB](http://theteamlab.io/)과 [Inflearn](https://www.inflearn.com/)이 함께 준비한 [WADIZ 펀딩](https://www.wadiz.kr/web/campaign/detail/13991)의 지원을 받아제작되었습니다.
+추후 아래 목록에 대한 강의를 추가로 개발할 예정입니다.
+- 데이터 과학을 위한 파이썬 입문 - 본과정
+- Machnine Learning from Scartach with Python Part I
+- Machnine Learning from Scartach with Python Part II
+
+또한 기존 K-MOOC 과정은 아래 목록을 참고하시기 바랍니다.
+- [K-MOOC: 데이터 과학을 위한 파이썬 입문](https://github.com/TeamLab/Gachon_CS50_Python_KMOOC)
 - [Operation Research with Python Programming](https://github.com/TeamLab/Gachon_CS50_OR_KMOOC)
-- [Introduction to Data Science](https://github.com/TeamLab/data_school_at_gachon)
-- Large-Scale Data Analysis on Cloud
 
-강의 영상과 자료들은 순차적으로 업데이트 될 예정입니다.
 
 ## 강의 개요
-* 강좌명: Gachon CS50 - 데이터 과학을 위한 파이썬 입문
-* 강의자명: 가천대학교 산업경영공학과 최성철 교수 (sc82.choi@gachon.ac.kr, Director of [@TeamLab](https://github.com/TeamLab))
-* Facebook: [Gachon CS50](https://www.facebook.com/GachonCS50) 
-* 강의자료: [Docs.com](https://docs.com/choi-sungchul/7359) 
+* 강좌명: 데이터 과학을 위한 파이썬 입문
+* 강의자명: 가천대학교 산업경영공학과 최성철 교수 (sc82.choi@gachon.ac.kr, Director of [TEAMLAB](http://theteamlab.io/))
+* Facebook: [Gachon CS50](https://www.facebook.com/GachonCS50)
 * Email: teamlab.gachon@gmail.com
 
 ## Teacher Assistnat
-* [김진홍](https://github.com/jinongkim) (xox8498@gmail.com, 학부생연구원 at [@TeamLab](https://github.com/TeamLab))
-* [서자영](https://github.com/jayoungseo) (tjwkdud0423@gmail.com, 학부생연구원 at [@TeamLab](https://github.com/TeamLab))
-* [이현주](https://github.com/hyoenju) (l67378810@gmail.com, 학부생연구원 at [@TeamLab](https://github.com/TeamLab))
-* [장시온](https://github.com/janguck) (wayterren@gmail.com, 학부생연구원 at [@TeamLab](https://github.com/TeamLab))
-* [리세리](https://github.com/seriLucute) (asdd565seri@gmail.com, 학부생 인턴연구원 at [@TeamLab](https://github.com/TeamLab))
-* [김성철](https://github.com/SeongCheol-Kim) (sckim219@gmail.com, 학부생 인턴연구원 at [@TeamLab](https://github.com/TeamLab))
-* [김지희](https://github.com/kjihee) (aszx1220@gmail.com, 학부생)
-* [김윤진](https://github.com/KimyoonJIn)(soosg0822@naver.com, 학부생)
-* [장예훈](https://github.com/YeHoonJang)(jangyh0420@gmail.com, 학부생)
 
 ## 강의 구성
-### 1주차: 프로그래밍과 파이썬
-- 왜 우리는 프로그래밍을 배우는가? - [강의영상](https://www.youtube.com/watch?v=LAnn5cxG13M&index=1&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz), [강의자료](https://doc.co/Bj76p1/EFk5T6)
-- 파이썬 소개 - [강의영상](https://www.youtube.com/watch?v=RpnSfbXThI0&t=534s&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&index=2), [강의자료](https://doc.co/pypHHp/EFk5T6)
+### Chapter I: Python Overview
+- 파이썬 소개 - [강의영상](https://vimeo.com/237293755/d74d0eb759), [강의자료](https://1drv.ms/p/s!ApZ4mg7k2qYhgaAu--9ilik35QXCqA)
 - 파이썬 개발환경 개요 - [강의영상](https://www.youtube.com/watch?v=kBPKUSujrws&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&index=3), [강의자료](https://docs.com/choi-sungchul/2824/week-1-3?c=EFk5T6)
 - Lab: 파이썬 인터프리터 설치
     - Miniconda on Windows - [강의영상](https://www.youtube.com/watch?v=OMuHLDvmQl4&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&index=4)
-    - Miniconda on Ubuntu - [강의영상](https://www.youtube.com/watch?v=kKoYbDWvHdo&index=5&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz)
     - Miniconda on Mac OS - [강의영상](https://www.youtube.com/watch?v=WsQ-4QDQxAQ&index=6&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz)
 - Lab: Atom 에디터 설치
     - Atom on Windows - [설치문서](desc/atom_windows.md), [강의영상](https://www.youtube.com/watch?v=8Z6_JSvKux0&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&index=7)
-    - Atom on Ubuntu - [설치문서](desc/atom_ubuntu.md), [강의영상](https://www.youtube.com/watch?v=Ir88SOIGVcc&index=8&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz)
     - Atom on Mac OS - [설치문서](desc/atom_macos.md), [강의영상](https://www.youtube.com/watch?v=XYvP4NeFo0Y&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&index=9)
 - Code Assignment: Arithmetic - [강의영상](https://www.youtube.com/watch?v=Qoid8G49zHI&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&index=14), [강의자료](http://theteamlab.io/course/1/class/4/)
 
@@ -54,8 +45,9 @@ K-MOOC: 데이터 과학을 위한 파이썬 입문
 ### 3주차: 화면 입출력과 리스트 다루기 (Console & List Data Type)
 - Console 다루기 - [강의영상](https://www.youtube.com/watch?v=MJvx5m6xlBo&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&index=13), [강의자료](https://docs.com/choi-sungchul/9016/week-3-1-console?c=EFk5T6)
 - Lab: 화씨 변환기 (Fahrenheit Converter) - [강의영상](https://www.youtube.com/watch?v=1izwqD7SSHk&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&index=14), [강의자료](https://doc.co/mjke6x/EFk5T6)
+- formatting
 - List Data Type - [강의영상](https://www.youtube.com/watch?v=lYxlnxKYsLI&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&index=15), [강의자료](https://docs.com/choi-sungchul/6366/week-3-3-list-data-type?c=EFk5T6)
-- Code Assignment: 학점 계산기 (exam_grader) - 강의영상, [강의자료](http://theteamlab.io/course/1/class/12/)
+- Code Assignment: 학점 계산기 (exam_grader) - [강의영상](), [강의자료](http://theteamlab.io/course/1/class/12/)
 
 ### 4주차: 제어문과 반복문 (Condition & Loop)
 - Condition - [강의영상](https://www.youtube.com/watch?v=aE7grvgYGc4&list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&index=16), [강의자료](https://docs.com/choi-sungchul/6141/week-4-1-condition?c=EFk5T6)
