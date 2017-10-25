@@ -125,10 +125,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 ## 참고자료
 - [점프 투 파이썬](https://wikidocs.net/book/1), 박응용 지음 , 2014
 - 헬로 파이썬 프로그래밍, 워렌 산데,카터 산데 지음 / 김승범, 박준표 옮김 , 2014
-- 파이썬 바이블3, 이강성 지음, 2013
 - 하용호, [스타트업 데이터를 어떻게 봐라봐야 할까](http://www.slideshare.net/yongho/ss-32267675) , 2014
-- 강철, [PyConKR 2014] [30분만에 따라하는 동시성 스크래퍼](http://www.slideshare.net/cornchz/pyconkr-2014-30) , 2014
-- 정민영, [2D4] [Python에서의 동시성_병렬성](http://www.slideshare.net/deview/2d4python), 2014
 - 최성철, [산업공학과를 위한 프로그래밍 입문 Part 1(w/파이썬)](http://www.slideshare.net/blissray/w-37771905) , 2014
 - 최성철, [산업공학과를 위한 프로그래밍 입문 Part 2(w/파이썬)](http://www.slideshare.net/blissray/w-part-2) , 2014
 - 최성철, [산업공학과를 위한 프로그래밍 입문 Code(w/파이썬)](https://github.com/TeamLab/gachon_python_class) , 2014
