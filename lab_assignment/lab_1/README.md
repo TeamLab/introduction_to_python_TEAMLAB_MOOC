@@ -6,15 +6,16 @@ Copyright 2017 © document created by teamLab.gachon@gmail.com
 K-MOOC Python과 Gachon CS50에서는 모든 숙제를 TeamLab에서 개발된 자동 채점 시스템(Gachon Autograder)를 통해 제출하게 됩니다.  본 실습에서는 자동 채점 시스템을 사용하여 숙제를 제출하는 과정을 연습합니다.  아직 파이썬의 주요 내용을 배우지 않은 상태이기 때문에 매우 간단한 사칙연산 코드를 작성합니다.
 
 ## Lab Assignment 진행을 위한 lab_1.zip 다운로드
-첫 번째 할일을 숙제 제출과 숙제 진행을 위해 숙제파일이 압축된 파일인 "lab_1.zip"을 다운로드하는 것 입니다. Chrome 또는 익스플로러와 같은 웹 브라우저 주소창에 아래 주소를 입력합니다.
+첫 번째 할일을 숙제 제출과 숙제 진행을 위해 숙제파일이 압축된 파일을 다운로드하는 것 입니다.
+파일은 윈도우버전과 리눅스 또는 Mac OS 두가지 버전을 제공합니다. 아래 파일 중 본인의 OS에 맞는 파일을 다운로드 하시기 바랍니다.
 
-https://github.com/TeamLab/Gachon_CS50_Python_KMOOC/tree/master/lab_assignment/lab_1 
+- [Lab 1 for Linux or Mac OS ](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_1/lab_1_linux_mac.zip)
+- [Lab 1 for Windows](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_1/lab_1_windows.zip)
 
-다운로드를 위해 `View Raw` 또는 `Download` 버튼을 클릭합니다. 또는 아래 다운로드 링크를 클릭하면 자동으로 다운로드가 됩니다. [Lab 1 - 다운로드](https://github.com/TeamLab/Gachon_CS50_Python_KMOOC/raw/master/lab_assignment/lab_1/lab_1.zip)
+Chrome 또는 익스플로러와 같은 웹 브라우저에 위 링크를 클립합니다.
+일반적으로 다운로드 된 파일은 사용자 폴더내 "다운로드" 폴더로 이동하게 됩니다.
 
-일반적으로 다운로드 된 파일은 사용자 폴더내 "다운로드" 폴더로 이동하게 됩니다. 
-
-<kbd>windows</kbd><sup id="windows"></sup>+<kbd>e</kbd>를 누르면 일반적으로 왼쪽 상단에 나타나는 "다운로드" 폴더에 다운로드 된 `lab_1.zip` 파일을 작업 폴더로 이동한 후 압축해제 후 작업하길 바랍니다.
+윈도우의 경우, <kbd>windows</kbd><sup id="windows"></sup>+<kbd>e</kbd>를 누르면 일반적으로 왼쪽 상단에 나타나는 "다운로드" 폴더에 다운로드 된 `lab_1.zip` 파일을 작업 폴더로 이동한 후 압축해제 후 작업하길 바랍니다.
 
 ## arithmetic_function.py 내용 보기
 다음으로 압축해제 된 `arithmetic_function.py` 파일의 구조를 파악해 봅니다. 구조 파악을 위해서는 atom으로 해당 파일을 열어야 하는데 아래의 과정을 거쳐 atom으로 파일을 오픈합니다.
@@ -143,21 +144,22 @@ def main():
     print ("division Test Closed \n")
 ```
 
-## 숙제 template 파일 제출하기
+## 숙제 template 파일 제출하기 (윈도우의 경우)
 1. <kbd>windows</kbd><sup id="windows"></sup>+<kbd>r</kbd>를 누르고 cmd 입력 후 확인을 클릭합니다.
-2. 아까 작업폴더로 이동한 경로로 이동을 합니다.
+2. 작업을 수행한 폴더로 이동 합니다.
+3. 밑에 명령어를 cmd창에 입력합니다.
+```bash
+submit.bat [YOUR_HASH_KEY]
+```
+
+## 숙제 template 파일 제출하기 (Mac or Linux)
+1. 터미널을 구동합니다.
+2. 작업을 수행한 디렉토리로로 이동 합니다.
 3. 밑에 bash창을 입력합니다.
 ```bash
-python submit.py
+./submit.sh [YOUR_HASH_KEY]
 ```
 
-위 명령어를 입력 하면, 아래와 같은 내용이 띄면서 Login ID와 Password를 물어보게 될 것입니다. http://theteamlab.io 웹 페이지에 가입시 사용했던 Login ID와 비밀번호를 입력합니다.
-
-```bash
-== Submmting solutions | arithmetic_function.py
-Login ID:
-Password :
-```
 
 본 명령을 실행하여 프로그램의 문법상 에러가 없을 경우, 아래와 같은 형태로 숙제 제출 확인 메세지를 받게됩니다.
 
