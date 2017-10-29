@@ -130,7 +130,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Lab: RegEx - [강의영상](), [강의자료]()
 
 ### 14주차: XML과 JSON (eXtensible Markup Languages and JSON)
-- [Intro 영상]()
+- [Intro 영상](https://vimeo.com/240343098/08852b09f9)
 - XML 이해하기 - [강의영상](), [강의자료]()
 - Lab: XML Parsing- [강의영상](), [강의자료]()
 - JSON 이해하기 - [강의영상](), [강의자료]()
