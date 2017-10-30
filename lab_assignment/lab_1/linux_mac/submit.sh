@@ -1,4 +1,3 @@
-#!/bin/bash
 export BACKEND_ACCESS_KEY=AKIAQWZD6A6Y5ZVOHSJR
 export BACKEND_SECRET_KEY=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
 if [ $# -eq 0 ]
