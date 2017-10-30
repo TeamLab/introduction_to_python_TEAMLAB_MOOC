@@ -58,22 +58,21 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Lab: 당신은 무슨 학교 다니세요? - [강의영상](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaII6uTG0K_7r3slvQ)
 - Loop - [강의영상](https://vimeo.com/239749324/5146a73f87), [강의자료](https://1drv.ms/f/s!ApZ4mg7k2qYhgZ9ezXezDeAfUoEiYg)
 - Lab: 구구단 계산기 - [강의영상](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIMz5EISBRlaQ54Qw)
-- Lab: Condition and Loop - [강의영상#1](), [강의영상#2](), [강의영상#3](), [강의자료]()
-- How to debug code - [강의영상](), [강의자료]()
+- Lab: Condition and Loop - [강의영상#1](), [강의영상#2](), [강의영상#3](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaITyWtELkNRq-wkWw)
+- How to debug code - [강의영상](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIgL7iz3E4xULp5ZA)
 
 ### 5주차: 함수와 파이썬 코드 작성연습
 - [Intro 영상](https://vimeo.com/240098665/d14f295bd5)
-- Function Concept I - [강의영상](), [강의자료]()
-- Function Concept II - [강의영상](), [강의자료]()
+- Function Concept I - [강의영상](https://vimeo.com/240423980/5f520c796f), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIdpgJxshH-WrG-Ww)
+- Function Concept II - [강의영상](https://vimeo.com/240422591/caaeea1bae), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIbqgBNByawPNaM_w)
 - Function arguments - [강의영상](), [강의자료]()
-- Asterisk - [강의영상](), [강의자료]()
-- 코딩 컨벤션과 함수 작성법 - [강의영상](), [강의자료]()
+- 코딩 컨벤션과 함수 작성법 - [강의영상](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIcFvb7Iw2E-31qiw)
 - Code Assignment:
 
 ### 6주차: 문자열 다루기 (String)
 - [Intro 영상](https://vimeo.com/240098700/b13ce1a9b6)
-- 문자열 다루기 (String) - [강의영상](), [강의자료]()
-- Lab: Yesterday Letter Counter - [강의영상](), [강의자료]()
+- 문자열 다루기 (String) - [강의영상](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIfpTH3tktzEgyV6w)
+- Lab: Yesterday Letter Counter - [강의영상](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIeBMHAZJMV3nS5-g)
 - Assignment: Baseball Game - 설명영상
 
 ### 7주차: 자료 구조 (Data Structure)
@@ -83,7 +82,6 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Tuple & Set (Data Structure) - [강의영상](), [강의자료]()
 - 사전 (Dictionary) - [강의영상](), [강의자료]()
 - Lab: Command Counter - [강의영상](), [강의자료]()
-- Lab: News categorizing - [강의영상](), [강의자료]()
 
 ### 8주차: 파이썬같은 코드 작성하기 (Pythonic Code)
 - [Intro 영상](https://vimeo.com/240098773/a93f239ae4)
@@ -91,9 +89,9 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Split & Join - [강의영상](), [강의자료]()
 - List Comprehension - [강의영상](), [강의자료]()
 - Enumerate & Zip - [강의영상](), [강의자료]()
+- Asterisk - [강의영상](), [강의자료]()
 - Simple linear algebra with pythonic code - [강의영상](), [강의자료]()
 - Assignment: Morse Code - 설명영상
-- Midterm Problem Set
 
 ### 9주차: 객체 지향 프로그래밍 (Objective-Oriented Programming)
 - [Intro 영상](https://vimeo.com/240098797/bd44e677a6)
@@ -119,6 +117,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - [Intro 영상](https://vimeo.com/240098897/f1fde7444f)
 - File Handling Overview - [강의영상](), [강의자료]()
 - File Handling - [강의영상](), [강의자료]()
+- Lab: News categorize - [강의영상](), [강의자료]()
 - Comma Separate Values  - [강의영상](), [강의자료]()
 - Lab: CSV with Pandas - 강의영상, 강의자료
 
