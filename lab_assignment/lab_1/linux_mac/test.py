@@ -82,7 +82,7 @@ payload = {
 try:
     data = urllib.parse.urlencode(payload)
     data = data.encode('ascii')
-    req = urllib.request.Request('http://report.1ofus.me/submit', data)
+    req = urllib.request.Request('http://report.inflearn.com/submit', data)
     with urllib.request.urlopen(req) as response:
         resp = response.read()
 

@@ -1,9 +1,9 @@
-import subprocess
-import sys
-import unittest 
-import urllib.parse, urllib.request
+import unittest
+import urllib.parse
+import urllib.request
 import json
 import argparse
+import os
 
 parser = argparse.ArgumentParser(description="Autoscorer")
 parser.add_argument("filename", help="File to submit")
@@ -15,13 +15,15 @@ if args.hash:
 if args.filename:
     filename = args.filename
 
+
 class TestResult(unittest.TextTestResult):
     _previousTestClass = None
     _testRunEntered = False
     _moduleSetUpFailed = False
 
     def __init__(self, stream=None, descriptions=None, verbosity=1):
-        super().__init__(stream=stream, descriptions=descriptions, verbosity=verbosity)
+        super().__init__(
+            stream=stream, descriptions=descriptions, verbosity=verbosity)
         self.tests_run = []
 
     def getTestsReport(self):
@@ -52,20 +54,25 @@ class TestResult(unittest.TextTestResult):
 
 
 loader = unittest.loader.defaultTestLoader
+null_stream = open(os.devnull, "w")
 test_suite = loader.discover('.', '*_unit_test.py', None)
-result = unittest.TextTestRunner(verbosity=2, resultclass=TestResult).run(test_suite)
+result = unittest.TextTestRunner(
+    stream=null_stream, verbosity=2, resultclass=TestResult).run(test_suite)
 
 print("Generating result sheet...")
 print("-------------------------------------------------------------------")
 print("                 Test Case |  Passed? |   Feedback")
 print("-------------------------------------------------------------------")
 for c, r in result.tests_run:
-    print(" {0:s} |  {1:s}  | {2} ".format(c.rsplit('.', 1)[1].rjust(25), "PASSED" if r == 1 else "FAILED", "Good Job".rjust(10) if r == 1 else "Failed".rjust(10) ))
+    print("{0:s} |  {1:s}  | {2} ".format(
+        c.rsplit('.', 1)[1].rjust(25),
+        "PASSED" if r == 1 else "FAILED",
+        "Good Job".rjust(10) if r == 1 else "Failed".rjust(10)))
 
-print(json.dumps(result.tests_run))
+# print(json.dumps(result.tests_run))
 print("Reading source file...")
 
-file = open(filename, "r") 
+file = open(filename, "r")
 print("Transferring results to server...")
 payload = {
     'hashkey': hashkey,
@@ -75,7 +82,7 @@ payload = {
 try:
     data = urllib.parse.urlencode(payload)
     data = data.encode('ascii')
-    req = urllib.request.Request('http://report.1ofus.me/submit', data)
+    req = urllib.request.Request('http://report.inflearn.com/submit', data)
     with urllib.request.urlopen(req) as response:
         resp = response.read()
 
