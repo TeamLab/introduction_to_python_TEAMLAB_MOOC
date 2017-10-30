@@ -15,23 +15,13 @@ pip install backend.ai-client
 첫 번째 할일을 숙제 제출과 숙제 진행을 위해 숙제파일이 압축된 파일을 다운로드하는 것 입니다.
 파일은 윈도우버전과 리눅스 또는 Mac OS 두가지 버전을 제공합니다. 아래 파일 중 본인의 OS에 맞는 파일을 다운로드 하시기 바랍니다.
 
-<<<<<<< HEAD
 - [Lab 1 for Linux or Mac OS ](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_1/lab_1_linux_mac.zip)
 - [Lab 1 for Windows](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_1/lab_1_windows.zip)
-=======
-https://github.com/TeamLab/Gachon_CS50_Python_KMOOC/tree/master/lab_assignment/lab_1
->>>>>>> d8cc0c751ac7ac2e02a84fe50bbc033a386cb868
 
 Chrome 또는 익스플로러와 같은 웹 브라우저에 위 링크를 클립합니다.
 일반적으로 다운로드 된 파일은 사용자 폴더내 "다운로드" 폴더로 이동하게 됩니다.
 
-<<<<<<< HEAD
-윈도우의 경우, <kbd>windows</kbd><sup id="windows"></sup>+<kbd>e</kbd>를 누르면 일반적으로 왼쪽 상단에 나타나는 "다운로드" 폴더에 다운로드 된 `lab_1.zip` 파일을 작업 폴더로 이동한 후 압축해제 후 작업하길 바랍니다.
-=======
-일반적으로 다운로드 된 파일은 사용자 폴더내 "다운로드" 폴더로 이동하게 됩니다.
-
-<kbd>windows</kbd><sup id="windows"></sup>+<kbd>e</kbd>를 누르면 일반적으로 왼쪽 상단에 나타나는 "다운로드" 폴더에 다운로드 된 `lab_1.zip` 파일을 작업 폴더로 이동한 후 압축해제 후 작업하길 바랍니다.
->>>>>>> d8cc0c751ac7ac2e02a84fe50bbc033a386cb868
+윈도우의 경우, <kbd>windows</kbd><sup id="windows"></sup>+<kbd>e</kbd>를 누르면 일반적으로 왼쪽 상단에 나타나는 "다운로드" 폴더에 다운로드 된 `lab_1_windows.zip` 파일을 작업 폴더로 이동한 후 압축해제 후 작업하길 바랍니다.
 
 ## arithmetic_function.py 내용 보기
 다음으로 압축해제 된 `arithmetic_function.py` 파일의 구조를 파악해 봅니다. 구조 파악을 위해서는 atom으로 해당 파일을 열어야 하는데 아래의 과정을 거쳐 atom으로 파일을 오픈합니다.
