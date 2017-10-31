@@ -25,19 +25,19 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 
 ## 강의 구성
 ### 1주차: Python Overview
-- [Intro 영상](vimeo.com/240662005), [주차강의자료]()
-- 파이썬 소개 - [강의영상](vimeo.com/240662309), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9ugtVA1C_i4FjJVg)
-- 파이썬 개발환경 개요 - [강의영상](vimeo.com/240662351), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9pEcEobxk48WDoqQ)
+- [Intro 영상](https://vimeo.com/240662005), [주차강의자료]()
+- 파이썬 소개 - [강의영상](https://vimeo.com/240662309), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9ugtVA1C_i4FjJVg)
+- 파이썬 개발환경 개요 - [강의영상](https://vimeo.com/240662351), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9pEcEobxk48WDoqQ)
 - Windons 설치
-    - Miniconda on Windows - [강의영상](vimeo.com/240662385)
-    - Atom on Windows - [설치문서](desc/atom_windows.md), [강의영상](vimeo.com/240662412)
-- Mac & Linux 설치 -  [설치문서](desc/atom_macos.md), [강의영상](vimeo.com/240662436)
+    - Miniconda on Windows - [강의영상](https://vimeo.com/240662385)
+    - Atom on Windows - [설치문서](desc/atom_windows.md), [강의영상](https://vimeo.com/240662412)
+- Mac & Linux 설치 -  [설치문서](desc/atom_macos.md), [강의영상](https://vimeo.com/240662436)
 - Code Assignment: Arithmetic - [강의영상](), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_1)
 
 ### 2주차: 메모리와 변수 (Memory & Variable)
-- [Intro 영상](vimeo.com/240662028), [주차강의자료]()
-- 메모리와 변수 - [강의영상](vimeo.com/240662478), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9rS9WHdJz5uLMcMg)
-- 기본 자료형과 연산 - [강의영상](vimeo.com/240662503), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9tNp4mzALR1ZiILA)
+- [Intro 영상](https://vimeo.com/240662028), [주차강의자료]()
+- 메모리와 변수 - [강의영상](https://vimeo.com/240662478), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9rS9WHdJz5uLMcMg)
+- 기본 자료형과 연산 - [강의영상](https://vimeo.com/240662503), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9tNp4mzALR1ZiILA)
 - 자료형 변환 - [강의영상](https://vimeo.com/240662536), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaB3uPIYfh3lIuEtmA)
 - Code Assignment: Basic Operations - [강의영상](), [강의자료]()
 
