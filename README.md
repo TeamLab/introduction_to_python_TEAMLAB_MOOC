@@ -25,56 +25,56 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 
 ## 강의 구성
 ### 1주차: Python Overview
-- [Intro 영상](https://vimeo.com/240662005), [주차강의자료]()
-- 파이썬 소개 - [강의영상](https://vimeo.com/240662309), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9ugtVA1C_i4FjJVg)
-- 파이썬 개발환경 개요 - [강의영상](https://vimeo.com/240662351), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9pEcEobxk48WDoqQ)
+- [Intro 영상](https://vimeo.com/user13628830/review/240662005/25c02549b9), [주차강의자료]()
+- 파이썬 소개 - [강의영상](https://vimeo.com/user13628830/review/240662309/be14d780a1), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9ugtVA1C_i4FjJVg)
+- 파이썬 개발환경 개요 - [강의영상](https://vimeo.com/user13628830/review/240662351/6c04dc53df), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9pEcEobxk48WDoqQ)
 - Windons 설치
-    - Miniconda on Windows - [강의영상](https://vimeo.com/240662385)
-    - Atom on Windows - [설치문서](desc/atom_windows.md), [강의영상](https://vimeo.com/240662412)
-- Mac & Linux 설치 -  [설치문서](desc/atom_macos.md), [강의영상](https://vimeo.com/240662436)
+    - Miniconda on Windows - [강의영상](https://vimeo.com/user13628830/review/240662385/bbfc63b0cd)
+    - Atom on Windows - [설치문서](desc/atom_windows.md), [강의영상](https://vimeo.com/user13628830/review/240662412/052c934db1)
+- Mac & Linux 설치 -  [설치문서](desc/atom_macos.md), [강의영상](https://vimeo.com/user13628830/review/240662436/1a3ed07e19)
 - Code Assignment: Arithmetic - [강의영상](), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_1)
 
 ### 2주차: 메모리와 변수 (Memory & Variable)
-- [Intro 영상](https://vimeo.com/240662028), [주차강의자료]()
-- 메모리와 변수 - [강의영상](https://vimeo.com/240662478), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9rS9WHdJz5uLMcMg)
-- 기본 자료형과 연산 - [강의영상](https://vimeo.com/240662503), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9tNp4mzALR1ZiILA)
-- 자료형 변환 - [강의영상](https://vimeo.com/240662536), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaB3uPIYfh3lIuEtmA)
+- [Intro 영상](https://vimeo.com/user13628830/review/240662028/694d4aee1f), [주차강의자료]()
+- 메모리와 변수 - [강의영상](https://vimeo.com/user13628830/review/240662478/aa40dcfaaa), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9rS9WHdJz5uLMcMg)
+- 기본 자료형과 연산 - [강의영상](https://vimeo.com/user13628830/review/240662503/997d0558e1), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9tNp4mzALR1ZiILA)
+- 자료형 변환 - [강의영상](https://vimeo.com/user13628830/review/240662536/593bdddf50), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaB3uPIYfh3lIuEtmA)
 - Code Assignment: Basic Operations - [강의영상](), [강의자료]()
 
 ### 3주차: 화면 입출력과 리스트 다루기 (Console & List Data Type)
-- [Intro 영상](https://vimeo.com/240662039), [주차강의자료]()
-- Console 다루기 - [강의영상](https://vimeo.com/240662564), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE0jC9cIhQhLk1gBg)
-- Lab: 화씨 변환기 (Fahrenheit Converter) - [강의영상](https://vimeo.com/240662592), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE1_Z2_nfpp-up_kA)
-- print formatting - [강의영상](https://vimeo.com/240662615), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE2qNwO2LS-1PN_Ww)
-- List Data Type - [강의영상](https://vimeo.com/240662656), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaFa3AzW676PibQOCg)
+- [Intro 영상](https://vimeo.com/user13628830/review/240662039/4c25044aee), [주차강의자료]()
+- Console 다루기 - [강의영상](https://vimeo.com/user13628830/review/240662564/d3facd5415), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE0jC9cIhQhLk1gBg)
+- Lab: 화씨 변환기 (Fahrenheit Converter) - [강의영상](https://vimeo.com/user13628830/review/240662592/6f27c91ef9), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE1_Z2_nfpp-up_kA)
+- print formatting - [강의영상](https://vimeo.com/user13628830/review/240662615/40938d9edd), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE2qNwO2LS-1PN_Ww)
+- List Data Type - [강의영상](https://vimeo.com/user13628830/review/240662656/d31ee6fb5f), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaFa3AzW676PibQOCg)
 - Code Assignment: 학점 계산기 (exam_grader) - [강의영상](), [강의자료]()
 
 ### 4주차: 제어문과 반복문 (Condition & Loop)
-- [Intro 영상](https://vimeo.com/240662056), [주차강의자료]()
-- Condition - [강의영상](https://vimeo.com/240662701), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaII6uTG0K_7r3slvQ)
-- Lab: 당신은 무슨 학교 다니세요? - [강의영상](https://vimeo.com/240662760), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaII6uTG0K_7r3slvQ)
-- Loop - [강의영상](https://vimeo.com/240662789), [강의자료](https://1drv.ms/f/s!ApZ4mg7k2qYhgZ9ezXezDeAfUoEiYg)
-- Lab: 구구단 계산기 - [강의영상#1](https://vimeo.com/240662829),
-[강의영상#2](https://vimeo.com/240662850), [강의영상#3](https://vimeo.com/240662871), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIMz5EISBRlaQ54Qw)
-- Lab: Condition and Loop - [강의영상#1](https://vimeo.com/240662897), [강의영상#2](https://vimeo.com/240662935), [강의영상#3](https://vimeo.com/240666983), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaITyWtELkNRq-wkWw)
+- [Intro 영상](https://vimeo.com/user13628830/review/240662056/0559056ba1), [주차강의자료]()
+- Condition - [강의영상](https://vimeo.com/user13628830/review/240662701/1a70461acd), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaII6uTG0K_7r3slvQ)
+- Lab: 당신은 무슨 학교 다니세요? - [강의영상](https://vimeo.com/user13628830/review/240662760/6d43d02aca), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaII6uTG0K_7r3slvQ)
+- Loop - [강의영상](https://vimeo.com/user13628830/review/240662789/be24112b6a), [강의자료](https://1drv.ms/f/s!ApZ4mg7k2qYhgZ9ezXezDeAfUoEiYg)
+- Lab: 구구단 계산기 - [강의영상#1](https://vimeo.com/user13628830/review/240662829/caa9c3c2d9),
+[강의영상#2](https://vimeo.com/user13628830/review/240662850/80cc57c25c), [강의영상#3](https://vimeo.com/user13628830/review/240662871/1d96ac021d), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIMz5EISBRlaQ54Qw)
+- Lab: Condition and Loop - [강의영상#1](https://vimeo.com/user13628830/review/240662897/d0e853f10f), [강의영상#2](https://vimeo.com/user13628830/review/240662935/30c61e2cf5), [강의영상#3](https://vimeo.com/user13628830/review/240677450/8083be0d1c), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaITyWtELkNRq-wkWw)
 - How to debug code - [강의영상](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIgL7iz3E4xULp5ZA)
 
 ### 5주차: 함수와 파이썬 코드 작성연습
-- [Intro 영상](https://vimeo.com/240662079)
-- Function Concept I - [강의영상](https://vimeo.com/240662967), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIdpgJxshH-WrG-Ww)
-- Function Concept II - [강의영상](https://vimeo.com/240663010), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIbqgBNByawPNaM_w)
+- [Intro 영상](https://vimeo.com/user13628830/review/240662079/152b2d962f)
+- Function Concept I - [강의영상](https://vimeo.com/user13628830/review/240662967/a09d5b8c3e), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIdpgJxshH-WrG-Ww)
+- Function Concept II - [강의영상](https://vimeo.com/user13628830/review/240663010/16e9c44ac4), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIbqgBNByawPNaM_w)
 - Function arguments - [강의영상](), [강의자료]()
 - 코딩 컨벤션과 함수 작성법 - [강의영상](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIcFvb7Iw2E-31qiw)
 - Code Assignment:
 
 ### 6주차: 문자열 다루기 (String)
-- [Intro 영상](https://vimeo.com/240662095)
-- 문자열 다루기 (String) - [강의영상](https://vimeo.com/240663045), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIfpTH3tktzEgyV6w)
+- [Intro 영상](https://vimeo.com/user13628830/review/240662095/a516f437c7)
+- 문자열 다루기 (String) - [강의영상](https://vimeo.com/user13628830/review/240663045/3f543e28ed), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIfpTH3tktzEgyV6w)
 - Lab: Yesterday Letter Counter - [강의영상](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIeBMHAZJMV3nS5-g)
 - Assignment: Baseball Game - 설명영상
 
 ### 7주차: 자료 구조 (Data Structure)
-- [Intro 영상](https://vimeo.com/240662114)
+- [Intro 영상](https://vimeo.com/user13628830/review/240662114/0edd568057)
 - 자료구조 개요 (Data Structure) - [강의영상](), [강의자료]()
 - Stack & Queue - [강의영상](), [강의자료]()
 - Tuple & Set (Data Structure) - [강의영상](), [강의자료]()
@@ -82,7 +82,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Lab: Command Counter - [강의영상](), [강의자료]()
 
 ### 8주차: 파이썬같은 코드 작성하기 (Pythonic Code)
-- [Intro 영상](https://vimeo.com/240662124)
+- [Intro 영상](https://vimeo.com/user13628830/review/240662124/964ddcccc6)
 - Pythonic Code Overview - [강의영상](), [강의자료]()
 - Split & Join - [강의영상](), [강의자료]()
 - List Comprehension - [강의영상](), [강의자료]()
@@ -92,27 +92,27 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Assignment: Morse Code - 설명영상
 
 ### 9주차: 객체 지향 프로그래밍 (Objective-Oriented Programming)
-- [Intro 영상](https://vimeo.com/240662154)
+- [Intro 영상](https://vimeo.com/user13628830/review/240662154/ca186becbf)
 - Objective-Oriented Programming Overview - [강의영상](), [강의자료]()
 - Objects in Python - [강의영상](), [강의자료]()
 - Lab: Note and Notebook - [강의영상](), [강의자료]()
 - OOP characteristics - [강의영상](), [강의자료]()
 
 ### 10주차: 모듈과 패키지 (Module & Packages)
-- [Intro 영상](https://vimeo.com/240662179)
+- [Intro 영상](https://vimeo.com/user13628830/review/240662179/3272d93b34)
 - Overview - [강의영상](), [강의자료]()
 - Modules - [강의영상](), [강의자료]()
 - Packages - [강의영상](), [강의자료]()
 - 가상환경과 Package 활용하기 - [강의영상](), [강의자료]()
 
 ### 11주차: 예외 처리 (Exception Handling)
-- [Intro 영상](https://vimeo.com/240662206)
+- [Intro 영상](https://vimeo.com/user13628830/review/240662206/37bf527d2a)
 - Overview - [강의영상](), [강의자료]()
 - Exception Handling - [강의영상](), [강의자료]()
 - Lab: - 강의영상, 강의자료
 
 ### 12주차: 파일 다루기와 CSV (File Handling and Comma Separate Values)
-- [Intro 영상](https://vimeo.com/240662231)
+- [Intro 영상](https://vimeo.com/user13628830/review/240662231/216a96a4e0)
 - File Handling Overview - [강의영상](), [강의자료]()
 - File Handling - [강의영상](), [강의자료]()
 - Lab: News categorize - [강의영상](), [강의자료]()
@@ -120,14 +120,14 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Lab: CSV with Pandas - 강의영상, 강의자료
 
 ### 13주차: Web Scraping
-- [Intro 영상](https://vimeo.com/240662256)
+- [Intro 영상](https://vimeo.com/user13628830/review/240662256/a77aa9a235)
 - Web 이해하기 - [강의영상](), [강의자료]()
 - HTML 데이터 다루기 - [강의영상](), [강의자료]()
 - 정규 표현식: Regular Expression - [강의영상](), [강의자료]()
 - Lab: RegEx - [강의영상](), [강의자료]()
 
 ### 14주차: XML과 JSON (eXtensible Markup Languages and JSON)
-- [Intro 영상](https://vimeo.com/240662282)
+- [Intro 영상](https://vimeo.com/user13628830/review/240662282/930b4c5c46)
 - XML 이해하기 - [강의영상](), [강의자료]()
 - Lab: XML Parsing- [강의영상](), [강의자료]()
 - JSON 이해하기 - [강의영상](), [강의자료]()
