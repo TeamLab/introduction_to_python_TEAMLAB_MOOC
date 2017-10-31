@@ -34,7 +34,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Lab: Atom 에디터 설치
     - Atom on Windows - [설치문서](desc/atom_windows.md), [강의영상]()
     - Atom on Mac OS - [설치문서](desc/atom_macos.md), [강의영상]()
-- Code Assignment: Arithmetic - [강의영상](), [강의자료]()
+- Code Assignment: Arithmetic - [강의영상](), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_1)
 
 ### 2주차: 메모리와 변수 (Memory & Variable)
 - [Intro 영상](https://vimeo.com/240098521/10be6d6d54)
