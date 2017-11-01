@@ -22,7 +22,7 @@ pip install backend.ai-client
 
 다운로드를 위해 `View Raw` 또는 `Download` 버튼을 클릭합니다. 또는 아래 다운로드 링크를 클릭하면 자동으로 다운로드가 됩니다. [Lab 2 - 다운로드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_2/lab_2.zip)
 다운로드 된 lab_2.zip 파일을 작업 폴더로 이동한 후 압축해제 후 작업하길 바랍니다.
-압축해제 하면 폴더가 `linux_mac`과 `windows`로 나눠져 있습니다. 자신에게 맞는 폴더로 이동해서 코드를 수정해 주시기 바랍니다.
+압축해제 하면 폴더가 `linux_mac`과 `windows`로 나눠져 있습니다. 자신의 OS에 맞는 폴더로 이동해서 코드를 수정해 주시기 바랍니다.
 
 참고로 이제는 작업환경에 대한 용어에 익숙해 지셔야 합니다. 아래는 우리가 주로 사용하는 작업 환경에 대한 설명입니다.
 
