@@ -4,7 +4,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 본 강의는 [TEAMLAB](http://theteamlab.io/)과 [Inflearn](https://www.inflearn.com/)이 함께 구축한 데이터 사이언스 과정의 첫 번째 강의인 "데이터 과학을 위한 파이썬 입문" 입니다.
 본 강의는 기준 교육부 지원에 의해 제작된 [K-MOOC:  데이터 과학을 위한 파이썬 입문](http://www.kmooc.kr/courses/course-v1:GachonUnivK+ACE.GachonUnivK01+2016_01/about)([YouTube](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz)) 강좌의 내용을 기반으로 제작되었습니다. 기존 강좌를 보신분은 추가로 수강하실 필요는 없습니다.
 
-본 강의는 [TEAMLAB](http://theteamlab.io/)과 [Inflearn](https://www.inflearn.com/)이 함께 준비한 [WADIZ 펀딩](https://www.wadiz.kr/web/campaign/detail/13991)의 지원을 받아제작되었습니다.
+본 강의는 [TEAMLAB](http://theteamlab.io/)과 [Inflearn](https://www.inflearn.com/course/python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8-%EA%B0%95%EC%A2%8C/)이 함께 준비한 [WADIZ 펀딩](https://www.wadiz.kr/web/campaign/detail/13991)의 지원을 받아제작되었습니다.
 추후 아래 목록에 대한 강의를 추가로 개발할 예정입니다.
 - 데이터 과학을 위한 파이썬 입문 - 본과정
 - Machnine Learning from Scartach with Python Part I
