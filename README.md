@@ -28,21 +28,18 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - [Intro 영상](https://vimeo.com/240098386/452841deb5)
 - 파이썬 소개 - [강의영상](https://vimeo.com/239749752/805ec87259), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9ugtVA1C_i4FjJVg)
 - 파이썬 개발환경 개요 - [강의영상](https://vimeo.com/239748214/9535a02953), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9pEcEobxk48WDoqQ)
-- Lab: 파이썬 인터프리터 설치
-    - Miniconda on Windows - [강의영상]()
-    - Miniconda on Mac OS - [강의영상])
-- Lab: Atom 에디터 설치
-    - Atom on Windows - [설치문서](desc/atom_windows.md), [강의영상]()
-    - Atom on Mac OS - [설치문서](desc/atom_macos.md), [강의영상]()
-- Code Assignment: Arithmetic - [강의영상](), [강의자료]()
+- Lab: 파이썬 인터프리터 및 Atom 에디터 설치
+    - Miniconda on Windows - [강의영상](https://vimeo.com/240790667/362a2a3101)
+    - Atom on Windows - [설치문서](desc/atom_windows.md), [강의영상](https://vimeo.com/240790718/e78c781836)
+    - Mac & Linux 설치 -  [설치문서](desc/atom_macos.md), [강의영상](https://vimeo.com/240790482/6a73c36f03)
+- Code Assignment: Arithmetic - [강의영상 for Mac & Linux](https://vimeo.com/240770320/5a5374fd80), [강의영상 for Windows](https://vimeo.com/240759045/74807a9521), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_1)
 
 ### 2주차: 메모리와 변수 (Memory & Variable)
 - [Intro 영상](https://vimeo.com/240098521/10be6d6d54)
 - 메모리와 변수 - [강의영상](https://vimeo.com/239747784), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9rS9WHdJz5uLMcMg)
 - 기본 자료형과 연산 - [강의영상](https://vimeo.com/239748404/e488934780), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9tNp4mzALR1ZiILA)
 - 자료형 변환 - [강의영상](https://vimeo.com/239749982/bc69a7bbca), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaB3uPIYfh3lIuEtmA)
-- Lab: 숙제 제출 방법 - 강의자료, 강의영상
-- Code Assignment: Basic Operations - [강의영상](), [강의자료]()
+- Code Assignment: Basic Operations - [강의영상](), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_2)
 
 ### 3주차: 화면 입출력과 리스트 다루기 (Console & List Data Type)
 - [Intro 영상](https://vimeo.com/240098587/8afe2ed9d8)
@@ -54,12 +51,12 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 
 ### 4주차: 제어문과 반복문 (Condition & Loop)
 - [Intro 영상](https://vimeo.com/240098624/d93c7fc6ae)
-- Condition - [강의영상](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaII6uTG0K_7r3slvQ)
-- Lab: 당신은 무슨 학교 다니세요? - [강의영상](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaII6uTG0K_7r3slvQ)
+- Condition - [강의영상](https://vimeo.com/240424287/255504b36c), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaII6uTG0K_7r3slvQ)
+- Lab: 당신은 무슨 학교 다니세요? - [강의영상](https://vimeo.com/240791163/0a63bdf759), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaII6uTG0K_7r3slvQ)
 - Loop - [강의영상](https://vimeo.com/239749324/5146a73f87), [강의자료](https://1drv.ms/f/s!ApZ4mg7k2qYhgZ9ezXezDeAfUoEiYg)
-- Lab: 구구단 계산기 - [강의영상](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIMz5EISBRlaQ54Qw)
-- Lab: Condition and Loop - [강의영상#1](), [강의영상#2](), [강의영상#3](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaITyWtELkNRq-wkWw)
-- How to debug code - [강의영상](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIgL7iz3E4xULp5ZA)
+- Lab: 구구단 계산기 - [강의영상#1](https://vimeo.com/240791221/80b7413f48), [강의영상#2](https://vimeo.com/240791302/c28a62a0e2), [강의영상#3](https://vimeo.com/240791328/334cb4d7aa), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIMz5EISBRlaQ54Qw)
+- Lab: Condition and Loop - [강의영상#1](https://vimeo.com/240791381/9702754a67), [강의영상#2](https://vimeo.com/240791461/c9cf5f66c7), [강의영상#3](https://vimeo.com/240791091/d88b897453), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaITyWtELkNRq-wkWw)
+- How to debug code - [강의영상](https://vimeo.com/240759192/2fd7f830ce), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIgL7iz3E4xULp5ZA)
 
 ### 5주차: 함수와 파이썬 코드 작성연습
 - [Intro 영상](https://vimeo.com/240098665/d14f295bd5)
@@ -71,7 +68,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 
 ### 6주차: 문자열 다루기 (String)
 - [Intro 영상](https://vimeo.com/240098700/b13ce1a9b6)
-- 문자열 다루기 (String) - [강의영상](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIfpTH3tktzEgyV6w)
+- 문자열 다루기 (String) - [강의영상](https://vimeo.com/240791530/a79fbbc02f), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIfpTH3tktzEgyV6w)
 - Lab: Yesterday Letter Counter - [강의영상](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIeBMHAZJMV3nS5-g)
 - Assignment: Baseball Game - 설명영상
 
