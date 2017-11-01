@@ -39,7 +39,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - 메모리와 변수 - [강의영상](https://vimeo.com/239747784), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9rS9WHdJz5uLMcMg)
 - 기본 자료형과 연산 - [강의영상](https://vimeo.com/239748404/e488934780), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9tNp4mzALR1ZiILA)
 - 자료형 변환 - [강의영상](https://vimeo.com/239749982/bc69a7bbca), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaB3uPIYfh3lIuEtmA)
-- Code Assignment: Basic Operations - [강의영상](), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_2)
+- Code Assignment: Basic Operations - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_2/lab_2.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_2)
 
 ### 3주차: 화면 입출력과 리스트 다루기 (Console & List Data Type)
 - [Intro 영상](https://vimeo.com/240098587/8afe2ed9d8), [주차강의자료]()
