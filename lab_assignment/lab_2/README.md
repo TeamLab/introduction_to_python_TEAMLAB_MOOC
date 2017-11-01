@@ -1,4 +1,4 @@
-Lab #2 - basic_operations 간단한 연산 
+Lab #2 - basic_operations 간단한 연산
 ================================
 Copyright 2017 © document created by TeamLab.Gachon@gmail.com
 
@@ -8,6 +8,13 @@ Copyright 2017 © document created by TeamLab.Gachon@gmail.com
 이번 Lab은 python의 간단한 연산 문제들을 수행하는 것입니다. 연산이라고 해서 덧셈, 뺄셈과 같은 산수만 생각할 수 있으나, 문자열을 포함하여 파이썬에서 기초 데이터형을 어떻게 다루는지까지 연습하게 됩니다.  
 이번 차시 부터 Lab Assignment의 설명을 자세하게 하지 않을 것입니다. 이것은 이 수업의 전반적인 추세로 시간이 지나감에 따라 상세한 설명과 가이드는 없어지고 스스로 하는 부분들이 많아집니다. 막상 해보면 할 수 있으니 스스로 해보시길 바랍니다.
 
+## backend.ai 설치
+숙제를 제출하기 앞서, [레블업](http://www.lablup.com/)의 backend.ai를 여러분의 파이썬에 설치하셔야 합니다. 설치하는 과정은 매우 쉽습니다. 아래처럼 터미널 또는 cmd 창에서 입력을 하시면 됩니다.
+
+```bash
+pip install backend.ai-client
+```
+
 ## 숙제 파일(lab_2.zip) 다운로드
 먼저 해야 할 일은 숙제 파일을 다운로드 받는 것 입니다. 이미 해보았기 때문에 어렵지 않을 것입니다. Chrome 또는 익스플로러와 같은 웹 브라우저 주소창에 아래 주소를 입력합니다.
 
@@ -15,25 +22,26 @@ Copyright 2017 © document created by TeamLab.Gachon@gmail.com
 
 다운로드를 위해 `View Raw` 또는 `Download` 버튼을 클릭합니다. 또는 아래 다운로드 링크를 클릭하면 자동으로 다운로드가 됩니다. [Lab 2 - 다운로드](https://github.com/TeamLab/Gachon_CS50_Python_KMOOC/blob/master/lab_assignment/lab_2/lab_2.zip)
 다운로드 된 lab_2.zip 파일을 작업 폴더로 이동한 후 압축해제 후 작업하길 바랍니다.
+압축해제 하면 폴더가 `linux_mac`과 `windows`로 나눠져 있습니다. 자신에게 맞는 폴더로 이동해서 코드를 수정해 주시기 바랍니다.
 
 참고로 이제는 작업환경에 대한 용어에 익숙해 지셔야 합니다. 아래는 우리가 주로 사용하는 작업 환경에 대한 설명입니다.
 
-분류           | 설명 
+분류           | 설명
 --------       | ---
 Console    | 3주차에서 배우게 되겠지만 윈도우에서는 실행 → "cmd"로 들어가는 검은 화면, 우분투와 리눅스에서는 터미널 환경을 말합니다.
 Python Shell    | Console에서 `python`를 입력했을 나오는 환경으로 파이썬의 다양한 명령어를 실행 시킬 수 있습니다
 Atom editor       | (아톰 에디터 ) 본 강의의 파이썬 코드 파일은 Atom editor에서 수정되는 것을 기본으로 합니다
 
 ## 수정 해야할 함수 종류들
-압축해제 된  `basic_operations.py` 숙제 파일을 살펴봅시다. 코드가 좀 길긴 하지만 기본적인 형태는 lab 1의 `arithmetic_function.py`와 다르지 않습니다. 본 lab에서 수정해야 할 함수들은 아래와 같습니다. 
+압축해제 된  `basic_operations.py` 숙제 파일을 살펴봅시다. 코드가 좀 길긴 하지만 기본적인 형태는 lab 1의 `arithmetic_function.py`와 다르지 않습니다. 본 lab에서 수정해야 할 함수들은 아래와 같습니다.
 
-함수           | 설명 
+함수           | 설명
 --------       | ---
 str_to_int      | 문자열 값을 입력받아 정수형으로 바꾸는 함수
 str_to_float    | 문자열 값을 입력받아 실수형으로 바꾸는 함수
-number_to_str   | 정수형 또는 실수형의 값을 입력받아 문자열 값으로 바꾸는 함수 
-add_string_number   | 문자열 값과 숫자형 값을 입력받아, 두 값을 문자열 값으로 연결하는 함수 
-add_string_string   | 문자열 값과 문자열 값을 입력받아, 두 값을 문자열 값으로 연결하는 함수 
+number_to_str   | 정수형 또는 실수형의 값을 입력받아 문자열 값으로 바꾸는 함수
+add_string_number   | 문자열 값과 숫자형 값을 입력받아, 두 값을 문자열 값으로 연결하는 함수
+add_string_string   | 문자열 값과 문자열 값을 입력받아, 두 값을 문자열 값으로 연결하는 함수
 associative_law_add | (a + b) + c 와 같이 숫자형 값을 입력받아 결합 법칙을 이용한 덧셈 결과 값을 반환해주는 함수
 associative_law_mutiple | (a * b) * c 와 같이 숫자형 값을 입력받아 결합 법칙을 이용한 곱셈  결과 값을 반환해주는 함수
 distributive_law    | a * (b + c) 와 같이 숫자형 값을 입력받아 분배 법칙을 이용한 결과 값을 반환해주는 함수
@@ -69,9 +77,9 @@ def str_to_int(string_number):
 >>> import basic_operations as bo
 >>> bo.str_to_int("3")
 3
-``` 
+```
 위 코드에서 첫 번째 줄 `import basic_operations as bo` 은 `basic_operations` 이라는 모듈을 부르는 명령어로 `import basic_operations` 모듈을 `bo`라는 이름으로 사용하겠다는 뜻입니다. 모듈에 대한 설명은 이후에 하겠습니다. 지금은 단지 모듈의 이름은 우리가 작성한 파일의 이름과 동일하다고만 이해하고 있으면 됩니다. 아래줄에 `bo.str_to_int("3")`는 우리가 작성한 프로그램의 함수를 실제로 실행 시키는 명령입니다. 우리가 `basic_operations`의 이름을 축약하여 `bo`로 바꾸었기 때문에 `bo` 라는 이름으로 함수를 실행할 수 있습니다. 만약 첫번째 줄의 명령어에 `as bo`가 빠져 있다면 `basic_operations.str_to_int("3")`로 실행할 수 있습니다. 이미 알고 있겠지만 `str_to_int`는 함수 이름이고, 함수에 정의한대로 입력 값을 넣어야 합니다. 우리가 함수를 선언 할 때, `str_to_int(string_number)` 에서 보듯이 `string_number`라고 하는 하나의 값만 입력할 수 있도록 지정했기 때문에 테스트 예제에서도 `("3")` 으로 하나의 값만 입력하였습니다. 만약 `("3","4")`와 같이 다른 값들을 입력하게 되면 에러 메세지를 보게 될 것입니다.
-각 함수에 목적에 맞게 9개의 함수를 수정해봅시다. 
+각 함수에 목적에 맞게 9개의 함수를 수정해봅시다.
 
 ## 수정후 테스트 하기  
 본 lab 숙제를 맞게 작성했는지 확인해보도록 합시다. 참고로 모든 함수를 다 수정한 후 테스트 할 필요는 없습니다. 함수를 수정 때마다 테스트는 가능합니다. 테스트를 위한 기본코드는 `main`함수에 아래와 같이 들어가 있습니다. 상당히 많은 내용이기 때문에 상단에 테스트 코드만 보도록 합시다.
@@ -168,4 +176,3 @@ associative_law_mutiple |       PASS |             Good Job
 사람에 따라서는 이번 숙제를 정말 쉽게 한 사람도 있을 것입니다. 사실 Lab 1과 기본적인 숙제하는 방식은 다르지 않습니다. 그러나 앞으로 진행될 Lab들은 상당히 어려울 것입니다. 그러나  우리에겐 slack과 TA들이  있습니다.
 
 > **Human knowledge belongs to the world** - from movie 'Password' -
-
