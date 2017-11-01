@@ -1,7 +1,7 @@
 TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 ==================================
 
-본 강의는 [TEAMLAB](http://theteamlab.io/)과 [Inflearn](https://www.inflearn.com/)이 함께 구축한 데이터 사이언스 과정의 첫 번째 강의인 "데이터 과학을 위한 파이썬 입문" 입니다.
+본 강의는 [TEAMLAB](http://theteamlab.io/)과 [Inflearn](https://www.inflearn.com/course/python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8-%EA%B0%95%EC%A2%8C/)이 함께 구축한 데이터 사이언스 과정의 첫 번째 강의인 "데이터 과학을 위한 파이썬 입문" 입니다.
 본 강의는 기준 교육부 지원에 의해 제작된 [K-MOOC:  데이터 과학을 위한 파이썬 입문](http://www.kmooc.kr/courses/course-v1:GachonUnivK+ACE.GachonUnivK01+2016_01/about)([YouTube](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz)) 강좌의 내용을 기반으로 제작되었습니다. 기존 강좌를 보신분은 추가로 수강하실 필요는 없습니다.
 
 본 강의는 [TEAMLAB](http://theteamlab.io/)과 [Inflearn](https://www.inflearn.com/course/python-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%85%EB%AC%B8-%EA%B0%95%EC%A2%8C/)이 함께 준비한 [WADIZ 펀딩](https://www.wadiz.kr/web/campaign/detail/13991)의 지원을 받아제작되었습니다.
@@ -42,11 +42,11 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Code Assignment: Basic Operations - [강의영상](), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_2)
 
 ### 3주차: 화면 입출력과 리스트 다루기 (Console & List Data Type)
-- [Intro 영상](https://vimeo.com/240098587/8afe2ed9d8)
-- Console 다루기 - [강의영상](https://vimeo.com/239748604/4702bfd90c), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE0jC9cIhQhLk1gBg)
-- Lab: 화씨 변환기 (Fahrenheit Converter) - [강의영상](https://vimeo.com/239748736/5b6e9e5b8b), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE1_Z2_nfpp-up_kA)
-- print formatting - [강의영상](https://vimeo.com/239748847/45ad0b89cb), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE2qNwO2LS-1PN_Ww)
-- List Data Type - [강의영상](https://vimeo.com/239749062/0e2db801ba), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaFa3AzW676PibQOCg)
+- [Intro 영상](), [주차강의자료]()
+- Console 다루기 - [강의영상](https://vimeo.com/240662564), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE0jC9cIhQhLk1gBg)
+- Lab: 화씨 변환기 (Fahrenheit Converter) - [강의영상](https://vimeo.com/240662592), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE1_Z2_nfpp-up_kA)
+- print formatting - [강의영상](https://vimeo.com/240662615), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE2qNwO2LS-1PN_Ww)
+- List Data Type - [강의영상](https://vimeo.com/240662656), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaFa3AzW676PibQOCg)
 - Code Assignment: 학점 계산기 (exam_grader) - [강의영상](), [강의자료]()
 
 ### 4주차: 제어문과 반복문 (Condition & Loop)
@@ -59,9 +59,9 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - How to debug code - [강의영상](https://vimeo.com/240759192/2fd7f830ce), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIgL7iz3E4xULp5ZA)
 
 ### 5주차: 함수와 파이썬 코드 작성연습
-- [Intro 영상](https://vimeo.com/240098665/d14f295bd5)
-- Function Concept I - [강의영상](https://vimeo.com/240423980/5f520c796f), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIdpgJxshH-WrG-Ww)
-- Function Concept II - [강의영상](https://vimeo.com/240422591/caaeea1bae), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIbqgBNByawPNaM_w)
+- [Intro 영상](https://vimeo.com/240662079)
+- Function Concept I - [강의영상](https://vimeo.com/240662967), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIdpgJxshH-WrG-Ww)
+- Function Concept II - [강의영상](https://vimeo.com/240663010), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIbqgBNByawPNaM_w)
 - Function arguments - [강의영상](), [강의자료]()
 - 코딩 컨벤션과 함수 작성법 - [강의영상](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIcFvb7Iw2E-31qiw)
 - Code Assignment:
@@ -73,7 +73,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Assignment: Baseball Game - 설명영상
 
 ### 7주차: 자료 구조 (Data Structure)
-- [Intro 영상](https://vimeo.com/240098742/237cd8666d)
+- [Intro 영상](https://vimeo.com/240662114)
 - 자료구조 개요 (Data Structure) - [강의영상](), [강의자료]()
 - Stack & Queue - [강의영상](), [강의자료]()
 - Tuple & Set (Data Structure) - [강의영상](), [강의자료]()
@@ -81,7 +81,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Lab: Command Counter - [강의영상](), [강의자료]()
 
 ### 8주차: 파이썬같은 코드 작성하기 (Pythonic Code)
-- [Intro 영상](https://vimeo.com/240098773/a93f239ae4)
+- [Intro 영상](https://vimeo.com/240662124)
 - Pythonic Code Overview - [강의영상](), [강의자료]()
 - Split & Join - [강의영상](), [강의자료]()
 - List Comprehension - [강의영상](), [강의자료]()
@@ -91,27 +91,27 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Assignment: Morse Code - 설명영상
 
 ### 9주차: 객체 지향 프로그래밍 (Objective-Oriented Programming)
-- [Intro 영상](https://vimeo.com/240098797/bd44e677a6)
+- [Intro 영상](https://vimeo.com/240662154)
 - Objective-Oriented Programming Overview - [강의영상](), [강의자료]()
 - Objects in Python - [강의영상](), [강의자료]()
 - Lab: Note and Notebook - [강의영상](), [강의자료]()
 - OOP characteristics - [강의영상](), [강의자료]()
 
 ### 10주차: 모듈과 패키지 (Module & Packages)
-- [Intro 영상](https://vimeo.com/240098832/e938dacf6d)
+- [Intro 영상](https://vimeo.com/240662179)
 - Overview - [강의영상](), [강의자료]()
 - Modules - [강의영상](), [강의자료]()
 - Packages - [강의영상](), [강의자료]()
 - 가상환경과 Package 활용하기 - [강의영상](), [강의자료]()
 
 ### 11주차: 예외 처리 (Exception Handling)
-- [Intro 영상](https://vimeo.com/240098864/f4da0302c5)
+- [Intro 영상]()
 - Overview - [강의영상](), [강의자료]()
 - Exception Handling - [강의영상](), [강의자료]()
 - Lab: - 강의영상, 강의자료
 
 ### 12주차: 파일 다루기와 CSV (File Handling and Comma Separate Values)
-- [Intro 영상](https://vimeo.com/240098897/f1fde7444f)
+- [Intro 영상]()
 - File Handling Overview - [강의영상](), [강의자료]()
 - File Handling - [강의영상](), [강의자료]()
 - Lab: News categorize - [강의영상](), [강의자료]()
@@ -119,14 +119,14 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Lab: CSV with Pandas - 강의영상, 강의자료
 
 ### 13주차: Web Scraping
-- [Intro 영상](https://vimeo.com/240098928/8e8a4b8a7b)
+- [Intro 영상]()
 - Web 이해하기 - [강의영상](), [강의자료]()
 - HTML 데이터 다루기 - [강의영상](), [강의자료]()
 - 정규 표현식: Regular Expression - [강의영상](), [강의자료]()
 - Lab: RegEx - [강의영상](), [강의자료]()
 
 ### 14주차: XML과 JSON (eXtensible Markup Languages and JSON)
-- [Intro 영상](https://vimeo.com/240343098/08852b09f9)
+- [Intro 영상]()
 - XML 이해하기 - [강의영상](), [강의자료]()
 - Lab: XML Parsing- [강의영상](), [강의자료]()
 - JSON 이해하기 - [강의영상](), [강의자료]()
