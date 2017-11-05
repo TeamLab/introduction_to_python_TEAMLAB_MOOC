@@ -20,7 +20,7 @@ pip install backend.ai-client
 [https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/blob/master/lab_assignment/lab_3/lab_3.zip](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/blob/master/lab_assignment/lab_3/lab_3.zip)
 
 다운로드를 위해 `View Raw` 또는 `Download` 버튼을 클릭합니다. 또는 아래 다운로드 링크를 클릭하면 자동으로 다운로드가 됩니다. [Lab 3 - 다운로드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_3/lab_3.zip)
-다운로드 된 lab_2.zip 파일을 작업 폴더로 이동한 후 압축해제 후 작업하길 바랍니다.
+다운로드 된 lab_3.zip 파일을 작업 폴더로 이동한 후 압축해제 후 작업하길 바랍니다.
 압축해제 하면 폴더가 `linux_mac`과 `windows`로 나눠져 있습니다. 자신의 OS에 맞는 폴더로 이동해서 코드를 수정해 주시기 바랍니다.
 
 폴더 안에는 `exam_grader.py` 파일이 있을 것 입니다. 받자마자 실험 차원에서 코드를 한번 실행해봅니다. 코드를 실행할 때에는 cmd 또는 터미널 창에서 `python exam_grader.py`를 입력하면 됩니다. 이제 다들 코드를 어떻게 실행하는 지는 알 것입니다. 실행하면 아마 아래와 같은 에러 메세지가 뜰 것입니다.
