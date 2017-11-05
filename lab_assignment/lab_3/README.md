@@ -147,18 +147,18 @@ submit.bat [YOUR_HASH_KEY]
 3. 밑에 bash창을 입력합니다.
 
 ```bash
-./submit.sh [YOUR_HASH_KEY]
+bash ./submit.sh [YOUR_HASH_KEY]
 ```
 
 완벽하지 못한 상태에서 숙제 제출을 수행하면 아래와 같은 에러를 볼 수도 있습니다.
 
 ```python
----------------------- | ----------- | --------------------
-       Function Name   |    Passed?  |             Feedback
----------------------- | ----------- | --------------------
-get_number_of_subjects |       PASS  |             Good Job
-   get_average_score   |    Not Yet  |   Check Your Grammar
----------------------- | ----------- | --------------------
+--------------------------- | ----------- | --------------------
+       Function Name        |    Passed?  |             Feedback
+--------------------------- | ----------- | --------------------
+test_get_number_of_subjects |       PASS  |             Good Job
+test_get_average_score      |    Not Yet  |   Check Your Grammar
+--------------------------- | ----------- | --------------------
 ```
 
 이런 경우는 `get_average_score` 함수를 이름에 안맞게 작성했을 경우 주로 나타납니다. 물론 아닌 경우도 있습니다. 다시 위의 내용을 점검하여 오탈자가 없는지 확인한 후 제출해봅시다. 제대로 작성할 경우 아래 메세지를 볼 수 있습니다.
