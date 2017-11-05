@@ -1,23 +1,29 @@
 Lab #3 - 학점 계산기 (exam_grader)
 ==================================
 
-Copyright 2015 © document created by TeamLab.Gachon@gmail.com
+Copyright 2017 © document created by TeamLab.Gachon@gmail.com
 
-Introduction
-------------
+## Introduction
 
 이번 과제는 조금 짧습니다. 그러나 간단하지 않습니다. 처음으로 수강자가 직접 함수를 작성합니다. 나중에 보면 매우 쉬운 함수이지만 지금은 어렵게 느껴질 것입니다. 이미 포기하기는 늦었으니 해봅시다.
 
-숙제 template 파일 다운로드
----------------------------
+## backend.ai 설치
+숙제를 제출하기 앞서, [레블업](http://www.lablup.com/)의 backend.ai를 여러분의 파이썬에 설치하셔야 합니다. 설치하는 과정은 매우 쉽습니다. 아래처럼 터미널 또는 cmd 창에서 입력을 하시면 됩니다.
 
-먼저 숙제 template 파일을 다운받아야 합니다. Chrome 또는 익스플로러와 같은 웹 브라우저 주소창에 아래 주소를 입력합니다.
+```bash
+pip install backend.ai-client
+```
 
-> https://github.com/TeamLab/Gachon_CS50_Python_KMOOC/blob/master/lab_assignment/lab_3/lab_3.zip
+## 숙제 파일(lab_3.zip) 다운로드
+먼저 해야 할 일은 숙제 파일을 다운로드 받는 것 입니다. 이미 해보았기 때문에 어렵지 않을 것입니다. Chrome 또는 익스플로러와 같은 웹 브라우저 주소창에 아래 주소를 입력합니다.
 
-다운로드를 위해 View Raw 또는 Download 버튼을 클릭합니다. 또는 [Lab 3 - 다운로드 링크](https://github.com/TeamLab/Gachon_CS50_Python_KMOOC/raw/master/lab_assignment/lab_3/lab_3.zip) 를 클릭하면 자동으로 다운로드가 됩니다. 다운로드 된 lab_3.zip 파일을 작업 폴더로 이동한 후 압축해제 후 작업하길 바랍니다.
+[https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/blob/master/lab_assignment/lab_3/lab_3.zip](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/blob/master/lab_assignment/lab_3/lab_3.zip)
 
-그러면 `exam_grader.py` 파일이 다운로드 될 것입니다. 받자마자 실험 차원에서 코드를 한번 실행해봅니다. 코드를 실행할 때에는 cmd 창에서 `python exam_grader.py`를 입력하면 됩니다. 이제 다들 코드를 어떻게 실행하는 지는 알 것입니다. 실행하면 아마 아래와 같은 에러 메세지가 뜰 것입니다.
+다운로드를 위해 `View Raw` 또는 `Download` 버튼을 클릭합니다. 또는 아래 다운로드 링크를 클릭하면 자동으로 다운로드가 됩니다. [Lab 3 - 다운로드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_3/lab_3.zip)
+다운로드 된 lab_2.zip 파일을 작업 폴더로 이동한 후 압축해제 후 작업하길 바랍니다.
+압축해제 하면 폴더가 `linux_mac`과 `windows`로 나눠져 있습니다. 자신의 OS에 맞는 폴더로 이동해서 코드를 수정해 주시기 바랍니다.
+
+폴더 안에는 `exam_grader.py` 파일이 있을 것 입니다. 받자마자 실험 차원에서 코드를 한번 실행해봅니다. 코드를 실행할 때에는 cmd 또는 터미널 창에서 `python exam_grader.py`를 입력하면 됩니다. 이제 다들 코드를 어떻게 실행하는 지는 알 것입니다. 실행하면 아마 아래와 같은 에러 메세지가 뜰 것입니다.
 
 ```python
 Start of Exam Grader Program
@@ -125,22 +131,23 @@ End of Exame Grader Program
 ```
 
 
-이제 숙제를 제출합시다. 
+이제 숙제를 제출합시다.
+## 숙제 template 파일 제출하기 (윈도우의 경우)
+1. <kbd>windows</kbd><sup id="windows"></sup>+<kbd>r</kbd>를 누르고 cmd 입력 후 확인을 클릭합니다.
+2. 작업을 수행한 폴더로 이동 합니다.
+3. 밑에 명령어를 cmd창에 입력합니다.
 
-- `windows`+`r`를 누르고 cmd 입력 후 확인을 클릭합니다.
-- 작업폴더로 경로를 이동합니다.
-- cmd 창에서 아래의 코드를 입력합니다.
-
-```python
-python submit.py
+```bash
+submit.bat [YOUR_HASH_KEY]
 ```
 
-위 명령어를 입력하면, 아래와 같은 내용이 띄면서 Login ID와 Password를 물어보게 될 것입니다. http://theteamlab.io 웹 페이지에 가입시 사용했던 Login ID와 비밀번호를 입력합니다.
+## 숙제 template 파일 제출하기 (Mac or Linux)
+1. 터미널을 구동합니다.
+2. 작업을 수행한 디렉토리로로 이동 합니다.
+3. 밑에 bash창을 입력합니다.
 
-```python
-== Submmting solutions | arithmetic_function.py
-Login ID:
-Password :
+```bash
+./submit.sh [YOUR_HASH_KEY]
 ```
 
 완벽하지 못한 상태에서 숙제 제출을 수행하면 아래와 같은 에러를 볼 수도 있습니다.
