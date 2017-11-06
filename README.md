@@ -25,7 +25,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 
 ## 강의 구성
 ### Chapter I: Python Overview
-- [Intro 영상](https://vimeo.com/240098386/452841deb5)
+- [Intro 영상](https://vimeo.com/240098386/452841deb5), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJGt8qpW3XliQzhaw)
 - 파이썬 소개 - [강의영상](https://vimeo.com/239749752/805ec87259), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9ugtVA1C_i4FjJVg)
 - 파이썬 개발환경 개요 - [강의영상](https://vimeo.com/239748214/9535a02953), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9pEcEobxk48WDoqQ)
 - Lab: 파이썬 인터프리터 및 Atom 에디터 설치
@@ -35,19 +35,19 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Code Assignment: Arithmetic - [강의영상 for Mac & Linux](https://vimeo.com/240770320/5a5374fd80), [강의영상 for Windows](https://vimeo.com/240759045/74807a9521), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_1)
 
 ### 2주차: 메모리와 변수 (Memory & Variable)
-- [Intro 영상](https://vimeo.com/240098521/10be6d6d54)
+- [Intro 영상](https://vimeo.com/240098521/10be6d6d54), , [주차강의자료](https://1drv.ms/f/s!ApZ4mg7k2qYhgZ9ezXezDeAfUoEiYg)
 - 메모리와 변수 - [강의영상](https://vimeo.com/239747784), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9rS9WHdJz5uLMcMg)
 - 기본 자료형과 연산 - [강의영상](https://vimeo.com/239748404/e488934780), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9tNp4mzALR1ZiILA)
 - 자료형 변환 - [강의영상](https://vimeo.com/239749982/bc69a7bbca), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaB3uPIYfh3lIuEtmA)
-- Code Assignment: Basic Operations - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_2/lab_2.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_2)
+- Code Assignment: Basic Operations - [강의영상 for Mac & Linux](https://vimeo.com/241447239/1d4e6b04e6), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_2/lab_2.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_2)
 
 ### 3주차: 화면 입출력과 리스트 다루기 (Console & List Data Type)
-- [Intro 영상](https://vimeo.com/240098587/8afe2ed9d8), [주차강의자료]()
-- Console 다루기 - [강의영상](https://vimeo.com/240662564), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE0jC9cIhQhLk1gBg)
-- Lab: 화씨 변환기 (Fahrenheit Converter) - [강의영상](https://vimeo.com/240662592), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE1_Z2_nfpp-up_kA)
-- print formatting - [강의영상](https://vimeo.com/240662615), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE2qNwO2LS-1PN_Ww)
-- List Data Type - [강의영상](https://vimeo.com/240662656), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaFa3AzW676PibQOCg)
-- Code Assignment: 학점 계산기 (exam_grader) - [강의영상](), [강의자료]()
+- [Intro 영상](https://vimeo.com/240098587/8afe2ed9d8), [주차강의자료](https://1drv.ms/f/s!ApZ4mg7k2qYhgZ9ezXezDeAfUoEiYg)
+- Console 다루기 - [강의영상](https://vimeo.com/239748604/4702bfd90c), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE0jC9cIhQhLk1gBg)
+- Lab: 화씨 변환기 (Fahrenheit Converter) - [강의영상](https://vimeo.com/239748736/5b6e9e5b8b), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE1_Z2_nfpp-up_kA)
+- print formatting - [강의영상](https://vimeo.com/239748847/45ad0b89cb), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE2qNwO2LS-1PN_Ww)
+- List Data Type - [강의영상](https://vimeo.com/240424643/89e5fe5bd8), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaFa3AzW676PibQOCg)
+- Code Assignment: 학점 계산기 (exam_grader) - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_3/lab_3.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_3)
 
 ### 4주차: 제어문과 반복문 (Condition & Loop)
 - [Intro 영상](https://vimeo.com/240098624/d93c7fc6ae)
