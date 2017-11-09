@@ -3,6 +3,7 @@ def asterisk_test(a, b, *args):
 
 
 print(asterisk_test(1, 2, 3, 4, 5))
+<<<<<<< HEAD
 
 
 def asterisk_test_2(*args):
@@ -11,3 +12,5 @@ def asterisk_test_2(*args):
 
 
 print(asterisk_test_2(3, 4, 5))
+=======
+>>>>>>> c312bb0449ce721bb60ecc38f420ea75a6d6f9cd
