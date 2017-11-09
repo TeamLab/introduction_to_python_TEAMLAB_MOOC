@@ -5,7 +5,7 @@ Copyright 2015 © document created by TeamLab.Gachon@gmail.com
 ## Introduction
 4주차 강의 Lab Assignment 입니다. 이번 lab은 더 짧고 더 불친절합니다. 이번 랩은 이미 수업시간에 한번 다룬 화씨 변환기를 숙제 형식에 맞게 수정하였습니다. 이번 lab의 가장 큰 특징은 `main` 함수마저 수강생들이 직접 작성한다는 것입니다. 조금 어려워 보일수도 있으나 막상 끝나고 보면 쉬울 것입니다. 이번 lab에서는 개별 함수의 작성 그리고 각 함수들의 연결을 연습해 봅시다.
 
-[PDF 파일 다운로드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_4/README.pdf)
+[PDF 파일 다운로드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_4/lab_4.pdf)
 
 ## backend.ai 설치
 숙제를 제출하기 앞서, [레블업](http://www.lablup.com/)의 backend.ai를 여러분의 파이썬에 설치하셔야 합니다. 설치하는 과정은 매우 쉽습니다. 아래처럼 터미널 또는 cmd 창에서 입력을 하시면 됩니다.
