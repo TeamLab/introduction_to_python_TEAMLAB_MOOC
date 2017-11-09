@@ -57,6 +57,10 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Lab: 구구단 계산기 - [강의영상#1](https://vimeo.com/240791221/80b7413f48), [강의영상#2](https://vimeo.com/240791302/c28a62a0e2), [강의영상#3](https://vimeo.com/240791328/334cb4d7aa), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIMz5EISBRlaQ54Qw)
 - Lab: Condition and Loop - [강의영상#1](https://vimeo.com/240791381/9702754a67), [강의영상#2](https://vimeo.com/240791461/c9cf5f66c7), [강의영상#3](https://vimeo.com/240791091/d88b897453), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaITyWtELkNRq-wkWw)
 - How to debug code - [강의영상](https://vimeo.com/240759192/2fd7f830ce), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIgL7iz3E4xULp5ZA)
+- Code Assignment: Fahrenheit Converter - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_4/lab_4.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_4)
+
+
+Add lab_4 assingment
 
 ### 5주차: 함수와 파이썬 코드 작성연습
 - [Intro 영상](https://vimeo.com/240098665/d14f295bd5)
