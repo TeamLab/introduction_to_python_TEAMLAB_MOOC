@@ -5,13 +5,23 @@ Copyright 2015 © document created by TeamLab.Gachon@gmail.com
 ## Introduction
 4주차 강의 Lab Assignment 입니다. 이번 lab은 더 짧고 더 불친절합니다. 이번 랩은 이미 수업시간에 한번 다룬 화씨 변환기를 숙제 형식에 맞게 수정하였습니다. 이번 lab의 가장 큰 특징은 `main` 함수마저 수강생들이 직접 작성한다는 것입니다. 조금 어려워 보일수도 있으나 막상 끝나고 보면 쉬울 것입니다. 이번 lab에서는 개별 함수의 작성 그리고 각 함수들의 연결을 연습해 봅시다.
 
-## 숙제 template 파일 다운로드
-먼저 숙제 template 파일을 다운받아야 합니다. Chrome 또는 익스플로러와같은 웹 브라우저 주소창에 아래 주소를 입력합니다.
+[PDF 파일 다운로드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_4/README.pdf)
 
->
-https://github.com/TeamLab/Gachon_CS50_Python_KMOOC/blob/master/lab_assignment/lab_4/lab_4.zip
+## backend.ai 설치
+숙제를 제출하기 앞서, [레블업](http://www.lablup.com/)의 backend.ai를 여러분의 파이썬에 설치하셔야 합니다. 설치하는 과정은 매우 쉽습니다. 아래처럼 터미널 또는 cmd 창에서 입력을 하시면 됩니다.
 
-다운로드를 위해 View Raw 또는 Download 버튼을 클릭합니다. 또는 [Lab 4 - 다운로드 링크](https://github.com/TeamLab/Gachon_CS50_Python_KMOOC/blob/master/lab_assignment/lab_4/lab_4.zip) 를 클릭하면 자동으로 다운로드가 됩니다. 다운로드 된 lab_4.zip 파일을 작업 폴더로 이동한 후 압축해제 후 작업하길 바랍니다.
+```bash
+pip install backend.ai-client
+```
+
+## 숙제 파일(lab_4.zip) 다운로드
+먼저 해야 할 일은 숙제 파일을 다운로드 받는 것 입니다. 이미 해보았기 때문에 어렵지 않을 것입니다. Chrome 또는 익스플로러와 같은 웹 브라우저 주소창에 아래 주소를 입력합니다.
+
+[https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/blob/master/lab_assignment/lab_3/lab_4.zip](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/blob/master/lab_assignment/lab_4/lab_4.zip)
+
+다운로드를 위해 `View Raw` 또는 `Download` 버튼을 클릭합니다. 또는 아래 다운로드 링크를 클릭하면 자동으로 다운로드가 됩니다. [Lab 4 - 다운로드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_4/lab_4.zip)
+다운로드 된 lab_4.zip 파일을 작업 폴더로 이동한 후 압축해제 후 작업하길 바랍니다.
+압축해제 하면 폴더가 `linux_mac`과 `windows`로 나눠져 있습니다. 자신의 OS에 맞는 폴더로 이동해서 코드를 수정해 주시기 바랍니다.
 
 ## fahrenheit_converter.py 파일 Overview
 `atom`으로 `fahrenheit_converter.py`을 열어 전체적인 개요를 봅시다. 파일을 열어보면 아래와 같은 내용이 파일에 기록되어 있을 것입니다.
