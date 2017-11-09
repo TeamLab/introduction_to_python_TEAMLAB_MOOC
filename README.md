@@ -39,7 +39,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - 메모리와 변수 - [강의영상](https://vimeo.com/239747784), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9rS9WHdJz5uLMcMg)
 - 기본 자료형과 연산 - [강의영상](https://vimeo.com/239748404/e488934780), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgZ9tNp4mzALR1ZiILA)
 - 자료형 변환 - [강의영상](https://vimeo.com/239749982/bc69a7bbca), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaB3uPIYfh3lIuEtmA)
-- Code Assignment: Basic Operations - [강의영상 for Mac & Linux](https://vimeo.com/241447239/1d4e6b04e6), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_2/lab_2.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_2)
+- Code Assignment: Basic Operations - [강의영상 for Mac & Linux](https://vimeo.com/241447239/1d4e6b04e6), [강의영상 for Windows](https://vimeo.com/242003212/d5bb89ef7f) [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_2/lab_2.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_2)
 
 ### 3주차: 화면 입출력과 리스트 다루기 (Console & List Data Type)
 - [Intro 영상](https://vimeo.com/240098587/8afe2ed9d8), [주차강의자료](https://1drv.ms/f/s!ApZ4mg7k2qYhgZ9ezXezDeAfUoEiYg)
@@ -47,7 +47,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Lab: 화씨 변환기 (Fahrenheit Converter) - [강의영상](https://vimeo.com/239748736/5b6e9e5b8b), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE1_Z2_nfpp-up_kA)
 - print formatting - [강의영상](https://vimeo.com/239748847/45ad0b89cb), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE2qNwO2LS-1PN_Ww)
 - List Data Type - [강의영상](https://vimeo.com/240424643/89e5fe5bd8), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaFa3AzW676PibQOCg)
-- Code Assignment: 학점 계산기 (exam_grader) - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_3/lab_3.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_3)
+- Code Assignment: 학점 계산기 (exam_grader) - [강의영상 for Mac & Linux](https://vimeo.com/242002863/697670aea1), [강의영상 for Windows](https://vimeo.com/242002864/3ca6ccbde7), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_3/lab_3.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_3)
 
 ### 4주차: 제어문과 반복문 (Condition & Loop)
 - [Intro 영상](https://vimeo.com/240098624/d93c7fc6ae)

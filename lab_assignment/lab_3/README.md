@@ -7,6 +7,8 @@ Copyright 2017 © document created by TeamLab.Gachon@gmail.com
 
 이번 과제는 조금 짧습니다. 그러나 간단하지 않습니다. 처음으로 수강자가 직접 함수를 작성합니다. 나중에 보면 매우 쉬운 함수이지만 지금은 어렵게 느껴질 것입니다. 이미 포기하기는 늦었으니 해봅시다.
 
+[PDF 파일 다운로드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_3/README.pdf)
+
 ## backend.ai 설치
 숙제를 제출하기 앞서, [레블업](http://www.lablup.com/)의 backend.ai를 여러분의 파이썬에 설치하셔야 합니다. 설치하는 과정은 매우 쉽습니다. 아래처럼 터미널 또는 cmd 창에서 입력을 하시면 됩니다.
 
