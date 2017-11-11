@@ -50,7 +50,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Code Assignment: 학점 계산기 (exam_grader) - [강의영상 for Mac & Linux](https://vimeo.com/242002863/697670aea1), [강의영상 for Windows](https://vimeo.com/242002864/3ca6ccbde7), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_3/lab_3.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_3)
 
 ### 4주차: 제어문과 반복문 (Condition & Loop)
-- [Intro 영상](https://vimeo.com/240098624/d93c7fc6ae)
+- [Intro 영상](https://vimeo.com/240098624/d93c7fc6ae), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJKxr2f4U_FNVUf7A)
 - Condition - [강의영상](https://vimeo.com/240424287/255504b36c), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaII6uTG0K_7r3slvQ)
 - Lab: 당신은 무슨 학교 다니세요? - [강의영상](https://vimeo.com/240791163/0a63bdf759), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaII6uTG0K_7r3slvQ)
 - Loop - [강의영상](https://vimeo.com/239749324/5146a73f87), [강의자료](https://1drv.ms/f/s!ApZ4mg7k2qYhgZ9ezXezDeAfUoEiYg)
@@ -59,22 +59,20 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - How to debug code - [강의영상](https://vimeo.com/240759192/2fd7f830ce), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIgL7iz3E4xULp5ZA)
 - Code Assignment: Fahrenheit Converter - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_4/lab_4.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_4)
 
-
-Add lab_4 assingment
-
 ### 5주차: 함수와 파이썬 코드 작성연습
-- [Intro 영상](https://vimeo.com/240098665/d14f295bd5)
+- [Intro 영상](https://vimeo.com/240098665/d14f295bd5), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJo28xWEKG_2RBvNg)
 - Function Concept I - [강의영상](https://vimeo.com/240662967), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIdpgJxshH-WrG-Ww)
 - Function Concept II - [강의영상](https://vimeo.com/240663010), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIbqgBNByawPNaM_w)
-- Function arguments - [강의영상](), [강의자료]()
+- Function arguments - [강의영상](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJnmZZsVZHdTh6e0A)
 - 코딩 컨벤션과 함수 작성법 - [강의영상](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIcFvb7Iw2E-31qiw)
-- Code Assignment:
+- Code Assignment: gowithflow - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_5/lab_5.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_5)
 
 ### 6주차: 문자열 다루기 (String)
 - [Intro 영상](https://vimeo.com/240098700/b13ce1a9b6 )
 - 문자열 다루기 (String) - [강의영상](https://vimeo.com/240791530/a79fbbc02f), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIfpTH3tktzEgyV6w)
 - Lab: Yesterday Letter Counter - [강의영상](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIeBMHAZJMV3nS5-g)
-- Assignment: Baseball Game - 설명영상
+- Assignment: Baseball Game - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_6/lab_6.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_6)
+
 
 ### 7주차: 자료 구조 (Data Structure)
 - [Intro 영상](https://vimeo.com/240098742/237cd8666d)
@@ -83,6 +81,7 @@ Add lab_4 assingment
 - Tuple & Set (Data Structure) - [강의영상](), [강의자료]()
 - 사전 (Dictionary) - [강의영상](), [강의자료]()
 - Lab: Command Counter - [강의영상](), [강의자료]()
+- Assignment: Morse Code - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_7/lab_7.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_7)
 
 ### 8주차: 파이썬같은 코드 작성하기 (Pythonic Code)
 - [Intro 영상](https://vimeo.com/240098773/a93f239ae4)
@@ -90,9 +89,9 @@ Add lab_4 assingment
 - Split & Join - [강의영상](), [강의자료]()
 - List Comprehension - [강의영상](), [강의자료]()
 - Enumerate & Zip - [강의영상](), [강의자료]()
+- Map & Reduce - [강의영상](), [강의자료]()
 - Asterisk - [강의영상](), [강의자료]()
-- Simple linear algebra with pythonic code - [강의영상](), [강의자료]()
-- Assignment: Morse Code - 설명영상
+- Assignment: Linear algebra with pythonic code - [강의영상](), [강의자료]()
 
 ### 9주차: 객체 지향 프로그래밍 (Objective-Oriented Programming)
 - [Intro 영상](https://vimeo.com/240098797/bd44e677a6)
@@ -141,7 +140,7 @@ Add lab_4 assingment
 - Final Term Problem Set
 
 ## 참고자료
-- [점프 투 파이썬](), 박응용 지음 , 2014
+- [점프 투 파이썬](https://wikidocs.net/book/1), 박응용 지음 , 2014
 - 헬로 파이썬 프로그래밍, 워렌 산데,카터 산데 지음 / 김승범, 박준표 옮김 , 2014
 - 하용호, [스타트업 데이터를 어떻게 봐라봐야 할까](http://www.slideshare.net/yongho/ss-32267675) , 2014
 - 최성철, [산업공학과를 위한 프로그래밍 입문 Part 1(w/파이썬)](http://www.slideshare.net/blissray/w-37771905) , 2014

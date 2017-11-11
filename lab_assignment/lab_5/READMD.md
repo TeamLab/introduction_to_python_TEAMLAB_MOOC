@@ -58,22 +58,20 @@ list에서 특정한 값을 지우기 위해서는 `list_data.remove(특정한�
 list에 새로운 값을 추가하는 방법은 `list_data.append(추가하는값)`입니다. 물론 문자열일때는 `'추가하는값'`을 붙여야함을 잊지 맙시다.
 제일 작은 값을 찾는 방법은 `min(list_data)` 이고, 특정한 값이 list에 존재하는 갯수를 찾을 때는 `list_data.count(특정한값)`입니다. 지금 설명하는 내용은 `number_of_cases`에 필요한 내용들이므로 숙제를 하기 바랍니다.
 
-## 숙제 제출하기
-모든 lab assignment가 종료되었습니다. 이제 숙제를 제출합시다.
-- `windows`+`r`를 누르고 cmd 입력 후 확인을 클릭합니다.
-- 작업폴더로 경로를 이동합니다.
-- cmd 창에서 아래의 코드를 입력합니다.
-
-```python
-python submit.py
+###숙제 template 파일 제출하기 (윈도우의 경우)
+1. <kbd>windows</kbd><sup id="windows"></sup>+<kbd>r</kbd>를 누르고 cmd 입력 후 확인을 클릭합니다.
+2. 작업을 수행한 폴더로 이동 합니다.
+3. 밑에 명령어를 cmd창에 입력합니다.
+```bash
+submit.bat [YOUR_HASH_KEY]
 ```
 
-위 명령어를 입력하면, 아래와 같은 내용이 띄면서 Login ID와 Password를 물어보게 될 것입니다. http://theteamlab.io 웹 페이지에 가입시 사용했던 ID와 비밀번호를 입력합니다.
-
-```python
-== Submmting solutions | gowithflow.py
-Login ID:
-Password :
+### 숙제 template 파일 제출하기 (Mac or Linux)
+1. 터미널을 구동합니다.
+2. 작업을 수행한 디렉토리로로 이동 합니다.
+3. 밑에 bash창을 입력합니다.
+```bash
+./submit.sh [YOUR_HASH_KEY]
 ```
 
 ```python
