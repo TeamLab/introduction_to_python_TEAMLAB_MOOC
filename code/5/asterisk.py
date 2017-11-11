@@ -3,7 +3,6 @@ def asterisk_test(a, b, *args):
 
 
 print(asterisk_test(1, 2, 3, 4, 5))
-<<<<<<< HEAD
 
 
 def asterisk_test_2(*args):
@@ -12,5 +11,25 @@ def asterisk_test_2(*args):
 
 
 print(asterisk_test_2(3, 4, 5))
-=======
->>>>>>> c312bb0449ce721bb60ecc38f420ea75a6d6f9cd
+
+
+def kwargs_test_1(**kwargs):
+    print(kwargs)
+
+kwargs_test_1(first=3, second=4, third=5)
+
+
+def kwargs_test_2(**kwargs):
+    print(kwargs)
+    print("First value is {first}".format(**kwargs))
+    print("Second value is {second}".format(**kwargs))
+    print("Third value is {third}".format(**kwargs))
+
+
+kwargs_test_2(first=3, second=4, third=5)
+
+def kwargs_test_3(one,two, *args, **kwargs):
+    print(one+two+sum(args))
+    print(kwargs)
+
+kwargs_test_3(3,4,5,6,7,8,9, first=3, second=4, third=5)
