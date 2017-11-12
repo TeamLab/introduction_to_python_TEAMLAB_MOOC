@@ -57,14 +57,14 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Lab: 구구단 계산기 - [강의영상#1](https://vimeo.com/240791221/80b7413f48), [강의영상#2](https://vimeo.com/240791302/c28a62a0e2), [강의영상#3](https://vimeo.com/240791328/334cb4d7aa), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIMz5EISBRlaQ54Qw)
 - Lab: Condition and Loop - [강의영상#1](https://vimeo.com/240791381/9702754a67), [강의영상#2](https://vimeo.com/240791461/c9cf5f66c7), [강의영상#3](https://vimeo.com/240791091/d88b897453), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaITyWtELkNRq-wkWw)
 - How to debug code - [강의영상](https://vimeo.com/240759192/2fd7f830ce), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIgL7iz3E4xULp5ZA)
-- Code Assignment: Fahrenheit Converter - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_4/lab_4.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_4)
+- Code Assignment: Fahrenheit Converter - [강의영상https://vimeo.com/242450557/605bcab791 [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_4/lab_4.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_4)
 
 ### 5주차: 함수와 파이썬 코드 작성연습
 - [Intro 영상](https://vimeo.com/240098665/d14f295bd5), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJo28xWEKG_2RBvNg)
 - Function Concept I - [강의영상](https://vimeo.com/240662967), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIdpgJxshH-WrG-Ww)
 - Function Concept II - [강의영상](https://vimeo.com/240663010), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIbqgBNByawPNaM_w)
-- Function arguments - [강의영상](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJnmZZsVZHdTh6e0A)
-- 코딩 컨벤션과 함수 작성법 - [강의영상](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIcFvb7Iw2E-31qiw)
+- Function arguments - [강의영상](https://vimeo.com/242452110/d5130e515a), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJnmZZsVZHdTh6e0A)
+- 코딩 컨벤션과 함수 작성법 - [강의영상](https://vimeo.com/242453042/cfc8fa726b), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIcFvb7Iw2E-31qiw)
 - Code Assignment: gowithflow - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_5/lab_5.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_5)
 
 ### 6주차: 문자열 다루기 (String)
