@@ -61,8 +61,8 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 
 ### 5주차: 함수와 파이썬 코드 작성연습
 - [Intro 영상](https://vimeo.com/240098665/d14f295bd5), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJo28xWEKG_2RBvNg)
-- Function Concept I - [강의영상](https://vimeo.com/240662967), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIdpgJxshH-WrG-Ww)
-- Function Concept II - [강의영상](https://vimeo.com/240663010), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIbqgBNByawPNaM_w)
+- Function Concept I - [강의영상](https://vimeo.com/240423980/5f520c796f), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIdpgJxshH-WrG-Ww)
+- Function Concept II - [강의영상](https://vimeo.com/240422591/caaeea1bae), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIbqgBNByawPNaM_w)
 - Function arguments - [강의영상](https://vimeo.com/242452110/d5130e515a), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJnmZZsVZHdTh6e0A)
 - 코딩 컨벤션과 함수 작성법 - [강의영상](https://vimeo.com/242453042/cfc8fa726b), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIcFvb7Iw2E-31qiw)
 - Code Assignment: gowithflow - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_5/lab_5.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_5)
