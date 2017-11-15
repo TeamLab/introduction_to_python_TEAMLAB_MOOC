@@ -70,7 +70,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 ### 6주차: 문자열 다루기 (String)
 - [Intro 영상](https://vimeo.com/240098700/b13ce1a9b6 )
 - 문자열 다루기 (String) - [강의영상](https://vimeo.com/240791530/a79fbbc02f), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIfpTH3tktzEgyV6w)
-- Lab: Yesterday Letter Counter - [강의영상](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIeBMHAZJMV3nS5-g)
+- Lab: Yesterday Letter Counter - [강의영상](https://vimeo.com/242585899/d5d06aa94a), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIeBMHAZJMV3nS5-g)
 - Assignment: Baseball Game - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_6/lab_6.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_6)
 
 
