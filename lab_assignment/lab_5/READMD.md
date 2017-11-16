@@ -3,7 +3,7 @@ Lab #5 - list, control, loop 연습 (gowithflow)
 Copyright 2017 © document created by TeamLab.Gachon@gmail.com
 
 ## Introduction
-6주차임에도 불구하고 16주차처럼 느껴진다면 기분 탓일 겁니다. 기분좋게 Lab 5를 시작하는 여러분들을 환영합니다. 굉장히 어렵고 힘들게 느껴지겠지만, 실은 기초중에 기초를 하고 있다는 것에 좌절하지 않길 바랍니다.
+5주차 임에도 불구하고 16주차처럼 느껴진다면 기분 탓일 겁니다. 기분좋게 Lab 5를 시작하는 여러분들을 환영합니다. 굉장히 어렵고 힘들게 느껴지겠지만, 실은 기초중에 기초를 하고 있다는 것에 좌절하지 않길 바랍니다.
 
 혹시 인스타그램을 쓰십니까? 참고로 인스타그램은 파이썬으로 개발된 대표적인 서비스입니다. 언젠가 그런 서비스를 개발할 날을 꿈꾸며, 오늘의 Lab을 시작합시다.
 
@@ -11,17 +11,21 @@ Copyright 2017 © document created by TeamLab.Gachon@gmail.com
 
 난이도가 점점 올라갑니다. 그럼에도 불구하고 아직 기초라는 사실을 잊지 말고, Lab을 즐기길 바랍니다.
 
-## 숙제 template 파일 다운로드
-먼저 숙제 template 파일을 다운받아야 합니다. Chrome 또는 익스플로러와같은 웹 브라우저 주소창에 아래 주소를 입력합니다.
+[PDF 파일 다운로드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_5/lab_5.pdf)
 
->
-https://github.com/TeamLab/Gachon_CS50_Python_KMOOC/blob/master/lab_assignment/lab_5/lab_5.zip
+## 숙제 파일(lab_5.zip) 다운로드
+먼저 해야 할 일은 숙제 파일을 다운로드 받는 것 입니다. 이미 해보았기 때문에 어렵지 않을 것입니다. Chrome 또는 익스플로러와 같은 웹 브라우저 주소창에 아래 주소를 입력합니다.
 
-다운로드를 위해 View Raw 또는 Download 버튼을 클릭합니다. 또는 [Lab 5 - 다운로드 링크](https://github.com/TeamLab/Gachon_CS50_Python_KMOOC/blob/master/lab_assignment/lab_5/lab_5.zip) 를 클릭하면 자동으로 다운로드가 됩니다. 다운로드 된 lab_5.zip 파일을 작업 폴더로 이동한 후 압축해제 후 작업하길 바랍니다.
+[https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/blob/master/lab_assignment/lab_5/lab_5.zip](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/blob/master/lab_assignment/lab_5/lab_5.zip)
+
+다운로드를 위해 `View Raw` 또는 `Download` 버튼을 클릭합니다. 또는 아래 다운로드 링크를 클릭하면 자동으로 다운로드가 됩니다. [Lab 5 - 다운로드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_5/lab_5.zip)
+다운로드 된 `lab_5.zip` 파일을 작업 폴더로 이동한 후 압축해제 후 작업하길 바랍니다.
+압축해제 하면 폴더가 `linux_mac`과 `windows`로 나눠져 있습니다. 자신의 OS에 맞는 폴더로 이동해서 코드를 수정해 주시기 바랍니다.
 
 ## 수정 해야할 함수 종류들
 숙제 파일을 다운로드 후 `atom`으로 숙제 파일을 살펴 봅시다.
 참고로 본 강의의 Lab 구성은 Lab #3나 Lab #4처럼 `main()` 함수 자체를 수정해서 전체 프로그램 목적에 맞게 프로그램을 작성하는 Lab도 있고, 본 Lab #5나 Lab #2 처럼 단위 함수를 수정하여 단순히 기능들을 연습하는 Lab도 있습니다. 단순히 기능 연습만으로 프로그램을 짤 수 없고, 로직에 대한 이해가 어렵기 때문에 보통 Lab이 난해해지기 시작합니다. 애정이 있어서 Lab이 많은 거니 너무 화를 내지는 맙시다.
+
 본 Lab에서 수정해야할 함수 목록은 아래와 같습니다.
 
 함수           | 설명
@@ -92,7 +96,7 @@ delete_a_list_element |       PASS |             Good Job
 아직도 몇몇 분들은 제출하기 전에 해당 코드를 테스트해보지 않고 제출합니다. `unsupported error`가 가끔 나는데, 코드 자체가 분석 불가능할 경우나는 에러로 얼마나 수강자가 숙제에 무심한지 티를 내는 것입니다. 반드시 `terminal`또는 `cmd` 에서 `python gowithflow.py` 명령으로 실행을 해보고 문제가 없을 경우에만 제출하도록 합시다. 물론, 위의 명령을 실행하기 위해서는 자기 나름대로 테스트 코드를 만들어 봐야 합니다.
 
 ## Next Work
-이번 숙제는 사람에 따라 굉장히 어렵게 느끼기도 했을 것입니다. 그 이유는 처음으로 로직이 숙제에 들어갔기 때문입니다. 거의 모든 컴퓨터 프로그램은 로직에 의해 움직입니다. 조금 난해하더라도 반드시 스스로의 힘으로 작성해야 머리에 남을 것입니다. 이번 차시에는 Lab이 두개밖에 없습니다. 한 개만 더해 봅시다.
+이번 숙제는 사람에 따라 굉장히 어렵게 느끼기도 했을 것입니다. 그 이유는 처음으로 로직이 숙제에 들어갔기 때문입니다. 거의 모든 컴퓨터 프로그램은 로직에 의해 움직입니다. 조금 난해하더라도 반드시 스스로의 힘으로 작성해야 머리에 남을 것입니다. 아직 갈길이 멉니다. 최선을 다해봅시다!
 
 > **Human knowledge belongs to the world** - from movie 'Password' -
 
