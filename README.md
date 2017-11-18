@@ -80,8 +80,8 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - 자료구조 개요 (Data Structure) - [강의영상](https://vimeo.com/243438963/6938be5a75), [강의자료]()
 - Stack & Queue - [강의영상](https://vimeo.com/243445913/ae6d2433f3), [강의자료]()
 - Tuple & Set (Data Structure) - [강의영상](https://vimeo.com/243446065/20bca98cf0), [강의자료]()
-- 사전 (Dictionary) - [강의영상](), [강의자료]()
-- Lab: Command Counter - [강의영상](), [강의자료]()
+- 사전 (Dictionary) - [강의영상](https://vimeo.com/243452858/e9faf138a1), [강의자료]()
+- Lab: Command Counter - [강의영상](https://vimeo.com/243454929/27751b8aa4), [강의자료]()
 - Collection module - [강의영상](), [강의자료]()
 - Assignment: Baseball Game - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_7/lab_7.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_7)
 
