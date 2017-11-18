@@ -42,7 +42,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Code Assignment: Basic Operations - [강의영상 for Mac & Linux](https://vimeo.com/241447239/1d4e6b04e6), [강의영상 for Windows](https://vimeo.com/242003212/d5bb89ef7f) [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_2/lab_2.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_2)
 
 ### 3주차: 화면 입출력과 리스트 다루기 (Console & List Data Type)
-- [Intro 영상](https://vimeo.com/240098587/8afe2ed9d8), [주차강의자료](https://1drv.ms/f/s!ApZ4mg7k2qYhgZ9ezXezDeAfUoEiYg)
+- [Intro 영상](https://vimeo.com/240098587/8afe2ed9d8), [주차강의자료](https://1drv.ms/f/s!ApZ4mg7k2qYhgZ9ezXezDeAfUoEiYg), [강의코드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/code/week_3_code.zip)
 - Console 다루기 - [강의영상](https://vimeo.com/239748604/4702bfd90c), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE0jC9cIhQhLk1gBg)
 - Lab: 화씨 변환기 (Fahrenheit Converter) - [강의영상](https://vimeo.com/239748736/5b6e9e5b8b), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE1_Z2_nfpp-up_kA)
 - print formatting - [강의영상](https://vimeo.com/239748847/45ad0b89cb), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaE2qNwO2LS-1PN_Ww)
@@ -50,7 +50,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Code Assignment: 학점 계산기 (exam_grader) - [강의영상 for Mac & Linux](https://vimeo.com/242002863/697670aea1), [강의영상 for Windows](https://vimeo.com/242002864/3ca6ccbde7), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_3/lab_3.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_3)
 
 ### 4주차: 제어문과 반복문 (Condition & Loop)
-- [Intro 영상](https://vimeo.com/240098624/d93c7fc6ae), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJKxr2f4U_FNVUf7A)
+- [Intro 영상](https://vimeo.com/240098624/d93c7fc6ae), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJKxr2f4U_FNVUf7A), [강의코드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/code/week_4_code.zip)
 - Condition - [강의영상](https://vimeo.com/240424287/255504b36c), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaII6uTG0K_7r3slvQ)
 - Lab: 당신은 무슨 학교 다니세요? - [강의영상](https://vimeo.com/240791163/0a63bdf759), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaII6uTG0K_7r3slvQ)
 - Loop - [강의영상](https://vimeo.com/239749324/5146a73f87), [강의자료](https://1drv.ms/f/s!ApZ4mg7k2qYhgZ9ezXezDeAfUoEiYg)
@@ -60,7 +60,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Code Assignment: Fahrenheit Converter - [강의영상](https://vimeo.com/242450557/605bcab791) [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_4/lab_4.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_4)
 
 ### 5주차: 함수와 파이썬 코드 작성연습
-- [Intro 영상](https://vimeo.com/240098665/d14f295bd5), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJo28xWEKG_2RBvNg)
+- [Intro 영상](https://vimeo.com/240098665/d14f295bd5), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJo28xWEKG_2RBvNg), [강의코드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/code/week_5_code.zip)
 - Function Concept I - [강의영상](https://vimeo.com/240423980/5f520c796f), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIdpgJxshH-WrG-Ww)
 - Function Concept II - [강의영상](https://vimeo.com/240422591/caaeea1bae), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIbqgBNByawPNaM_w)
 - Function arguments - [강의영상](https://vimeo.com/242452110/d5130e515a), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJnmZZsVZHdTh6e0A)
@@ -68,17 +68,17 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Code Assignment: gowithflow - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_5/lab_5.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_5)
 
 ### 6주차: 문자열 다루기 (String)
-- [Intro 영상](https://vimeo.com/240098700/b13ce1a9b6 )
+- [Intro 영상](https://vimeo.com/240098700/b13ce1a9b6 ), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJo28xWEKG_2RBvNg), [강의코드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/code/week_6_code.zip)
 - 문자열 다루기 (String) - [강의영상](https://vimeo.com/240791530/a79fbbc02f), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIfpTH3tktzEgyV6w)
 - Lab: Yesterday Letter Counter - [강의영상](https://vimeo.com/242585899/d5d06aa94a), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIeBMHAZJMV3nS5-g)
 - Assignment: Baseball Game - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_6/lab_6.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_6)
 
 
 ### 7주차: 자료 구조 (Data Structure)
-- [Intro 영상](https://vimeo.com/240098742/237cd8666d)
-- 자료구조 개요 (Data Structure) - [강의영상](), [강의자료]()
-- Stack & Queue - [강의영상](), [강의자료]()
-- Tuple & Set (Data Structure) - [강의영상](), [강의자료]()
+- [Intro 영상](https://vimeo.com/240098742/237cd8666d),[주차강의자료](), [강의코드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/code/week_7_code.zip)
+- 자료구조 개요 (Data Structure) - [강의영상](https://vimeo.com/243438963/6938be5a75), [강의자료]()
+- Stack & Queue - [강의영상](https://vimeo.com/243445913/ae6d2433f3), [강의자료]()
+- Tuple & Set (Data Structure) - [강의영상](https://vimeo.com/243446065/20bca98cf0), [강의자료]()
 - 사전 (Dictionary) - [강의영상](), [강의자료]()
 - Lab: Command Counter - [강의영상](), [강의자료]()
 - Collection module - [강의영상](), [강의자료]()
