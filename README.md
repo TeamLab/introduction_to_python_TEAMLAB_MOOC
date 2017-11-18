@@ -57,7 +57,8 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Lab: 구구단 계산기 - [강의영상#1](https://vimeo.com/240791221/80b7413f48), [강의영상#2](https://vimeo.com/240791302/c28a62a0e2), [강의영상#3](https://vimeo.com/240791328/334cb4d7aa), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIMz5EISBRlaQ54Qw)
 - Lab: Condition and Loop - [강의영상#1](https://vimeo.com/240791381/9702754a67), [강의영상#2](https://vimeo.com/240791461/c9cf5f66c7), [강의영상#3](https://vimeo.com/240791091/d88b897453), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaITyWtELkNRq-wkWw)
 - How to debug code - [강의영상](https://vimeo.com/240759192/2fd7f830ce), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIgL7iz3E4xULp5ZA)
-- Code Assignment: Fahrenheit Converter - [강의영상](https://vimeo.com/242450557/605bcab791) [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_4/lab_4.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_4)
+- Code Assignment: gowithflow - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_5/lab_5.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_5)
+
 
 ### 5주차: 함수와 파이썬 코드 작성연습
 - [Intro 영상](https://vimeo.com/240098665/d14f295bd5), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJo28xWEKG_2RBvNg), [강의코드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/code/week_5_code.zip)
@@ -65,13 +66,13 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Function Concept II - [강의영상](https://vimeo.com/240422591/caaeea1bae), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIbqgBNByawPNaM_w)
 - Function arguments - [강의영상](https://vimeo.com/242452110/d5130e515a), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJnmZZsVZHdTh6e0A)
 - 코딩 컨벤션과 함수 작성법 - [강의영상](https://vimeo.com/242453042/cfc8fa726b), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIcFvb7Iw2E-31qiw)
-- Code Assignment: gowithflow - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_5/lab_5.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_5)
+- Code Assignment: Fahrenheit Converter - [강의영상](https://vimeo.com/242450557/605bcab791) [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_4/lab_4.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_4)
 
 ### 6주차: 문자열 다루기 (String)
+- Assignment: Factorial calculator - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_6/lab_6.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_6)
 - [Intro 영상](https://vimeo.com/240098700/b13ce1a9b6 ), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJo28xWEKG_2RBvNg), [강의코드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/code/week_6_code.zip)
 - 문자열 다루기 (String) - [강의영상](https://vimeo.com/240791530/a79fbbc02f), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIfpTH3tktzEgyV6w)
 - Lab: Yesterday Letter Counter - [강의영상](https://vimeo.com/242585899/d5d06aa94a), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIeBMHAZJMV3nS5-g)
-- Assignment: Baseball Game - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_6/lab_6.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_6)
 
 
 ### 7주차: 자료 구조 (Data Structure)
@@ -82,7 +83,8 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - 사전 (Dictionary) - [강의영상](), [강의자료]()
 - Lab: Command Counter - [강의영상](), [강의자료]()
 - Collection module - [강의영상](), [강의자료]()
-- Assignment: Morse Code - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_7/lab_7.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_7)
+- Assignment: Baseball Game - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_7/lab_7.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_7)
+
 
 ### 8주차: 파이썬같은 코드 작성하기 (Pythonic Code)
 - [Intro 영상](https://vimeo.com/240098773/a93f239ae4)
@@ -92,10 +94,11 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Enumerate & Zip - [강의영상](), [강의자료]()
 - Map & Reduce - [강의영상](), [강의자료]()
 - Asterisk - [강의영상](), [강의자료]()
-- Assignment: Linear algebra with pythonic code - [강의영상](), [강의자료]()
+- Assignment: Morse Code - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_7/lab_7.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_7)
 
 ### 9주차: 객체 지향 프로그래밍 (Objective-Oriented Programming)
 - [Intro 영상](https://vimeo.com/240098797/bd44e677a6)
+- Assignment: Linear algebra with pythonic code - [강의영상](), [강의자료]()
 - Objective-Oriented Programming Overview - [강의영상](), [강의자료]()
 - Objects in Python - [강의영상](), [강의자료]()
 - Lab: Note and Notebook - [강의영상](), [강의자료]()
@@ -111,15 +114,16 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 ### 11주차: 예외 처리 (Exception Handling)
 - [Intro 영상](https://vimeo.com/240098864/f4da0302c5)
 - Overview - [강의영상](), [강의자료]()
+- Bonus Assignment: Magic Square - [강의영상](), [강의자료]()
 - Exception Handling - [강의영상](), [강의자료]()
-- Lab: - 강의영상, 강의자료
 
 ### 12주차: 파일 다루기와 CSV (File Handling and Comma Separate Values)
 - [Intro 영상](https://vimeo.com/240098897/f1fde7444f)
 - File Handling Overview - [강의영상](), [강의자료]()
 - File Handling - [강의영상](), [강의자료]()
 - Lab: News categorization - [강의영상](), [강의자료]()
-- Comma Separate Values  - [강의영상](), [강의자료]()
+- Comma Separate Values - [강의영상](), [강의자료]()
+- Assignment: Stock Data Crawler - [강의영상](), [강의자료]()
 
 ### 13주차: Web Scraping
 - [Intro 영상](https://vimeo.com/240098928/8e8a4b8a7b)
@@ -127,6 +131,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - HTML 데이터 다루기 - [강의영상](), [강의자료]()
 - 정규 표현식: Regular Expression - [강의영상](), [강의자료]()
 - Lab: RegEx - [강의영상](), [강의자료]()
+- Assignment: One More - [강의영상](), [강의자료]()
 
 ### 14주차: XML과 JSON (eXtensible Markup Languages and JSON)
 - [Intro 영상](https://vimeo.com/240343098/08852b09f9)
@@ -134,6 +139,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Lab: XML Parsing- [강의영상](), [강의자료]()
 - JSON 이해하기 - [강의영상](), [강의자료]()
 - Lab: JSON Data Analysis - [강의영상](), [강의자료]()
+- Assignment: One More - [강의영상](), [강의자료]()
 
 ### 15차: What is NEXT?
 - Wrap Up, Pyhton!- [강의영상](), [강의자료]()

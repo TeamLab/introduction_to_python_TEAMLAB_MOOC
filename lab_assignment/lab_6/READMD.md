@@ -1,16 +1,20 @@
-Lab #6- Factorial 계산기 (factorial_calculator)
+Lab - Factorial 계산기 (factorial_calculator)
 =======
 Copyright 2017 © document created by TeamLab.Gachon@gmail.com
 
 ## Introduction
 이번 Lab은 처음으로 main 함수에서 control을 다룹니다. 이때까지 모든 Lab은 단순히 단위 함수를 수정하거나, 약간의 main 함수 수정으로 1회성으로 진행하는 프로그램만 작성했습니다. 이번 Lab은 사용자가 특정한 입력을 하기 전까지 프로그램이 계속 수행되기 위하여 Loop구문과 if문을 활용한 main함수를 작성합니다. 처음이라 상당히 어렵게 느껴질 수도 있는데, 이 역시 시간이 지나가서 보면 쉬운 Lab 중 하나 일거라는 생각이 들 것 입니다. 즐거운 마음으로 시작해 봅시다.
 
-## 숙제 template 파일 다운로드
-먼저 숙제 template 파일을 다운받아야 합니다. Chrome 또는 익스플로러와 같은 웹 브라우저 주소창에 아래 주소를 입력합니다.
+[PDF 파일 다운로드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_6/lab_6.pdf)
 
-https://github.com/TeamLab/Gachon_CS50_Python_KMOOC/blob/master/lab_assignment/lab_6/lab_6.zip
+## 숙제 파일(lab_6.zip) 다운로드
+먼저 해야 할 일은 숙제 파일을 다운로드 받는 것 입니다. 이미 해보았기 때문에 어렵지 않을 것입니다. Chrome 또는 익스플로러와 같은 웹 브라우저 주소창에 아래 주소를 입력합니다.
 
-다운로드를 위해 View Raw 또는 Download 버튼을 클릭합니다. 또는 [Lab 6 - 다운로드 링크](https://github.com/TeamLab/Gachon_CS50_Python_KMOOC/blob/master/lab_assignment/lab_6/lab_6.zip) 를 클릭하면 자동으로 다운로드가 됩니다. 다운로드 된 lab_6.zip 파일을 작업 폴더로 이동한 후 압축해제 후 작업하길 바랍니다.
+[https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/blob/master/lab_assignment/lab_6/lab_6.zip](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/blob/master/lab_assignment/lab_6/lab_6.zip)
+
+다운로드를 위해 `View Raw` 또는 `Download` 버튼을 클릭합니다. 또는 아래 다운로드 링크를 클릭하면 자동으로 다운로드가 됩니다. [Lab 6 - 다운로드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_6/lab_6.zip)
+다운로드 된 `lab_6.zip` 파일을 작업 폴더로 이동한 후 압축해제 후 작업하길 바랍니다.
+압축해제 하면 폴더가 `linux_mac`과 `windows`로 나눠져 있습니다. 자신의 OS에 맞는 폴더로 이동해서 코드를 수정해 주시기 바랍니다.
 
 ## Factorial Calculator Overview
 먼저 이번 숙제의 목적인 Factorial 계산기에 대하여 알아보면, 한국어로는 "계승"으로도 번역되는 Factorial은 1 부터 n까지의 모든 자연수를 곱한 결과를 의미합니다. 즉 n factorial은 `1 X 2 X 3 X ... X n`의 의미이며, 숫자기호로는 `n!`로 표시합니다. 만약 `5!` 인 경우는 `1 X 2 X 3 X 4 X 5` 즉 `120`을 의미합니다. 수학적으로 좀 유식하게 쓰면 아래처럼 표현하기도 합니다(From wikipedia). 자세한 내용은 [wikipedia의 계승 페이지][1]를 참고하시기 바랍니다.
@@ -115,21 +119,23 @@ Thank you for using this program
 
 ## 숙제 제출하기
 모든 lab assignment가 종료되었습니다. 이제 숙제를 제출합시다.
-- `windows`+`r`를 누르고 cmd 입력 후 확인을 클릭합니다.
-- 작업폴더로 경로를 이동합니다.
-- cmd 창에서 아래의 코드를 입력합니다.
 
-```python
-python submit.py
+###숙제 template 파일 제출하기 (윈도우의 경우)
+1. <kbd>windows</kbd><sup id="windows"></sup>+<kbd>r</kbd>를 누르고 cmd 입력 후 확인을 클릭합니다.
+2. 작업을 수행한 폴더로 이동 합니다.
+3. 밑에 명령어를 cmd창에 입력합니다.
+```bash
+submit.bat [YOUR_HASH_KEY]
 ```
 
-위 명령어를 입력하면, 아래와 같은 내용이 띄면서 Login ID와 Password를 물어보게 될 것입니다. http://theteamlab.io 웹 페이지에 가입시 사용했던 ID와 비밀번호를 입력합니다.
-
-```python
-== Submmting solutions | factorial_calculator.py
-Login ID:
-Password :
+### 숙제 template 파일 제출하기 (Mac or Linux)
+1. 터미널을 구동합니다.
+2. 작업을 수행한 디렉토리로로 이동 합니다.
+3. 밑에 bash창을 입력합니다.
+```bash
+./submit.sh [YOUR_HASH_KEY]
 ```
+
 참고로 lab assignment 제출은 진행 중간중간해도 문제가 없습니다. 제대로 작성되었다면 아래와 같은 메세지를 확인할 수 있을 것입니다.
 
 ```bash
@@ -143,7 +149,7 @@ Password :
 ```  
 
 ## Next Work
-축하합니다. 여러분은 처음으로 프로그램처럼 돌아가는 프로그램을 만들었습니다. 여러분이 사용하는 웹 브라우저, 엑셀, 파워포인트 등 모든 프로그램에는 본 Lab에서 나오는 `while`, `if`, `for`문들이 사용됩니다. 어렵게 느껴졌을 지도 모르겠지만, 정말 쉬운 숙제였습니다. 믿으셔도 됩니다. 다음 주는 지옥을 보게 될 것입니다.  
+축하합니다. 여러분은 처음으로 프로그램처럼 돌아가는 프로그램을 만들었습니다. 여러분이 사용하는 웹 브라우저, 엑셀, 파워포인트 등 모든 프로그램에는 본 Lab에서 나오는 `while`, `if`, `for`문들이 사용됩니다. 어렵게 느껴졌을 지도 모르겠지만, 정말 쉬운 숙제였습니다. 믿으셔도 됩니다. 다음 숙제는 지옥을 보게 될지도 모릅니다.  
 
 > **Human knowledge belongs to the world** - from movie 'Password' -
 
