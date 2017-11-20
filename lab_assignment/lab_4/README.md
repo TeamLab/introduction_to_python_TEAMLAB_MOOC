@@ -3,7 +3,7 @@ Lab #4 - 화씨 변환기 (fahrenheit_converter)
 Copyright 2015 © document created by TeamLab.Gachon@gmail.com
 
 ## Introduction
-4주차 강의 Lab Assignment 입니다. 이번 lab은 더 짧고 더 불친절합니다. 이번 랩은 이미 수업시간에 한번 다룬 화씨 변환기를 숙제 형식에 맞게 수정하였습니다. 이번 lab의 가장 큰 특징은 `main` 함수마저 수강생들이 직접 작성한다는 것입니다. 조금 어려워 보일수도 있으나 막상 끝나고 보면 쉬울 것입니다. 이번 lab에서는 개별 함수의 작성 그리고 각 함수들의 연결을 연습해 봅시다.
+5주차 강의 Lab Assignment 입니다. 이번 lab은 더 짧고 더 불친절합니다. 이번 랩은 이미 수업시간에 한번 다룬 화씨 변환기를 숙제 형식에 맞게 수정하였습니다. 이번 lab의 가장 큰 특징은 `main` 함수마저 수강생들이 직접 작성한다는 것입니다. 조금 어려워 보일수도 있으나 막상 끝나고 보면 쉬울 것입니다. 이번 lab에서는 개별 함수의 작성 그리고 각 함수들의 연결을 연습해 봅시다.
 
 [PDF 파일 다운로드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_4/lab_4.pdf)
 
@@ -185,6 +185,6 @@ convert_celsius_fahrenheit |       PASS |             Good Job
 -------------------- | ---------- | --------------------
 ```
 ## Next Work
-lab_4를 모두 끝냈습니다. 스스로의 끈기와 열정을 칭찬하고 시원한 맥주한잔 하면서 자축하길 바랍니다. 처음으로 여러분은 단순한 수정이 아닌 스스로의 프로그램을 만들어보았습니다. 앞으로의 모든 숙제는 이런식으로 작성이 되니 스스로 하지 않았다면 다시한번 시도해서 완벽히 이해하고 넘어가길 바랍니다.
+lab_4를 모두 끝냈습니다. 스스로의 끈기와 열정을 칭찬하고 시원한 맥주 한잔 하면서 자축하길 바랍니다. 처음으로 여러분은 단순한 수정이 아닌 스스로의 프로그램을 만들어보았습니다. 앞으로의 모든 숙제는 이런식으로 작성이 되니 스스로 하지 않았다면 다시한번 시도해서 완벽히 이해하고 넘어가길 바랍니다.
 
 > **Human knowledge belongs to the world** - from movie 'Password' -
