@@ -227,6 +227,7 @@ def number_of_cases(list_data):
     #     ※ 반환되는 list에는 문자열 Type만 들어 있으며
     #        list_data 안에 숫자형 값이 있을 경우 문자열로 변환하여 처리
     #     ※ 중복되는 값은 삭제된 후 반환 되어야 함
+    #     ※ 최종결과는 Sorting된 후에 반환되어야 함 
     # Examples:
     #   >>> import gowithflow as gwf
     #   >>> a = ['a', 'b', 'c']
