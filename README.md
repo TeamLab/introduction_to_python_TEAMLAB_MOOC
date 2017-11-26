@@ -152,3 +152,6 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - 최성철, [산업공학과를 위한 프로그래밍 입문 Part 1(w/파이썬)](http://www.slideshare.net/blissray/w-37771905) , 2014
 - 최성철, [산업공학과를 위한 프로그래밍 입문 Part 2(w/파이썬)](http://www.slideshare.net/blissray/w-part-2) , 2014
 - 최성철, [산업공학과를 위한 프로그래밍 입문 Code(w/파이썬)]() , 2014
+
+## Keywords
+파이썬, python, 파이썬 입문, 파이썬 강좌, Python 입문, 파이썬 강좌, 파이썬 강의, Python 강의, Python MOOC, 가천대 최성철, 최성철 교수, 프로그래밍 입문, 프로그래밍 강좌, 코딩, 코딩 입문, 데이터 과학, 데이터 사이언스, Data science 

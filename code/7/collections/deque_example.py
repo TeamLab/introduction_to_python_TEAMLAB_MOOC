@@ -1,7 +1,5 @@
 from collections import deque
-import time
 
-start_time = time.clock()
 deque_list = deque()
 for i in range(5):
     deque_list.append(i)
@@ -23,4 +21,3 @@ print(deque_list)
 
 deque_list.extendleft([5, 6, 7])
 print(deque_list)
-dd

@@ -8,4 +8,4 @@ for i in range(10000):
     for i in range(10000):
         deque_list.append(i)
         deque_list.pop()
-print (time.clock() - start_time, "seconds")
+print(time.clock() - start_time, "seconds")
