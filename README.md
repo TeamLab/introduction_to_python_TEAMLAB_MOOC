@@ -69,28 +69,28 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Code Assignment: Fahrenheit Converter - [강의영상](https://vimeo.com/242450557/605bcab791) [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_4/lab_4.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_4)
 
 ### 6주차: 문자열 다루기 (String)
-- Assignment: Factorial calculator - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_6/lab_6.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_6)
+- Assignment: Factorial calculator - [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/blob/master/lab_assignment/lab_6/READMD.md), [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_6/lab_6.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_6)
 - [Intro 영상](https://vimeo.com/240098700/b13ce1a9b6 ), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJo28xWEKG_2RBvNg), [강의코드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/code/week_6_code.zip)
 - 문자열 다루기 (String) - [강의영상](https://vimeo.com/240791530/a79fbbc02f), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIfpTH3tktzEgyV6w)
 - Lab: Yesterday Letter Counter - [강의영상](https://vimeo.com/242585899/d5d06aa94a), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIeBMHAZJMV3nS5-g)
 
 
 ### 7주차: 자료 구조 (Data Structure)
-- [Intro 영상](https://vimeo.com/240098742/237cd8666d),[주차강의자료](), [강의코드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/code/week_7_code.zip)
-- 자료구조 개요 (Data Structure) - [강의영상](https://vimeo.com/243438963/6938be5a75), [강의자료]()
-- Stack & Queue - [강의영상](https://vimeo.com/243445913/ae6d2433f3), [강의자료]()
-- Tuple & Set (Data Structure) - [강의영상](https://vimeo.com/243446065/20bca98cf0), [강의자료]()
-- 사전 (Dictionary) - [강의영상](https://vimeo.com/243452858/e9faf138a1), [강의자료]()
-- Lab: Command Counter - [강의영상](https://vimeo.com/243454929/27751b8aa4), [강의자료]()
-- Collection module - [강의영상](), [강의자료]()
+- [Intro 영상](https://vimeo.com/240098742/237cd8666d),[주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMc0JeLxQDB_-f2Rw), [강의코드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/code/week_7_code.zip)
+- 자료구조 개요 (Data Structure) - [강의영상](https://vimeo.com/243438963/6938be5a75), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJqwav44nR2pZZm3g)
+- Stack & Queue - [강의영상](https://vimeo.com/243445913/ae6d2433f3), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMGgh8RNKX3SYqrmg)
+- Tuple & Set (Data Structure) - [강의영상](https://vimeo.com/243446065/20bca98cf0), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMH_cExUthnVI4aGg)
+- 사전 (Dictionary) - [강의영상](https://vimeo.com/243452858/e9faf138a1), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMLPQQfl__GLklRug)
+- Lab: Command Counter - [강의영상](https://vimeo.com/243454929/27751b8aa4), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMMveIEY8sTiSatZQ)
+- Collection module - [강의영상#1](https://vimeo.com/244455039/0bc3a6cacf), [강의영상#2](https://vimeo.com/244455198/f64e705777), [강의영상#3](https://vimeo.com/244455048/7694db0be6), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMbQAVQJZjYEVouuA)
 - Assignment: Baseball Game - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_7/lab_7.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_7)
 
 
 ### 8주차: 파이썬같은 코드 작성하기 (Pythonic Code)
 - [Intro 영상](https://vimeo.com/240098773/a93f239ae4)
-- Pythonic Code Overview - [강의영상](), [강의자료]()
-- Split & Join - [강의영상](), [강의자료]()
-- List Comprehension - [강의영상](), [강의자료]()
+- Pythonic Code Overview - [강의영상](https://vimeo.com/243877235/17f0961515), [강의자료]()
+- Split & Join - [강의영상](https://vimeo.com/243877268/7aff6ce79a), [강의자료]()
+- List Comprehension - [강의영상](https://vimeo.com/243877294/ffa6aacaf0), [강의자료]()
 - Enumerate & Zip - [강의영상](), [강의자료]()
 - Map & Reduce - [강의영상](), [강의자료]()
 - Asterisk - [강의영상](), [강의자료]()
@@ -152,3 +152,6 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - 최성철, [산업공학과를 위한 프로그래밍 입문 Part 1(w/파이썬)](http://www.slideshare.net/blissray/w-37771905) , 2014
 - 최성철, [산업공학과를 위한 프로그래밍 입문 Part 2(w/파이썬)](http://www.slideshare.net/blissray/w-part-2) , 2014
 - 최성철, [산업공학과를 위한 프로그래밍 입문 Code(w/파이썬)]() , 2014
+
+## Keywords
+파이썬, python, 파이썬 입문, 파이썬 강좌, Python 입문, 파이썬 강좌, 파이썬 강의, Python 강의, Python MOOC, 가천대 최성철, 최성철 교수, 프로그래밍 입문, 프로그래밍 강좌, 코딩, 코딩 입문, 데이터 과학, 데이터 사이언스, Data science
