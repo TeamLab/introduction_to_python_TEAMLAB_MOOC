@@ -4,6 +4,9 @@ import urllib.request
 import json
 import argparse
 import os
+import types
+import sys
+
 
 parser = argparse.ArgumentParser(description="Autoscorer")
 parser.add_argument("filename", help="File to submit")
@@ -53,9 +56,20 @@ class TestResult(unittest.TextTestResult):
         self.tests_run.append([test.id(), 1])
 
 
+with urllib.request.urlopen('http://datasets.lablup.ai/private/python-tests/unit_test_baseball_game.py') as response:
+    test_code = response.read()
+
+test_module = types.ModuleType(
+    'test_code',
+    doc='Test case')
+
+exec(test_code, test_module.__dict__)
+sys.modules['test_code'] = test_module
+
+import test_code as tc
 loader = unittest.loader.defaultTestLoader
 null_stream = open(os.devnull, "w")
-test_suite = loader.discover('.', 'unit_test_*.py', None)
+test_suite = loader.loadTestsFromModule(tc)
 result = unittest.TextTestRunner(
     stream=null_stream, verbosity=2, resultclass=TestResult).run(test_suite)
 
@@ -65,7 +79,7 @@ print("                 Test Case |  Passed? |   Feedback")
 print("-------------------------------------------------------------------")
 for c, r in result.tests_run:
     print("{0:s} |  {1:s}  | {2} ".format(
-        c.rsplit('.', 1)[1].rjust(25),
+        c.rsplit('.', 1)[1].rjust(26),
         "PASSED" if r == 1 else "FAILED",
         "Good Job".rjust(10) if r == 1 else "Failed".rjust(10)))
 
