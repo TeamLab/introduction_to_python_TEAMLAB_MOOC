@@ -36,11 +36,11 @@ Copyright 2017 © document created by TeamLab.Gachon@gmail.com
 
 - 사용자가 "Y" 또는 "Yes"라고 입력했을 경우 대소문자에 상관없이 게임을 재시작한다. 즉 "y", "yEs", "yes" 등의 경우에도 게임은 다시 시작된다.
 - 사용자가 "N" 또는 "No"라고 입력했을 경우 대소문자에 상관없이 게임을 종료한다. 즉 "n", "nO", "NO" 등의 경우에도 게임은 종료된다.
-- 사용자가 이외에 입력을 하였을 경우 "Wrong Input" 이라고 출력되면서 종료된다.
+- 사용자가 이외에 입력을 하였을 경우 "Wrong Input" 이라고 출력후, 다시한번 사용자에게 게임 재시작 여부를 묻습니다.
 
-또 다른 종료 조건으로 사용자가 게임 중 `0`를 입력하게 되면 종료해야 한다. 이는 앞의 LAB인  Factorial Calcualtor의 종료 조건과 같십니다.
+또 다른 종료 조건으로 사용자가 게임 중 `0`를 입력하게 되면 종료해야 한다. 이는 앞의 LAB인  Factorial Calcualtor의 종료 조건과 같습니다.
 
-또한 새로운 게임이 시작할 때는 반드시 `Random Number is :  xxx` 라는 문자가 출력되면서 `xxx` 부분에는 컴퓨터가 random하게 생성한 것을 표시해줍니다. 이는 자동 채점 프로그램을 동작하게 하기 위한 것으로 표시 되지 않을 경우 컴퓨터가 채점을 하지 못한다. 실제 돌아가는 프로그램은 아래와 같습니다.
+또한 새로운 게임이 시작할 때는 반드시 `Random Number is :  xxx` 라는 문자가 출력되면서 `xxx` 부분에는 컴퓨터가 random하게 생성한 것을 표시해줍니다. 이는 자동 채점 프로그램을 동작하게 하기 위한 것으로 표시 되지 않을 경우 컴퓨터가 채점을 하지 못한합니다. 실제 돌아가는 프로그램은 아래와 같습니다.
 
  ![프로그램 실행 스크린샷](https://raw.githubusercontent.com/TeamLab/lab_for_gachon_cs50/master/lab_9_baseball_game/baseball_game_screenshot.png)
 
