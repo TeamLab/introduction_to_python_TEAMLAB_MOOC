@@ -85,40 +85,41 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Collection module - [강의영상#1](https://vimeo.com/244455039/0bc3a6cacf), [강의영상#2](https://vimeo.com/244455198/f64e705777), [강의영상#3](https://vimeo.com/244455048/7694db0be6), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMbQAVQJZjYEVouuA)
 - Assignment: Baseball Game - [강의영상](https://vimeo.com/245723851/63877d7a39), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_7/lab_7.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_7)
 
-
-### 8주차: 파이썬같은 코드 작성하기 (Pythonic Code)
+### 8주차: 파이썬같은 코드 작성하기 I (Pythonic Code I)
 - [Intro 영상](https://vimeo.com/240098773/a93f239ae4)
 - Pythonic Code Overview - [강의영상](https://vimeo.com/243877235/17f0961515), [강의자료]()
 - Split & Join - [강의영상](https://vimeo.com/243877268/7aff6ce79a), [강의자료]()
 - List Comprehension - [강의영상](https://vimeo.com/243877294/ffa6aacaf0), [강의자료]()
 - Enumerate & Zip - [강의영상](https://vimeo.com/244605530/6b04e8adea), [강의자료]()
 - Assignment: Morse Code - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_7/lab_7.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_7)
+
+### 9주차: 파이썬같은 코드 작성하기 II (Pythonic Code II)
 - Map & Reduce - [강의영상](), [강의자료]()
-- Asterisk - [강의영상](), [강의자료]()
+- Asterisk - [강의영상](https://vimeo.com/245746978/ac799ab875), [강의자료]()
 - Lab: Simple linear algebra - [강의영상](), [강의자료]()
 - Assignment: Linear algebra with pythonic code - [강의영상](), [강의자료]()
 
-### 9주차: 객체 지향 프로그래밍 (Objective-Oriented Programming)
+### 10주차: 객체 지향 프로그래밍 (Objective-Oriented Programming)
 - [Intro 영상](https://vimeo.com/240098797/bd44e677a6)
-- Objective-Oriented Programming Overview - [강의영상](), [강의자료]()
+- Objective-Oriented Programming Overview - [강의영상](https://vimeo.com/245740080/9f2f5ca8df), [강의자료]()
 - Objects in Python - [강의영상](), [강의자료]()
 - Lab: Note and Notebook - [강의영상](), [강의자료]()
 - OOP characteristics - [강의영상](), [강의자료]()
 
-### 10주차: 모듈과 패키지 (Module & Packages)
+### 11주차: 모듈과 패키지 (Module & Packages)
 - [Intro 영상](https://vimeo.com/240098832/e938dacf6d)
 - Overview - [강의영상](), [강의자료]()
 - Modules - [강의영상](), [강의자료]()
 - Packages - [강의영상](), [강의자료]()
 - 가상환경과 Package 활용하기 - [강의영상](), [강의자료]()
 
-### 11주차: 예외 처리 (Exception Handling)
+### 12주차: 예외 처리 (Exception Handling)
 - [Intro 영상](https://vimeo.com/240098864/f4da0302c5)
 - Overview - [강의영상](), [강의자료]()
 - Bonus Assignment: Magic Square - [강의영상](), [강의자료]()
 - Exception Handling - [강의영상](), [강의자료]()
 
-### 12주차: 파일 다루기와 CSV (File Handling and Comma Separate Values)
+### 13주차: 파일 다루기와 CSV (File Handling and Comma Separate Values)
 - [Intro 영상](https://vimeo.com/240098897/f1fde7444f)
 - File Handling Overview - [강의영상](), [강의자료]()
 - File Handling - [강의영상](), [강의자료]()
@@ -126,7 +127,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Comma Separate Values - [강의영상](), [강의자료]()
 - Assignment: Stock Data Crawler - [강의영상](), [강의자료]()
 
-### 13주차: Web Scraping
+### 14주차: Web Scraping
 - [Intro 영상](https://vimeo.com/240098928/8e8a4b8a7b)
 - Web 이해하기 - [강의영상](), [강의자료]()
 - HTML 데이터 다루기 - [강의영상](), [강의자료]()
@@ -134,17 +135,14 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Lab: RegEx - [강의영상](), [강의자료]()
 - Assignment: One More - [강의영상](), [강의자료]()
 
-### 14주차: XML과 JSON (eXtensible Markup Languages and JSON)
+### 15주차: XML과 JSON (eXtensible Markup Languages and JSON)
 - [Intro 영상](https://vimeo.com/240343098/08852b09f9)
 - XML 이해하기 - [강의영상](), [강의자료]()
 - Lab: XML Parsing- [강의영상](), [강의자료]()
 - JSON 이해하기 - [강의영상](), [강의자료]()
 - Lab: JSON Data Analysis - [강의영상](), [강의자료]()
 - Assignment: One More - [강의영상](), [강의자료]()
-
-### 15차: What is NEXT?
 - Wrap Up, Pyhton!- [강의영상](), [강의자료]()
-- Final Term Problem Set
 
 ## 참고자료
 - [점프 투 파이썬](https://wikidocs.net/book/1), 박응용 지음 , 2014
