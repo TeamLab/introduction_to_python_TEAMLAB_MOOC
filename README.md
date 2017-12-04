@@ -69,7 +69,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Code Assignment: Fahrenheit Converter - [강의영상](https://vimeo.com/242450557/605bcab791) [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_4/lab_4.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_4)
 
 ### 6주차: 문자열 다루기 (String)
-- Assignment: Factorial calculator - [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/blob/master/lab_assignment/lab_6/READMD.md), [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_6/lab_6.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_6)
+- Assignment: Factorial calculator - [강의영상](https://vimeo.com/245718703/a41d999f0b), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_6/lab_6.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/blob/master/lab_assignment/lab_6/READMD.md)
 - [Intro 영상](https://vimeo.com/240098700/b13ce1a9b6 ), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJo28xWEKG_2RBvNg), [강의코드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/code/week_6_code.zip)
 - 문자열 다루기 (String) - [강의영상](https://vimeo.com/240791530/a79fbbc02f), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIfpTH3tktzEgyV6w)
 - Lab: Yesterday Letter Counter - [강의영상](https://vimeo.com/242585899/d5d06aa94a), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIeBMHAZJMV3nS5-g)
@@ -83,7 +83,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - 사전 (Dictionary) - [강의영상](https://vimeo.com/243452858/e9faf138a1), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMLPQQfl__GLklRug)
 - Lab: Command Counter - [강의영상](https://vimeo.com/243454929/27751b8aa4), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMMveIEY8sTiSatZQ)
 - Collection module - [강의영상#1](https://vimeo.com/244455039/0bc3a6cacf), [강의영상#2](https://vimeo.com/244455198/f64e705777), [강의영상#3](https://vimeo.com/244455048/7694db0be6), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMbQAVQJZjYEVouuA)
-- Assignment: Baseball Game - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_7/lab_7.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_7)
+- Assignment: Baseball Game - [강의영상](https://vimeo.com/245723851/63877d7a39), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_7/lab_7.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_7)
 
 
 ### 8주차: 파이썬같은 코드 작성하기 (Pythonic Code)
@@ -91,14 +91,15 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Pythonic Code Overview - [강의영상](https://vimeo.com/243877235/17f0961515), [강의자료]()
 - Split & Join - [강의영상](https://vimeo.com/243877268/7aff6ce79a), [강의자료]()
 - List Comprehension - [강의영상](https://vimeo.com/243877294/ffa6aacaf0), [강의자료]()
-- Enumerate & Zip - [강의영상](), [강의자료]()
+- Enumerate & Zip - [강의영상](https://vimeo.com/244605530/6b04e8adea), [강의자료]()
+- Assignment: Morse Code - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_7/lab_7.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_7)
 - Map & Reduce - [강의영상](), [강의자료]()
 - Asterisk - [강의영상](), [강의자료]()
-- Assignment: Morse Code - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_7/lab_7.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_7)
+- Lab: Simple linear algebra - [강의영상](), [강의자료]()
+- Assignment: Linear algebra with pythonic code - [강의영상](), [강의자료]()
 
 ### 9주차: 객체 지향 프로그래밍 (Objective-Oriented Programming)
 - [Intro 영상](https://vimeo.com/240098797/bd44e677a6)
-- Assignment: Linear algebra with pythonic code - [강의영상](), [강의자료]()
 - Objective-Oriented Programming Overview - [강의영상](), [강의자료]()
 - Objects in Python - [강의영상](), [강의자료]()
 - Lab: Note and Notebook - [강의영상](), [강의자료]()
