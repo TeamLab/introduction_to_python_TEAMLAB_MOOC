@@ -94,15 +94,16 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Assignment: Morse Code - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_8/lab_8.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_8)
 
 ### 9주차: 파이썬같은 코드 작성하기 II (Pythonic Code II)
-- Map & Reduce - [강의영상](), [강의자료]()
-- Asterisk - [강의영상](https://vimeo.com/245746978/ac799ab875), [강의자료]()
-- Lab: Simple linear algebra - [강의영상](), [강의자료]()
+- Map & Reduce - [강의영상](https://vimeo.com/245942679/b75740e43f), [강의자료]()
+- Asterisk - [강의영상](https://vimeo.com/245924466/a620d515c9), [강의자료]()
+- Lab: Simple Linear algebra concepts- [강의영상](https://vimeo.com/245942627/d2e4ef3e5e), [강의자료]()
+- Lab: Simple Linear algebra codes - [강의영상](https://vimeo.com/245943473/7372cc35c3), [강의자료]()
 - Assignment: Linear algebra with pythonic code - [강의영상](), [강의자료]()
 
 ### 10주차: 객체 지향 프로그래밍 (Objective-Oriented Programming)
 - [Intro 영상](https://vimeo.com/240098797/bd44e677a6)
-- Objective-Oriented Programming Overview - [강의영상](https://vimeo.com/245740080/9f2f5ca8df), [강의자료]()
-- Objects in Python - [강의영상](), [강의자료]()
+- Objective-Oriented Programming Overview - [강의영상](https://vimeo.com/244605833/a23861af96), [강의자료]()
+- Objects in Python - [강의영상](https://vimeo.com/245740080/9f2f5ca8df), [강의자료]()
 - Lab: Note and Notebook - [강의영상](), [강의자료]()
 - OOP characteristics - [강의영상](), [강의자료]()
 
