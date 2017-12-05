@@ -108,7 +108,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 
 ### 11주차: 모듈과 패키지 (Module & Packages)
 - [Intro 영상](https://vimeo.com/240098832/e938dacf6d)
-- Overview - [강의영상](), [강의자료]()
+- Overview - [강의영상](https://vimeo.com/245850007/02c821150e), [강의자료]()
 - Modules - [강의영상](), [강의자료]()
 - Packages - [강의영상](), [강의자료]()
 - 가상환경과 Package 활용하기 - [강의영상](), [강의자료]()
