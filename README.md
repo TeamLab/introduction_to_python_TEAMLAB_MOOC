@@ -91,7 +91,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Split & Join - [강의영상](https://vimeo.com/243877268/7aff6ce79a), [강의자료]()
 - List Comprehension - [강의영상](https://vimeo.com/243877294/ffa6aacaf0), [강의자료]()
 - Enumerate & Zip - [강의영상](https://vimeo.com/244605530/6b04e8adea), [강의자료]()
-- Assignment: Morse Code - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_7/lab_7.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_7)
+- Assignment: Morse Code - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_8/lab_8.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_8)
 
 ### 9주차: 파이썬같은 코드 작성하기 II (Pythonic Code II)
 - Map & Reduce - [강의영상](), [강의자료]()
