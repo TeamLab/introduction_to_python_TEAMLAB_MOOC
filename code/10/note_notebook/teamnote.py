@@ -14,13 +14,14 @@ class Note(object):
     def __str__(self):
         return self.contents
 
+
 class NoteBook(object):
     def __init__(self, name):
         self.name = name
         self.pages = 0
         self.notes = {}
 
-    def add_note(self, note, page_number = 0):
+    def add_note(self, note, page_number=0):
         if len(self.notes.keys()) < 300:
             if page_number == 0:
                 if self.pages < 301:
@@ -58,5 +59,3 @@ class NoteBook(object):
 
     def __str__(self):
         return self.name
-
-

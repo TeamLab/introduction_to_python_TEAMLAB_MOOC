@@ -4,38 +4,39 @@ import urllib.request
 import csv
 
 def get_stock_data(url_address):
-    """url_address로 Yahoo 서버에 요청하면 해당 정보를 다운로드 받은후 Two Dimensional List 변환하여 반환함
+    """url_address로 Google 서버에 요청하면 해당 정보를 다운로드 받은후 Two Dimensional List 변환하여 반환함
 
-    아래 코드를 활용하면 Yahoo 서버에서 데이터를 String Type으로 다운로드 받을 수 있음
+    아래 코드를 활용하면 Google 서버에서 데이터를 String Type으로 다운로드 받을 수 있음
 
-        >>> url_address = 'http://real-chart.finance.yahoo.com/table.csv?s=005930.KS&a=0&b=1&c=2013&d=11&e=31&f=2015&g=d'
+        >>> import urllib.request
+        >>> url_address = 'http://www.google.com/finance/historical?q=KRX:005930&startdate=2017-01-30&enddate=2017-04-30&output=csv'
         >>> r = urllib.request.urlopen(url_address)
         >>> stock_data_string = r.read().decode("utf8")    # String Type으로 다운로드 받은 데이터
-        >>> stock_data_string[:100]
-    'Date,Open,High,Low,Close,Volume,Adj Close\n2015-11-06,1343000.00,1348000.00,1330000.00,1338000.00,164'
+        >>> stock_data_string[:50]
+    '\ufeffDate,Open,High,Low,Close,Volume\n28-Apr-17,2214.36'
+    > 처음 나오는 "\ufeff" 글자는 인코딩으로 인해 발생하는 문제로 신경쓰지 않아도 됨
 
     다운된 데이터는 String Type으로 각 줄은 "\n"으로 구분되며, 필드 데이터들은 ","으로 구분됨
 
     Args:
-        url_address (str): Yahoo 금융 서버에 주식 csv 데이터를 요청하는 URL 주소
+        url_address (str): Google 금융 데이터 서버에 주식 csv 데이터를 요청하는 URL 주소
 
     Returns:
-        list: Two Dimensioanl List 0번째 index에는 필드의 Header 정보를 포함하고 있으며,
+        list: Two Dimensional List 0번째 index에는 필드의 Header 정보를 포함하고 있으며,
         1번째 index부터 각 필드의 data를 가지고 있음
 
     Examples:
         >>> import stock_data_crawler as sdc
-        >>> url = 'http://real-chart.finance.yahoo.com/table.csv?s=005930.KS&a=0&b=1&c=2013&d=11&e=31&f=2015&g=d'
+        >>> url = 'http://finance.google.com/finance/historical?q=KRX:005930&startdate=2013-01-01&enddate=2015-12-30&output=csv
         >>> sdc.get_stock_data(url)[:3]
-        [['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Adj Close'], ['2015-11-06',
-         '1343000.00', '1348000.00', '1330000.00', '1338000.00', '164300', '1338000.00']
-        , ['2015-11-05', '1330000.00', '1354000.00', '1330000.00', '1342000.00', '173000
-        ', '1342000.00']]
+        [['\ufeffDate', 'Open', 'High', 'Low', 'Close', 'Volume'], ['30-Dec-15', '1260000.00', '1272000.00', '1254000.00', '1260000.00', '203349'],
+        ['29-Dec-15', '1265000.00', '1266000.00', '1241000.00', '1254000.00', '231802']]
     """
     r = urllib.request.urlopen(url_address)
-    stock_data_string = r.read().decode("utf8")
-    result = None
+    stock_data_string = r.read().decode("utf8").strip() # 반드시 Strip을 추가할 것
     # ===Modify codes below=============
+
+
 
     # ==================================
     return result
@@ -52,20 +53,22 @@ def get_header_data(stock_data):
 
     Examples:
         >>> import stock_data_crawler as sdc
-        >>> url = 'http://real-chart.finance.yahoo.com/table.csv?s=005930.KS&a=0&b=1&c=2013&d=11&e=31&f=2015&g=d'
+        >>> url = 'http://finance.google.com/finance/historical?q=KRX:005930&startdate=2013-01-01&enddate=2015-12-30&output=csv
         >>> stock_data = sdc.get_stock_data(url)
         >>> sdc.get_header_data(stock_data)
-        ['Date', 'Open', 'High', 'Low', 'Close', 'Volume', 'Adj Close']
+        ['\ufeffDate', 'Open', 'High', 'Low', 'Close', 'Volume']
     """
     result = None
     # ===Modify codes below=============
+
 
     # ==================================
     return result
 
 
 def get_attribute_data(stock_data, attribue, year=None, month=None):
-    """get_stock_data 함수의 Return 값,추출하고자 하는 Header의 이름, 추출하고자 하는 년도, 월을 입력받으면
+    """
+    get_stock_data 함수의 Return 값,추출하고자 하는 Header의 이름, 추출하고자 하는 년도, 월을 입력받으면
     해당 조건의 값만 추출하여 list로 반환함
 
     Note:
@@ -86,15 +89,19 @@ def get_attribute_data(stock_data, attribue, year=None, month=None):
 
     Examples:
         >>> import stock_data_crawler as sdc
-        >>> url = 'http://real-chart.finance.yahoo.com/table.csv?s=005930.KS&a=0&b=1&c=2013&d=11&e=31&f=2015&g=d'
+        >>> url = 'http://finance.google.com/finance/historical?q=KRX:005930&startdate=2013-01-01&enddate=2015-12-30&output=csv
         >>> stock_data = sdc.get_stock_data(url)
         >>> header = sdc.get_header_data(stock_data)
-        >>> sdc.get_attribute_data(stock_data, "High", 2014, 12)[:2]
-        [['Date', 'High'], ['2014-12-31', '1327000.00']]
+        >>> sdc.get_attribute_data(stock_data, "High", 2014)[:2]
+        [['\ufeffDate', 'High'], ['30-Dec-14', '1335000.00']]
         >>> sdc.get_attribute_data(stock_data, header[1], 2013, 12)[:2]
-        [['Date', 'Open'], ['2013-12-31', '1372000.00']]
+        [['\ufeffDate', 'Open'], ['30-Dec-13', '1396000.00']]
     """
 
+    monthletter_dict = {
+        "Dec" : 12, "Nov": 11, "Oct": 10, "Sep": 9, "Aug": 8,
+        "Jul": 7, "Jun": 6, "May": 5, "Apr": 4, "Mar": 3, "Feb": 2, "Jan": 1
+    }
     result = None
     # ===Modify codes below=============
 
@@ -123,19 +130,20 @@ def get_average_value_of_attribute(stock_data, attribue, year=None, month=None):
 
     Examples:
         >>> import stock_data_crawler as sdc
-        >>> url = 'http://real-chart.finance.yahoo.com/table.csv?s=005930.KS&a=0&b=1&c=2013&d=11&e=31&f=2015&g=d'
+        >>> url = 'http://finance.google.com/finance/historical?q=KRX:005930&startdate=2013-01-01&enddate=2015-12-30&output=csv
         >>> stock_data = sdc.get_stock_data(url)
         >>> header = sdc.get_header_data(stock_data)
         >>> sdc.get_average_value_of_attribute(stock_data, "Open", 2013, 12)
-        1423909.0909090908
+        1426950.0
         >>> sdc.get_average_value_of_attribute(stock_data, "Open", 2014, 12)
-        1313043.4782608696
+        1310952.380952381
         >>> sdc.get_average_value_of_attribute(stock_data, header[3], 2014, 12)
-        1301260.8695652173
+        1298047.619047619
     """
 
     result = None
     # ===Modify codes below=============
+
 
     # ==================================
     return result
@@ -149,21 +157,19 @@ def write_csv_file_by_result(stock_data, filename):
 
     Examples:
         >>> import stock_data_crawler as sdc
-        >>> url = 'http://real-chart.finance.yahoo.com/table.csv?s=005930.KS&a=0&b=1&c=2013&d=11&e=31&f=2015&g=d'
+        >>> url = 'http://finance.google.com/finance/historical?q=KRX:005930&startdate=2013-01-01&enddate=2015-12-30&output=csv
         >>> stock_data = sdc.get_stock_data(url)
         >>> high_data = sdc.get_attribute_data(stock_data, "High", 2014, 12)
         >>> sdc.write_csv_file_by_result(stock_data,"example.csv")
         >>> f = open("example.csv", "r", encoding="utf8")
         >>> f.read()[:100]
-        'Date,Open,High,Low,Close,Volume,Adj Close\n2015-11-06,1343000.00,1348000.00,133
-        0000.00,1338000.00,164'
+        '\ufeffDate,Open,High,Low,Close,Volume\n30-Dec-15,1260000.00,1272000.00,1254000.00,1260000.00,203349\n29-Dec'
         >>> f.close()
     """
-    result = None
     # ===Modify codes below=============
 
+
     # ==================================
-    return result
 
 
 def separate_user_query(user_input):
@@ -200,6 +206,7 @@ def separate_user_query(user_input):
     result = None
     # ===Modify codes below=============
 
+
     # ==================================
     return result
 
@@ -207,8 +214,9 @@ def separate_user_query(user_input):
 def main():
     print("Stock Data Crawler Program!!")
     user_input = 999
-    url = 'http://real-chart.finance.yahoo.com/table.csv?s=005930.KS&a=0&b=1&c=2013&d=11&e=31&f=2015&g=d'
+    url = 'http://finance.google.com/finance/historical?q=KRX:005930&startdate=2013-01-01&enddate=2015-12-30&output=csv'
     # ===Modify codes below=============
+
 
     # ==================================
 
