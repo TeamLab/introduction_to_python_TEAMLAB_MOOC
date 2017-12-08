@@ -105,8 +105,8 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - [Intro 영상](https://vimeo.com/240098797/bd44e677a6), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaM6gbKRe_TkGLAxUA), [강의코드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/code/week_10_code.zip)
 - Objective oriented programming overview - [강의영상](https://vimeo.com/244605833/a23861af96), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMYkH3ZAjqY6sOXfw)
 - Objects in Python - [강의영상](https://vimeo.com/245740080/9f2f5ca8df), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMh6l3uYC84NNn98A)
-- Lab: Note and Notebook - [강의영상](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaM2aG7K7gGlEkIn_g)
-- OOP characteristics - [강의영상](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaM3sTcEiU27_YLaGA)
+- Lab: Note and Notebook - [강의영상](https://vimeo.com/246381396/7d45508317), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaM2aG7K7gGlEkIn_g)
+- OOP characteristics - [강의영상#1](https://vimeo.com/246381101/ef0d824d2f), [영상#2](https://vimeo.com/246381303/b06c790548), [영상#3](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaM3sTcEiU27_YLaGA)
 
 ### 11주차: 모듈과 패키지 (Module & Packages)
 - [Intro 영상](https://vimeo.com/240098832/e938dacf6d)
