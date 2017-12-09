@@ -106,12 +106,12 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Objective oriented programming overview - [강의영상](https://vimeo.com/244605833/a23861af96), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMYkH3ZAjqY6sOXfw)
 - Objects in Python - [강의영상](https://vimeo.com/245740080/9f2f5ca8df), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMh6l3uYC84NNn98A)
 - Lab: Note and Notebook - [강의영상](https://vimeo.com/246381396/7d45508317), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaM2aG7K7gGlEkIn_g)
-- OOP characteristics - [강의영상#1](https://vimeo.com/246381101/ef0d824d2f), [영상#2](https://vimeo.com/246381303/b06c790548), [영상#3](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaM3sTcEiU27_YLaGA)
+- OOP characteristics - [강의영상#1](https://vimeo.com/246381101/ef0d824d2f), [영상#2](https://vimeo.com/246381303/b06c790548), [영상#3](https://vimeo.com/246459987/0a09e6c705), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaM3sTcEiU27_YLaGA)
 
 ### 11주차: 모듈과 패키지 (Module & Packages)
 - [Intro 영상](https://vimeo.com/240098832/e938dacf6d)
 - Overview - [강의영상](https://vimeo.com/245850007/02c821150e), [강의자료]()
-- Modules - [강의영상](), [강의자료]()
+- Modules - [강의영상](https://vimeo.com/246460036/9e5695cf05), [강의자료]()
 - Packages - [강의영상](), [강의자료]()
 - 가상환경과 Package 활용하기 - [강의영상](), [강의자료]()
 
