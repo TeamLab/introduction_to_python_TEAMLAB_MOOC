@@ -91,7 +91,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Split & Join - [강의영상](https://vimeo.com/243877268/7aff6ce79a), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMU6xOKYNbGxvG0RQ)
 - List Comprehension - [강의영상](https://vimeo.com/243877294/ffa6aacaf0), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMTBsmXFcfLCLP4NQ)
 - Enumerate & Zip - [강의영상](https://vimeo.com/244605530/6b04e8adea), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMX85I9OXXgRKpugQ)
-- Assignment: Morse Code - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_8/lab_8.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_8)
+- Assignment: Morse Code - [강의영상](https://vimeo.com/246804338/995ce57f2c), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_8/lab_8.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_8)
 
 ### 9주차: 파이썬같은 코드 작성하기 II (Pythonic Code II)
 - [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaM5mMaDdd-dLeHGRg), [강의코드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/code/week_9_code.zip)
@@ -112,7 +112,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - [Intro 영상](https://vimeo.com/240098832/e938dacf6d)
 - Overview - [강의영상](https://vimeo.com/245850007/02c821150e), [강의자료]()
 - Modules - [강의영상](https://vimeo.com/246460036/9e5695cf05), [강의자료]()
-- Packages - [강의영상](), [강의자료]()
+- Packages - [강의영상](https://vimeo.com/home/myvideos), [강의자료]()
 - 가상환경과 Package 활용하기 - [강의영상](), [강의자료]()
 
 ### 12주차: 예외 처리 (Exception Handling)
