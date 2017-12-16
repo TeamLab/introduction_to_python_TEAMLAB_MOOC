@@ -110,10 +110,10 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 
 ### 11주차: 모듈과 패키지 (Module & Packages)
 - [Intro 영상](https://vimeo.com/240098832/e938dacf6d)
-- Overview - [강의영상](https://vimeo.com/245850007/02c821150e), [강의자료]()
-- Modules - [강의영상](https://vimeo.com/246460036/9e5695cf05), [강의자료]()
-- Packages - [강의영상](https://vimeo.com/home/myvideos), [강의자료]()
-- 가상환경과 Package 활용하기 - [강의영상](), [강의자료]()
+- Overview - [강의영상](https://vimeo.com/245850007/02c821150e), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMfCgFDsbwd_Uu6lA)
+- Modules - [강의영상](https://vimeo.com/246460036/9e5695cf05), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaM7CnX1L1r15Q4h3g)
+- Packages - [강의영상](https://vimeo.com/home/myvideos), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaM_-aHvY_dHAArzoQ)
+- 가상환경과 Package 활용하기 - [강의영상](https://vimeo.com/246990734/dd2749481f), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNC06RC1A55SFL5bQ)
 
 ### 12주차: 예외 처리 (Exception Handling)
 - [Intro 영상](https://vimeo.com/240098864/f4da0302c5)
