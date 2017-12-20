@@ -1,7 +1,6 @@
 for i in range(10):
     try:
-        result = 10 / i
+        print(i, 10 // i)
     except ZeroDivisionError:
+        print("Error")
         print("Not divided by 0")
-    else:
-        print(10 / i)
