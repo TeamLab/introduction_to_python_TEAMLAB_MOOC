@@ -109,7 +109,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - OOP characteristics - [강의영상#1](https://vimeo.com/246381101/ef0d824d2f), [영상#2](https://vimeo.com/246381303/b06c790548), [영상#3](https://vimeo.com/246459987/0a09e6c705), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaM3sTcEiU27_YLaGA)
 
 ### 11주차: 모듈과 패키지 (Module & Packages)
-- [Intro 영상](https://vimeo.com/240098832/e938dacf6d)
+- [Intro 영상](https://vimeo.com/240098832/e938dacf6d), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNshhbgOXScVPlJ_A), [강의코드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/code/week_11_code.zip)
 - Overview - [강의영상](https://vimeo.com/245850007/02c821150e), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaMfCgFDsbwd_Uu6lA)
 - Modules - [강의영상](https://vimeo.com/246460036/9e5695cf05), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaM7CnX1L1r15Q4h3g)
 - Packages - [강의영상](https://vimeo.com/home/myvideos), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaM_-aHvY_dHAArzoQ)
