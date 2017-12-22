@@ -121,6 +121,7 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Exception Handling - [강의영상](https://vimeo.com/248481546/97f606aa9a), [강의자료]()
 - File Handling Overview - [강의영상](), [강의자료]()
 - File Handling - [강의영상](), [강의자료]()
+- Assignment: 파일다루기 - [강의영상](), [강의자료]()
 - Lab: News categorization - [강의영상](), [강의자료]()
 
 ### 13주차: 로그와 CSV (Loggin and Comma Separate Values)
