@@ -115,17 +115,16 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Packages - [강의영상](https://vimeo.com/home/myvideos), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaM_-aHvY_dHAArzoQ)
 - 가상환경과 Package 활용하기 - [강의영상](https://vimeo.com/246990734/dd2749481f), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNC06RC1A55SFL5bQ)
 
-### 12주차: 예외 처리 (Exception Handling)
+### 12주차: 예외 처리와 파일 (Exception and File Handling)
 - [Intro 영상](https://vimeo.com/240098864/f4da0302c5)
-- Overview - [강의영상](), [강의자료]()
-- Bonus Assignment: Magic Square - [강의영상](), [강의자료]()
-- Exception Handling - [강의영상](), [강의자료]()
-
-### 13주차: 파일 다루기와 CSV (File Handling and Comma Separate Values)
-- [Intro 영상](https://vimeo.com/240098897/f1fde7444f)
+- Overview - [강의영상](https://vimeo.com/248481538/941ccd24db), [강의자료]()
+- Exception Handling - [강의영상](https://vimeo.com/248481546/97f606aa9a), [강의자료]()
 - File Handling Overview - [강의영상](), [강의자료]()
 - File Handling - [강의영상](), [강의자료]()
 - Lab: News categorization - [강의영상](), [강의자료]()
+
+### 13주차: 로그와 CSV (Loggin and Comma Separate Values)
+- [Intro 영상](https://vimeo.com/240098897/f1fde7444f)
 - Comma Separate Values - [강의영상](), [강의자료]()
 - Assignment: Stock Data Crawler - [강의영상](), [강의자료]()
 
