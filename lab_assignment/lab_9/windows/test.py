@@ -60,11 +60,10 @@ with urllib.request.urlopen('http://datasets.lablup.ai/private/python-tests/unit
     test_code = response.read()
 
 with urllib.request.urlopen('http://datasets.lablup.ai/private/python-tests/example.txt') as response:
-    example_txt = response.read()
-    f = open("example.txt", "w")
+    example_txt = response.read().decode('utf-8')
+    f = open("example.txt","w")
     f.write(example_txt)
     f.close()
-
 
 test_module = types.ModuleType(
     'test_code',

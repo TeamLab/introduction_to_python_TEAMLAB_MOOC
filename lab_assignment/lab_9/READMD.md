@@ -19,11 +19,7 @@ Copyright 2017 © document created by TeamLab.Gachon@gmail.com
 
  다운로드 폴더로 이동하면 `file_io_example.py` 파일이 다운로드 되어 있습니다.
 
- 다음으로 이번 Lab에서 사용할 예제 파일을 다운로드 하시기 바랍니다. Mac에서는 아래와 같이 bash shell에서 입력하시면 됩니다. 윈도우의 경우에는 `https://raw.githubusercontent.com/TeamLab/lab_for_gachon_cs50/master/lab_11_file_handling/1984.txt` 주소를 웹 브라우저에 입력하여 다운로드를 받으시길 바랍니다.
-
-```bash
-wget https://raw.githubusercontent.com/TeamLab/lab_for_gachon_cs50/master/lab_11_file_handling/1984.txt
-```  
+ 본 랩에서 사용할 예제파일은 `1984.txt`입니다. 이미 여러분의 각 폴더에 들어가 있을 것입니다. 절대 파일을 수정하지 마시기 바랍니다.
 
 
 ## file_io_example.py 파일 Overview
