@@ -1,6 +1,6 @@
-Lab - Basic Linear Algebra  with Pythonic Code
+Lab - Numpy in a nutshell
 ===============================
-Copyright 2017 © document created by teamLab.gachon@gmail.com
+Copyright 2018 © document created by teamLab.gachon@gmail.com
 
 ## Introduction
 
