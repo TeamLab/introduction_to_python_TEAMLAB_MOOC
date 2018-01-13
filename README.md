@@ -116,13 +116,13 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - 가상환경과 Package 활용하기 - [강의영상](https://vimeo.com/246990734/dd2749481f), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNC06RC1A55SFL5bQ)
 
 ### 12주차: 예외 처리와 파일 (Exception and File Handling)
-- [Intro 영상](https://vimeo.com/240098864/f4da0302c5)
+- [Intro 영상](https://vimeo.com/240098864/f4da0302c5), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQHfVZ709PQ6o_LGA), [강의코드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/code/week_12_code.zip)
 - Overview - [강의영상](https://vimeo.com/248481538/941ccd24db), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNhL4_G0QTxAK5Orw)
 - Exception Handling - [강의영상](https://vimeo.com/248481546/97f606aa9a), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaNpDL2zOyGXwl5kWg)
 - File Handling Overview - [강의영상](https://vimeo.com/249672854/508e2dcbd6), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQCSgHykG4-Sl23oQ)
 - File Handling - [강의영상#1](https://vimeo.com/249473040/961308a705) [영상#2](https://vimeo.com/249473247/84fca04155) [영상#3](https://vimeo.com/249473038/82feda51c5), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaN-an3Qkttto7-krg)
 - Assignment: 파일다루기 - [강의영상](), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_9/lab_9.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_9)
-- Lab: News categorization - [강의영상](), [강의자료]()
+- Lab: News categorization - [강의영상#1](https://vimeo.com/250774043/8af19915ca), [영상#2](), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQGMbDTaK5uD6cjHg)
 
 ### 13주차: 로그와 CSV (Logging and Comma Separate Values)
 - [Intro 영상](https://vimeo.com/240098897/f1fde7444f)
