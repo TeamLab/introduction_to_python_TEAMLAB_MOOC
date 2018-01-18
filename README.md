@@ -124,10 +124,13 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Assignment: 파일다루기 - [강의영상](https://vimeo.com/251102654/e017ebde46), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_9/lab_9.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_9)
 - Lab: News categorization - [강의영상#1](https://vimeo.com/250774043/8af19915ca), [영상#2](https://vimeo.com/251102061/281f6362e1), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQGMbDTaK5uD6cjHg)
 
-### 13주차: 로그와 CSV (Logging and Comma Separate Values)
+### 13주차: CSV와 로그관리 (Comma Separated Values and Logging)
 - [Intro 영상](https://vimeo.com/240098897/f1fde7444f)
-- Comma Separate Values - [강의영상](), [강의자료]()
+- Comma Separate Values - [강의영상#1](https://vimeo.com/251573481/8550a73c2c), [영상#2](https://vimeo.com/251573498/f23b179735), [영상#3](https://vimeo.com/251573513/58c55ad623) [강의자료]()
 - Assignment: Stock Data Crawler - [강의영상](), [강의자료]()
+- Logging overview - [강의영상](https://vimeo.com/251573538/346931b712), [강의자료]()
+- Save settings - [강의영상](), [강의자료]()
+- Lab: Logging - [강의영상](), [강의자료]()
 
 ### 14주차: Web Scraping
 - [Intro 영상](https://vimeo.com/240098928/8e8a4b8a7b)
