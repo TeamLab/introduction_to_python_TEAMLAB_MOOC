@@ -76,7 +76,7 @@ get_stock_data | url_address를 Input 변수로 넣으면 구글 서버에 요�
 get_header_data | get_stock_data 함수의 반환 값을 Input 변수로 넣으면 Header Filed에 해당하는 값만 추출하여 list로 반환함
 get_attribute_data | get_stock_data 함수의 Return 값, 추출하고자 하는 Header Field의 이름, 추출하고자 하는 년도, 월을 Input 변수로 입력받으면 Date Field와 해당 조건의 값만 추출하여 list로 반환함
 get_average_value_of_attribute | get_stock_data 함수의 Return 값, 추출하고자 하는 Header Field의 이름, 추출하고자 하는 년도, 월을 Input 변수로 입력받으면 추출된 값의 평균을 계산하여 Float Type으로 반환함
-write_csv_file_by_result | get_stock_data 함수의 반환 값 또는 get_attribute_data 함수의 반환값, 생성하고자 하는 파일 이름을 String Type의 Input 변수로 넣으면, 입력된 List 값이 들어 있는 파일을 생성함
+write_csv_file_by_result | get_stock_data 함수의 반환 값 또는 get_attribute_data 함수의 반환값, 생성하고자 하는 파일 이름을 String Type의 Input 변수로 넣으면, 입력된 List 값이 들어 있는 파일을 생성함, 단 이때 파일 Type은 UTF8로 생성하거나, 입력하지 말 것(CP949로는 제출 불가)
 separate_user_query | 사용자의 입력 값을 `,`을 기준 값으로 list로 변환한 후   반환함, 이때 반드시 각 값들은 앞뒤 빈칸이 제거된 후 list에 할당 되어야 함 ex) 입력예시: SAMSUNG, 2014-12, Open, ALL
 
 
@@ -153,10 +153,10 @@ ALL | SAMSUNG, 2014-12, High, ALL | 조건의 맞는 모든 데이터를 모두 
 MEAN | SAMSUNG, 2014-12, Close, MEAN | 조건의 맞는 모든 데이터를 모두 추출하여 평균을 계산하여 화면에 표시 get_average_value_of_attribute 함수를  사용함
 FILE | SAMSUNG, 2014-12, Open, FILE, test.csv | 조건의 맞는 모든 데이터를 모두 추출한 후 파일로 저장하는 명령어 write_csv_file_by_result 사용함, 유의할점은 FILE을 입력할 경우, test.csv 처럼 파일명을 FILE 다음에 입력해 주어야 함
 
-실제로 작성된 프로그램의 실행화면은 다음과 같다.
-
-
-![Stock Data Crawler 실행화면](https://s3.ap-northeast-2.amazonaws.com/teamlab-gachon/mooc_pic/stock_data_result.png)
+실제로 작성된 프로그램의 실행화면과 생성된 파일의 모습은 다음과 같다. 숙제를 제출할 때는 반드시 utf8 형태로 파일을 생성할 것을 요청드립니다.
+![Stock Data Crawler 실행화면_1](./img/result_shot_1.png)
+![Stock Data Crawler 실행화면_2](./img/result_shot_2.png)
+![Stock Data Crawler 실행화면_3](./img/result_shot_3.png)
 
 
 ###숙제 template 파일 제출하기 (윈도우의 경우)
