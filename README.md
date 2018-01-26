@@ -133,12 +133,11 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Lab: Logging - [강의영상](https://vimeo.com/252092919/1c023b5007), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQgNrfFKCKRbKh_pQ)
 
 ### 14주차: Web Scraping
-- [Intro 영상](https://vimeo.com/240098928/8e8a4b8a7b)
+- [Intro 영상](https://vimeo.com/240098928/8e8a4b8a7b), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQ81Xr7kJWJTm4FhQ), [강의코드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/code/week_14_code.zip)
 - Web 이해하기 - [강의영상](https://vimeo.com/252093658/d3bd179048), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQRedYrLqzEddUxrQ)
 - HTML 데이터 다루기 - [강의영상](https://vimeo.com/252093178/fa68db8b83), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQPgRXwzloGRJa4wA)
-- 정규 표현식: Regular Expression - [강의영상](), [강의자료]()
-- Lab: RegEx - [강의영상](), [강의자료]()
-- Assignment: One More - [강의영상](), [강의자료]()
+- 정규 표현식: Regular Expression - [강의영상](https://vimeo.com/252840554/6c84bab497), [강의자료](https://1drv.ms/f/s!ApZ4mg7k2qYhgZ9ezXezDeAfUoEiYg)
+- Lab: RegEx - [강의영상](https://vimeo.com/252840949/5fff63fd48), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQlBjbm3gxs3fX6BA)
 
 ### 15주차: XML과 JSON (eXtensible Markup Languages and JSON)
 - [Intro 영상](https://vimeo.com/240343098/08852b09f9)
