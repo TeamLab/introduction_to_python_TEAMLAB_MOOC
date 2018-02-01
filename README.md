@@ -141,11 +141,10 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 
 ### 15주차: XML과 JSON (eXtensible Markup Languages and JSON)
 - [Intro 영상](https://vimeo.com/240343098/08852b09f9)
-- XML 이해하기 - [강의영상](), [강의자료]()
-- Lab: XML Parsing- [강의영상](), [강의자료]()
-- JSON 이해하기 - [강의영상](), [강의자료]()
+- XML 이해하기 - [강의영상](https://vimeo.com/253569320/96de24d7e2), [강의자료]()
+- Lab: XML Parsing- [강의영상](https://vimeo.com/253569520/8594a4d15e), [강의자료]()
+- JSON 이해하기 - [강의영상](https://vimeo.com/253569321/9c7295178a), [강의자료]()
 - Lab: JSON Data Analysis - [강의영상](), [강의자료]()
-- Assignment: One More - [강의영상](), [강의자료]()
 - Wrap Up, Pyhton!- [강의영상](), [강의자료]()
 
 ## 참고자료
