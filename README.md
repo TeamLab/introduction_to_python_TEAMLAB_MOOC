@@ -140,13 +140,12 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Lab: RegEx - [강의영상](https://vimeo.com/252840949/5fff63fd48), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQlBjbm3gxs3fX6BA)
 
 ### 15주차: XML과 JSON (eXtensible Markup Languages and JSON)
-- [Intro 영상](https://vimeo.com/240343098/08852b09f9)
-- XML 이해하기 - [강의영상](), [강의자료]()
-- Lab: XML Parsing- [강의영상](), [강의자료]()
-- JSON 이해하기 - [강의영상](), [강의자료]()
-- Lab: JSON Data Analysis - [강의영상](), [강의자료]()
-- Assignment: One More - [강의영상](), [강의자료]()
-- Wrap Up, Pyhton!- [강의영상](), [강의자료]()
+- [Intro 영상](https://vimeo.com/240343098/08852b09f9), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQ4GaYpIf3bHSzl2Q), [강의코드]()
+- XML 이해하기 - [강의영상](https://vimeo.com/253569320/96de24d7e2), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQ4GaYpIf3bHSzl2Q)
+- Lab: XML Parsing- [강의영상](https://vimeo.com/253569520/8594a4d15e), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQ5UhgeM6me6wExFA)
+- JSON 이해하기 - [강의영상](https://vimeo.com/253569321/9c7295178a), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQ6FJlCKuaokcpBWg)
+- Lab: JSON Data Analysis - [강의영상#1](https://vimeo.com/254439263/7c04481f44), [영상#2]()[강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaRDJHwafFMiqmWyfQ)
+- Wrap Up, Pyhton!- [강의영상](https://vimeo.com/254439403/c6e13cd25b), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaREDO563sdo-nAXPw)
 
 ## 참고자료
 - [점프 투 파이썬](https://wikidocs.net/book/1), 박응용 지음 , 2014
