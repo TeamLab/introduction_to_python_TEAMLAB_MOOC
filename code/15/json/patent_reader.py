@@ -14,7 +14,7 @@ file_list = os.listdir(patent_dir)
 patent_info = {}
 
 for patnet_file_name in file_list:
-    full_path = patent_dir + "/" + patnet_file_name
+    full_path = patent_dir + os.sep + patnet_file_name
     if os.path.isfile(full_path):
         with open(full_path, "r") as patent_document_file:
             patent_contents = "".join(patent_document_file.readlines())
