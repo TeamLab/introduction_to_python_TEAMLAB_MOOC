@@ -140,11 +140,11 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Lab: RegEx - [강의영상](https://vimeo.com/252840949/5fff63fd48), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQlBjbm3gxs3fX6BA)
 
 ### 15주차: XML과 JSON (eXtensible Markup Languages and JSON)
-- [Intro 영상](https://vimeo.com/240343098/08852b09f9), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQ4GaYpIf3bHSzl2Q), [강의코드]()
+- [Intro 영상](https://vimeo.com/240343098/08852b09f9), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQ4GaYpIf3bHSzl2Q), [강의코드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/code/week_15_code.zip)
 - XML 이해하기 - [강의영상](https://vimeo.com/253569320/96de24d7e2), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQ4GaYpIf3bHSzl2Q)
 - Lab: XML Parsing- [강의영상](https://vimeo.com/253569520/8594a4d15e), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQ5UhgeM6me6wExFA)
 - JSON 이해하기 - [강의영상](https://vimeo.com/253569321/9c7295178a), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQ6FJlCKuaokcpBWg)
-- Lab: JSON Data Analysis - [강의영상#1](https://vimeo.com/254439263/7c04481f44), [영상#2]()[강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaRDJHwafFMiqmWyfQ)
+- Lab: JSON Data Analysis - [강의영상#1](https://vimeo.com/254439263/7c04481f44), [영상#2](https://vimeo.com/254971682/82ff7bfa0d), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaRDJHwafFMiqmWyfQ)
 - Wrap Up, Pyhton!- [강의영상](https://vimeo.com/254439403/c6e13cd25b), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaREDO563sdo-nAXPw)
 
 ## 참고자료
@@ -153,7 +153,6 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - 하용호, [스타트업 데이터를 어떻게 봐라봐야 할까](http://www.slideshare.net/yongho/ss-32267675) , 2014
 - 최성철, [산업공학과를 위한 프로그래밍 입문 Part 1(w/파이썬)](http://www.slideshare.net/blissray/w-37771905) , 2014
 - 최성철, [산업공학과를 위한 프로그래밍 입문 Part 2(w/파이썬)](http://www.slideshare.net/blissray/w-part-2) , 2014
-- 최성철, [산업공학과를 위한 프로그래밍 입문 Code(w/파이썬)]() , 2014
 
 ## Keywords
 파이썬, python, 파이썬 입문, 파이썬 강좌, Python 입문, 파이썬 강좌, 파이썬 강의, Python 강의, Python MOOC, 가천대 최성철, 최성철 교수, 프로그래밍 입문, 프로그래밍 강좌, 코딩, 코딩 입문, 데이터 과학, 데이터 사이언스, Data science
