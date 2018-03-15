@@ -50,23 +50,22 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Code Assignment: 학점 계산기 (exam_grader) - [강의영상 for Mac & Linux](https://www.youtube.com/watch?v=SYKdeYx75R4&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=21&t=3s), [강의영상 for Windows](https://www.youtube.com/watch?v=SYKdeYx75R4&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I&index=21&t=3s)
 
 ### 4주차: 제어문과 반복문 (Condition & Loop)
-- [Intro 영상](https://vimeo.com/240098624/d93c7fc6ae), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJKxr2f4U_FNVUf7A), [강의코드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/code/week_4_code.zip)
-- Condition - [강의영상](https://vimeo.com/240424287/255504b36c), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaII6uTG0K_7r3slvQ)
-- Lab: 당신은 무슨 학교 다니세요? - [강의영상](https://vimeo.com/240791163/0a63bdf759), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaII6uTG0K_7r3slvQ)
-- Loop - [강의영상](https://vimeo.com/239749324/5146a73f87), [강의자료](https://1drv.ms/f/s!ApZ4mg7k2qYhgZ9ezXezDeAfUoEiYg)
-- Lab: 구구단 계산기 - [강의영상#1](https://vimeo.com/240791221/80b7413f48), [강의영상#2](https://vimeo.com/240791302/c28a62a0e2), [강의영상#3](https://vimeo.com/240791328/334cb4d7aa), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIMz5EISBRlaQ54Qw)
-- Lab: Condition and Loop - [강의영상#1](https://vimeo.com/240791381/9702754a67), [강의영상#2](https://vimeo.com/240791461/c9cf5f66c7), [강의영상#3](https://vimeo.com/240791091/d88b897453), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaITyWtELkNRq-wkWw)
-- How to debug code - [강의영상](https://vimeo.com/240759192/2fd7f830ce), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIgL7iz3E4xULp5ZA)
-- Code Assignment: gowithflow - [강의영상](https://vimeo.com/243877333/ef8179cf61), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_5/lab_5.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_5)
-
+- [Intro 영상](https://www.youtube.com/watch?v=bSegbjOXaKQ&t=0s&index=23&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJKxr2f4U_FNVUf7A), [강의코드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/code/week_4_code.zip)
+- Condition - [강의영상](https://www.youtube.com/watch?v=em-K1ROzIlY&t=0s&index=24&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaII6uTG0K_7r3slvQ)
+- Lab: 당신은 무슨 학교 다니세요? - [강의영상](https://www.youtube.com/watch?v=5u_67I7uclU&t=0s&index=25&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaII6uTG0K_7r3slvQ)
+- Loop - [강의영상](https://www.youtube.com/watch?v=Pnncc3Iee9Q&t=159s&index=26&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/f/s!ApZ4mg7k2qYhgZ9ezXezDeAfUoEiYg)
+- Lab: 구구단 계산기 - [강의영상#1](https://www.youtube.com/watch?v=4ITH7xrSWkI&t=17s&index=27&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의영상#2](https://www.youtube.com/watch?v=1SFgX7yIJzE&t=0s&index=28&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의영상#3](https://www.youtube.com/watch?v=5y-vf0PniYk&t=16s&index=29&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIMz5EISBRlaQ54Qw)
+- Lab: Condition and Loop - [강의영상#1](https://www.youtube.com/watch?v=yNcM03iMJ-w&t=0s&index=30&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의영상#2](https://www.youtube.com/watch?v=KYDgg-HcDD4&t=28s&index=31&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의영상#3](https://www.youtube.com/watch?v=NySFo27eNsA&t=0s&index=32&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaITyWtELkNRq-wkWw)
+- How to debug code - [강의영상](https://www.youtube.com/watch?v=vgBEd_g6eb4&t=26s&index=33&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIgL7iz3E4xULp5ZA)
+- Code Assignment: gowithflow - [강의영상](https://www.youtube.com/watch?v=h6KNJlj3Vwk&t=12s&index=34&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I)
 
 ### 5주차: 함수와 파이썬 코드 작성연습
-- [Intro 영상](https://vimeo.com/240098665/d14f295bd5), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJo28xWEKG_2RBvNg), [강의코드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/code/week_5_code.zip)
-- Function Concept I - [강의영상](https://vimeo.com/240423980/5f520c796f), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIdpgJxshH-WrG-Ww)
-- Function Concept II - [강의영상](https://vimeo.com/240422591/caaeea1bae), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIbqgBNByawPNaM_w)
-- Function arguments - [강의영상](https://vimeo.com/242452110/d5130e515a), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJnmZZsVZHdTh6e0A)
-- 코딩 컨벤션과 함수 작성법 - [강의영상](https://vimeo.com/242453042/cfc8fa726b), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIcFvb7Iw2E-31qiw)
-- Code Assignment: Fahrenheit Converter - [강의영상](https://vimeo.com/242450557/605bcab791) [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_4/lab_4.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/tree/master/lab_assignment/lab_4)
+- [Intro 영상](https://www.youtube.com/watch?v=Zw3AAyJA1So&t=0s&index=35&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJo28xWEKG_2RBvNg), [강의코드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/code/week_5_code.zip)
+- Function Concept I - [강의영상](https://www.youtube.com/watch?v=AThS1aUhwgE&t=0s&index=36&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIdpgJxshH-WrG-Ww)
+- Function Concept II - [강의영상](https://www.youtube.com/watch?v=0ccHFT0-8bg&t=800s&index=37&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIbqgBNByawPNaM_w)
+- Function arguments - [강의영상](https://www.youtube.com/watch?v=OR9mXlEq624&t=0s&index=38&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaJnmZZsVZHdTh6e0A)
+- 코딩 컨벤션과 함수 작성법 - [강의영상](https://www.youtube.com/watch?v=rLcX9pHgOPg&t=0s&index=39&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaIcFvb7Iw2E-31qiw)
+- Code Assignment: Fahrenheit Converter - [강의영상](https://www.youtube.com/watch?v=OkBdkqzY7hw&index=99&list=PLBHVuYlKEkUJcXrgVu-bFx-One095BJ8I)
 
 ### 6주차: 문자열 다루기 (String)
 - Assignment: Factorial calculator - [강의영상](https://vimeo.com/245718703/a41d999f0b), [PDF](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/lab_assignment/lab_6/lab_6.pdf), [강의자료](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/blob/master/lab_assignment/lab_6/READMD.md)
@@ -140,21 +139,12 @@ TEAMLAB MOOC: 데이터 과학을 위한 파이썬 입문
 - Lab: RegEx - [강의영상](https://vimeo.com/252840949/5fff63fd48), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQlBjbm3gxs3fX6BA)
 
 ### 15주차: XML과 JSON (eXtensible Markup Languages and JSON)
-<<<<<<< HEAD
-- [Intro 영상](https://vimeo.com/240343098/08852b09f9)
-- XML 이해하기 - [강의영상](https://vimeo.com/253569320/96de24d7e2), [강의자료]()
-- Lab: XML Parsing- [강의영상](https://vimeo.com/253569520/8594a4d15e), [강의자료]()
-- JSON 이해하기 - [강의영상](https://vimeo.com/253569321/9c7295178a), [강의자료]()
-- Lab: JSON Data Analysis - [강의영상](), [강의자료]()
-- Wrap Up, Pyhton!- [강의영상](), [강의자료]()
-=======
 - [Intro 영상](https://vimeo.com/240343098/08852b09f9), [주차강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQ4GaYpIf3bHSzl2Q), [강의코드](https://github.com/TeamLab/introduction_to_python_TEAMLAB_MOOC/raw/master/code/week_15_code.zip)
 - XML 이해하기 - [강의영상](https://vimeo.com/253569320/96de24d7e2), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQ4GaYpIf3bHSzl2Q)
 - Lab: XML Parsing- [강의영상](https://vimeo.com/253569520/8594a4d15e), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQ5UhgeM6me6wExFA)
 - JSON 이해하기 - [강의영상](https://vimeo.com/253569321/9c7295178a), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaQ6FJlCKuaokcpBWg)
 - Lab: JSON Data Analysis - [강의영상#1](https://vimeo.com/254439263/7c04481f44), [영상#2](https://vimeo.com/254971682/82ff7bfa0d), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaRDJHwafFMiqmWyfQ)
 - Wrap Up, Pyhton!- [강의영상](https://vimeo.com/254439403/c6e13cd25b), [강의자료](https://1drv.ms/b/s!ApZ4mg7k2qYhgaREDO563sdo-nAXPw)
->>>>>>> 772c704cb17d1f69165ec9ca5788e1bc34f577eb
 
 ## 참고자료
 - [점프 투 파이썬](https://wikidocs.net/book/1), 박응용 지음 , 2014
