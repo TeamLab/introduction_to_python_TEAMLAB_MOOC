@@ -1,1 +1,1 @@
-pip install -U backend.ai-client
+pip install -U backend.ai-client==19.03.2

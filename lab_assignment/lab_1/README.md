@@ -9,7 +9,7 @@ TEAMLAB MOOC에서 제공하는 모든 숙제는 TeamLab과 [레블업](http://w
 숙제를 제출하기 앞서, [레블업](http://www.lablup.com/)의 backend.ai를 여러분의 파이썬에 설치하셔야 합니다. 설치하는 과정은 매우 쉽습니다. 아래처럼 터미널 또는 cmd 창에서 입력을 하시면 됩니다.
 
 ```bash
-pip install backend.ai-client
+pip install -U backend.ai-client==19.03.2
 ```
 ## Lab Assignment 진행을 위한 lab_1.zip 다운로드
 첫 번째 할일을 숙제 제출과 숙제 진행을 위해 숙제파일이 압축된 파일을 다운로드하는 것 입니다.
